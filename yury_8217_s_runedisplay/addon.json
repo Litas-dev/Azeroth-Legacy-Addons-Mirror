@@ -1,0 +1,16 @@
+{
+  "title": "Yury&#8217;s RuneDisplay",
+  "description": "Very simple and lightweight addon for display of a Death Knight&#039;s runes (because the default frame is uncontrollable)",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/yury_8217_s_runedisplay/logo.webp",
+  "author": "Yivry",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/yurys-runedisplay/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/yury_8217_s_runedisplay/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/yury_8217_s_runedisplay/3.3.5.zip"
+}

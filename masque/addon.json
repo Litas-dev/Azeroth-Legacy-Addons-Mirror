@@ -1,0 +1,19 @@
+{
+  "title": "Masque",
+  "description": "Masque is an add-on for World of Warcraft that provides a skinning engine for button-based add-ons.",
+  "image": "https://warperia.com/wp-content/uploads/2024/12/addon-logo-3325-675830537b054-300x300.png",
+  "author": "bkader",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/bkader/Masque-WoTLK"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/masque/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/masque/screenshot_1.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/masque/3.3.5.zip"
+}

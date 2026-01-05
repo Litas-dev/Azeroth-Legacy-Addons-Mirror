@@ -1,0 +1,14 @@
+# iGuard
+
+<img src="logo.webp" align="right" width="100">
+
+IGuard will not let you sell things that you told it not too.
+
+## Metadata
+
+- **Author:** Unknown
+- **Source:** [Original Link](https://warperia.com/addon-wotlk/iguard/)
+
+## Supported Versions
+
+- [x] 3.3.5 (WotLK)

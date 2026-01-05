@@ -1,0 +1,16 @@
+{
+  "title": "RuneHUD",
+  "description": "Simple addon that moves the runes of your DK to make them a HUD.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/runehud/logo.webp",
+  "author": "Ereki",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/runehud/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/runehud/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/runehud/3.3.5.zip"
+}

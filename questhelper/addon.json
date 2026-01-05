@@ -1,0 +1,16 @@
+{
+  "title": "QuestHelper",
+  "description": "Calculates an optimal route for you to follow while questing.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/questhelper/logo.png",
+  "author": "Unknown",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/questhelper/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/questhelper/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/questhelper/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/questhelper/3.3.5.zip"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Questie",
+  "description": "A quest helper for World of Warcraft Wrath of the Lich King",
+  "image": "https://warperia.com/wp-content/uploads/2024/12/addon-logo-3303-6758142223529.png",
+  "author": "TheCrux_BB",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/widxwer/Questie"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/questie/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/questie/2.4.3.zip",
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/questie/1.12.1.zip"
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/questie/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/questie/screenshot_2.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/questie/screenshot_3.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/questie/3.3.5.zip"
+}

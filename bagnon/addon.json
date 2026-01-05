@@ -1,0 +1,16 @@
+{
+  "title": "Bagnon",
+  "description": "Single window displays for your inventory, bank, and keys.",
+  "image": "https://warperia.com/wp-content/uploads/2024/11/ww-logo-bagnon-300x241.webp",
+  "author": "jaliborc",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/RichSteini/Bagnon-3.3.5"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bagnon/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bagnon/2.4.3.zip",
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bagnon/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bagnon/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Fish Warden",
+  "description": "Selectively loots your fishing catches.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fish_warden/logo.webp",
+  "author": "Sutorix",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/fish-warden/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fish_warden/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fish_warden/3.3.5.zip"
+}

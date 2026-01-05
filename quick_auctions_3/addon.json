@@ -1,0 +1,16 @@
+{
+  "title": "Quick Auctions 3",
+  "description": "Quick Auctions is an auction tool to help speed up auctioning large quantities of items.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quick_auctions_3/logo.webp",
+  "author": "Shadowed",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/quick-auctions-3/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quick_auctions_3/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quick_auctions_3/3.3.5.zip"
+}

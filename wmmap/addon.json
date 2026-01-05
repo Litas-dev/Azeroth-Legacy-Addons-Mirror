@@ -1,0 +1,16 @@
+{
+  "title": "wMmap",
+  "description": "A lightweight Minimap, with a sleek look &amp; custom imagery.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wmmap/logo.webp",
+  "author": "_ForgeUser2686346",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/wmmap/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wmmap/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wmmap/3.3.5.zip"
+}

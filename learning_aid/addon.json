@@ -1,0 +1,16 @@
+{
+  "title": "Learning Aid",
+  "description": "Displays a bar of spells, abilities, tradeskills, mounts or mini-pets you&#039;ve just learned.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/learning_aid/logo.webp",
+  "author": "Jamash",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/learning-aid/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/learning_aid/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/learning_aid/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/learning_aid/3.3.5.zip"
+}

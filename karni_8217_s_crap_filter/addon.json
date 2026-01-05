@@ -1,0 +1,16 @@
+{
+  "title": "Karni&#8217;s Crap Filter",
+  "description": "A snazzy autolooter with value filtering, item white/blacklisting, and more.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/karni_8217_s_crap_filter/logo.webp",
+  "author": "Karnifex",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/karnis-crap-filter/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/karni_8217_s_crap_filter/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/karni_8217_s_crap_filter/3.3.5.zip"
+}

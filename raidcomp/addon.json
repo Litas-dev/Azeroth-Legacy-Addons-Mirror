@@ -1,0 +1,16 @@
+{
+  "title": "RaidComp",
+  "description": "A helpful tool for every raid leader that will make their lives easier.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/raidcomp/logo.png",
+  "author": "Unknown",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/raidcomp/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/raidcomp/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/raidcomp/3.3.5.zip"
+}

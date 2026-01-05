@@ -1,0 +1,16 @@
+{
+  "title": "A Peon&#8217;s Burden",
+  "description": "Let&#039;s you know when your work is complete!",
+  "image": "https://warperia.com/wp-content/uploads/2025/11/warperia_A-Peons-Burden_logo_2025-11-04_16-01-18.jpg",
+  "author": "_ForgeUser329408",
+  "source": {
+    "type": "github",
+    "url": "http://github.com/ambethia/apeonsburden/tree/master"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/a_peon_8217_s_burden/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/a_peon_8217_s_burden/3.3.5.zip"
+}

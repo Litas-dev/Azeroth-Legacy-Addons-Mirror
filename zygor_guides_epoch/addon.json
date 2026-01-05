@@ -1,0 +1,16 @@
+{
+  "title": "Zygor Guides Epoch",
+  "description": "Zygor Guide Viewer 3.3.5 port to Project Epoch (Vanilla 1-60 leveling)",
+  "image": "https://warperia.com/wp-content/uploads/2025/08/addon-logo-5508-68b21e45a878e-300x156.png",
+  "author": "SimonGaufreteau",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/SimonGaufreteau/ZygorGuidesViewer"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/zygor_guides_epoch/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/zygor_guides_epoch/3.3.5.zip"
+}

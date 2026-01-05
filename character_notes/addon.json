@@ -1,0 +1,16 @@
+{
+  "title": "Character Notes",
+  "description": "Set and manage character notes that are displayed in unit tooltips and /who results.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/character_notes/logo.webp",
+  "author": "Talryn",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/character-notes/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/character_notes/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/character_notes/3.3.5.zip"
+}

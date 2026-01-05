@@ -1,0 +1,19 @@
+{
+  "title": "WoW Epoch Delta Fix",
+  "description": "Corrects comparison stats for equipped gear vs mouseover gear",
+  "image": "https://warperia.com/wp-content/uploads/2025/08/addon-logo-5341-68b21e9bb1fe7.png",
+  "author": "dellmas",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/dellmas/WoW-Epoch-Delta-Fix"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wow_epoch_delta_fix/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wow_epoch_delta_fix/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wow_epoch_delta_fix/3.3.5.zip"
+}

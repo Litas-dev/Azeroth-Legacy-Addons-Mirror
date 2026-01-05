@@ -1,0 +1,16 @@
+{
+  "title": "Ludwig",
+  "description": "Ludwig is an item link database addon that was originally based on GetLink.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ludwig/logo.jpg",
+  "author": "jaliborc",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/ludwig/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ludwig/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ludwig/3.3.5.zip"
+}

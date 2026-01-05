@@ -1,0 +1,16 @@
+{
+  "title": "AdiCastBar",
+  "description": "Light-weight enhanced casting bars",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/adicastbar/logo.webp",
+  "author": "Adirelle",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/adicastbar/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/adicastbar/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/adicastbar/3.3.5.zip"
+}

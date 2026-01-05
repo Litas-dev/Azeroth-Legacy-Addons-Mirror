@@ -1,0 +1,16 @@
+{
+  "title": "Magic Targets 2",
+  "description": "Frames that shows the current targets of the members raid or party.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/magic_targets_2/logo.webp",
+  "author": "neotron",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/magic-targets-2/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/magic_targets_2/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/magic_targets_2/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/magic_targets_2/3.3.5.zip"
+}

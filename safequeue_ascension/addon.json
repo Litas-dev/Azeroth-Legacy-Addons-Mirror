@@ -1,0 +1,16 @@
+{
+  "title": "SafeQueue Ascension",
+  "description": "SafeQueue for Ascension Bronzebeard/Malfurion.",
+  "image": "https://warperia.com/wp-content/themes/warperia-com/assets/img/default-image.jpg",
+  "author": "Exad",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/MCribari/SafeQueue-Ascension"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/safequeue_ascension/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/safequeue_ascension/3.3.5.zip"
+}

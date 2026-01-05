@@ -1,0 +1,16 @@
+{
+  "title": "BagSync",
+  "description": "Tracks the items on your characters and displays the information in collective tooltips.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bagsync/logo.webp",
+  "author": "Xruptor",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/bagsync/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bagsync/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bagsync/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Spell Alerter",
+  "description": "Alerts you whenever your target casts spells.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spell_alerter/logo.jpg",
+  "author": "Unknown",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/spell-alerter/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spell_alerter/3.3.5.zip",
+    "tbc": null,
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spell_alerter/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spell_alerter/3.3.5.zip"
+}

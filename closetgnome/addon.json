@@ -1,0 +1,16 @@
+{
+  "title": "ClosetGnome",
+  "description": "A gnome helper that keeps your wardrobe organized. At least tries to.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/closetgnome/logo.webp",
+  "author": "folknor",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/closetgnome/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/closetgnome/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/closetgnome/3.3.5.zip"
+}

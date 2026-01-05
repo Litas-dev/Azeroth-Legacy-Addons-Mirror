@@ -1,0 +1,16 @@
+{
+  "title": "UnitFrameLayers",
+  "description": "Backport UnitFrame layers texture and animations from retail.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/unitframelayers/logo.png",
+  "author": "RomanSpector",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/unitframelayers/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/unitframelayers/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/unitframelayers/3.3.5.zip"
+}

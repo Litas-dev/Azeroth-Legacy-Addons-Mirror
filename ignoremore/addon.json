@@ -1,0 +1,16 @@
+{
+  "title": "IgnoreMore",
+  "description": "Ignore more than 49 people, autoshared between your alts.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ignoremore/logo.webp",
+  "author": "mikk",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/ignoremore/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ignoremore/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ignoremore/3.3.5.zip"
+}

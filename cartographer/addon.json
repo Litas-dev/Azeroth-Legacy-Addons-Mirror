@@ -1,0 +1,16 @@
+{
+  "title": "Cartographer",
+  "description": "Addon to manipulate the map.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cartographer/logo.webp",
+  "author": "ckknight",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/cartographer/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cartographer/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cartographer/2.4.3.zip",
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cartographer/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cartographer/3.3.5.zip"
+}

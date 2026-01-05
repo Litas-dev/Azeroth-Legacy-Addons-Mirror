@@ -1,0 +1,19 @@
+{
+  "title": "DRTracker",
+  "description": "Diminishing Returns Tracker for Project-Epoch (3.3.5a)",
+  "image": "https://warperia.com/wp-content/uploads/2025/09/addon-logo-9162-68bc69bb0bff4-300x275.png",
+  "author": "RetroUnreal",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/RetroUnreal/DRTracker"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/drtracker/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/drtracker/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/drtracker/3.3.5.zip"
+}

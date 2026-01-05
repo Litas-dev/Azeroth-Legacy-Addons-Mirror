@@ -1,0 +1,16 @@
+{
+  "title": "UberInventory",
+  "description": "UberInventory lets you view your bags, bank and mailbox at all items.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/uberinventory/logo.webp",
+  "author": "Unknown",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/uberinventory/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/uberinventory/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/uberinventory/3.3.5.zip"
+}

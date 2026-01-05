@@ -1,0 +1,16 @@
+{
+  "title": "HalionHelper",
+  "description": "Provides a clearer visual display of the Corporeality buff during phase 3 of the Halion encounter in Ruby Sanctum.",
+  "image": "https://warperia.com/wp-content/uploads/2025/05/addon-logo-4308-682c8da24ba2e-300x176.jpg",
+  "author": "bkader",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/bkader/HalionHelper-WoTLK"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/halionhelper/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/halionhelper/3.3.5.zip"
+}

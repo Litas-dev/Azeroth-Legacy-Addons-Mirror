@@ -1,0 +1,16 @@
+{
+  "title": "Jamba",
+  "description": "Jamba",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/jamba/logo.png",
+  "author": "Blossom_Ebony",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/jamba/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/jamba/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/jamba/3.3.5.zip"
+}

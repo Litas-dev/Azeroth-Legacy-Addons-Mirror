@@ -1,0 +1,16 @@
+{
+  "title": "SpellBlocked",
+  "description": "Adds the name of the reflected spell to floating combat text messages.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spellblocked/logo.webp",
+  "author": "Lombra",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/spellblocked/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spellblocked/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spellblocked/3.3.5.zip"
+}

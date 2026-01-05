@@ -1,0 +1,16 @@
+{
+  "title": "AtlasMajorCities Enhanced",
+  "description": "Major Cities NPC Browser",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/atlasmajorcities_enhanced/logo.webp",
+  "author": "andymon8",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/atlasmajorcities-enhanced/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/atlasmajorcities_enhanced/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/atlasmajorcities_enhanced/3.3.5.zip"
+}

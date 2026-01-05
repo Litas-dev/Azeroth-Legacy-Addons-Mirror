@@ -1,0 +1,16 @@
+{
+  "title": "xanBuffTimers",
+  "description": "A small text based progress bar system for target buffs.",
+  "image": "https://warperia.com/wp-content/uploads/2025/11/warperia_xanBuffTimers_logo_2025-11-04_15-50-09.jpg",
+  "author": "Xruptor",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Xruptor/XanBuffTimers"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/xanbufftimers/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/xanbufftimers/3.3.5.zip"
+}

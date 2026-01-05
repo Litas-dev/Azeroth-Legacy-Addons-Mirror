@@ -1,0 +1,16 @@
+{
+  "title": "Combo Points Redux",
+  "description": "Numerical and graphical display of Combo Point and similar buffs/debuffs.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/combo_points_redux/logo.webp",
+  "author": "Starinnia",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/combo-points-redux/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/combo_points_redux/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/combo_points_redux/3.3.5.zip"
+}

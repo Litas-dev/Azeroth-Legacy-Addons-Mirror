@@ -1,0 +1,16 @@
+{
+  "title": "RollTracker",
+  "description": "Tracks rolls and list them so you can report to guild, party, raid or self.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rolltracker/logo.webp",
+  "author": "Nitearrow01",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/rolltracker/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rolltracker/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rolltracker/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Poisoner3",
+  "description": "Poison application helper for rogues.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/poisoner3/logo.webp",
+  "author": "silentdave",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/poisoner3/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/poisoner3/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/poisoner3/3.3.5.zip"
+}

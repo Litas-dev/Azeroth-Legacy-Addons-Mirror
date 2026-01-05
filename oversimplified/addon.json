@@ -1,0 +1,16 @@
+{
+  "title": "OverSimplified",
+  "description": "Minimizes some UI features for easier use.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/oversimplified/logo.webp",
+  "author": "Suicidal_Katt",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/oversimplified/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/oversimplified/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/oversimplified/3.3.5.zip"
+}

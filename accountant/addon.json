@@ -1,0 +1,16 @@
+{
+  "title": "Accountant",
+  "description": "Logs on how you are spending your gold.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/accountant/logo.webp",
+  "author": "urnati",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/accountant/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/accountant/3.3.5.zip",
+    "tbc": null,
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/accountant/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/accountant/3.3.5.zip"
+}

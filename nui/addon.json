@@ -1,0 +1,16 @@
+{
+  "title": "nUI",
+  "description": "nUI",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/nui/logo.webp",
+  "author": "spiel2001",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/nui/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/nui/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/nui/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/nui/3.3.5.zip"
+}

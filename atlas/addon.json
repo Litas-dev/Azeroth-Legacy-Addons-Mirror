@@ -1,0 +1,20 @@
+{
+  "title": "Atlas",
+  "description": "Addon that includes detailed maps for every instance in the game",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/atlas/logo.png",
+  "author": "arithmandar",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/atlas/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/atlas/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/atlas/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/atlas/screenshot_2.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/atlas/3.3.5.zip"
+}

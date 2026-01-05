@@ -1,0 +1,23 @@
+{
+  "title": "ConsolePortLK",
+  "description": "ConsolePort for World of Warcraft - Wrath of The Lich King",
+  "image": "https://warperia.com/wp-content/uploads/2025/08/addon-logo-5307-68aed764ef47d-300x169.png",
+  "author": "leoaviana",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/leoaviana/ConsolePortLK"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/consoleportlk/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/consoleportlk/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/consoleportlk/screenshot_2.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/consoleportlk/screenshot_3.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/consoleportlk/screenshot_4.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/consoleportlk/screenshot_5.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/consoleportlk/3.3.5.zip"
+}

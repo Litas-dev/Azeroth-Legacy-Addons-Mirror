@@ -1,0 +1,21 @@
+{
+  "title": "Ovale Spell Priority",
+  "description": "Rotation-helper addon that shows you what spell or ability you should use in order to maximize your damage",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ovale_spell_priority/logo.jpg",
+  "author": "Coriot",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/ovale-spell-priority/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ovale_spell_priority/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ovale_spell_priority/2.4.3.zip",
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ovale_spell_priority/screenshot_1.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ovale_spell_priority/screenshot_2.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ovale_spell_priority/screenshot_3.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ovale_spell_priority/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Decursive",
+  "description": "Afflictions display and cleaning for solo, group and raids with advanced filtering.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/decursive/logo.webp",
+  "author": "archarodim",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/decursive/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/decursive/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/decursive/2.4.3.zip",
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/decursive/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/decursive/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Pawn",
+  "description": "Pawn calculates scores for items and tells you which one is better for your spec.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pawn/logo.webp",
+  "author": "VgerAN",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/pawn/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pawn/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pawn/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pawn/3.3.5.zip"
+}

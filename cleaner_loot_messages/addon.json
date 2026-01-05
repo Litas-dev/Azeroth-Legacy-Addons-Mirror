@@ -1,0 +1,16 @@
+{
+  "title": "Cleaner Loot Messages",
+  "description": "Smaller, simplier and lighter loot messages",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cleaner_loot_messages/logo.png",
+  "author": "LuttmaN",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/cleaner-loot-messages/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cleaner_loot_messages/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cleaner_loot_messages/3.3.5.zip"
+}

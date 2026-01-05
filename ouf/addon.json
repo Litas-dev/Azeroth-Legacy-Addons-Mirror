@@ -1,0 +1,16 @@
+{
+  "title": "oUF",
+  "description": "Unit frame framework. Does nothing by itself.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ouf/logo.webp",
+  "author": "haste",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/ouf/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ouf/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ouf/3.3.5.zip"
+}

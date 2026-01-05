@@ -1,0 +1,19 @@
+{
+  "title": "Pretty Nameplates",
+  "description": "A lightweight addon that completely replaces the standard nameplates",
+  "image": "https://warperia.com/wp-content/uploads/2025/12/addon-logo-20383-69485fc221a52-269x300.webp",
+  "author": "HioShan",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/HioShan/Pretty-Nameplates"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pretty_nameplates/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pretty_nameplates/screenshot_1.webp"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pretty_nameplates/3.3.5.zip"
+}

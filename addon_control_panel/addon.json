@@ -1,0 +1,16 @@
+{
+  "title": "Addon Control Panel",
+  "description": "It allows you to manage your addons in game.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/addon_control_panel/logo.webp",
+  "author": "lucifercatnip",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/addon-control-panel/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/addon_control_panel/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/addon_control_panel/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/addon_control_panel/3.3.5.zip"
+}

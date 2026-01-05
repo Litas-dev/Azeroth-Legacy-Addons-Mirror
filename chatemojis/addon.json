@@ -1,0 +1,23 @@
+{
+  "title": "ChatEmojis",
+  "description": "Standalone Chat Emoji addon for 3.3.5",
+  "image": "https://warperia.com/wp-content/uploads/2025/09/addon-logo-5639-68b6a7db1ed14-229x300.png",
+  "author": "Bennylavaa",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Bennylavaa/ChatEmojis"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chatemojis/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chatemojis/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chatemojis/screenshot_2.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chatemojis/screenshot_3.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chatemojis/screenshot_4.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chatemojis/screenshot_5.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chatemojis/3.3.5.zip"
+}

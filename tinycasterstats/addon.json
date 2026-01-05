@@ -1,0 +1,16 @@
+{
+  "title": "TinyCasterStats",
+  "description": "Shows your current caster stats (spellpower, critchance, haste, hit, mp5). By TheVaan",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tinycasterstats/logo.webp",
+  "author": "TheVaan_",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/tinycasterstats/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tinycasterstats/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tinycasterstats/3.3.5.zip"
+}

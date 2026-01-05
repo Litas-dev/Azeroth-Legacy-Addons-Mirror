@@ -1,0 +1,16 @@
+{
+  "title": "DeusVoxEncounters",
+  "description": "Deus Vox Encounters (DXE) is a boss and PVP mod inspired by RDX.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/deusvoxencounters/logo.webp",
+  "author": "Unknown",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/deusvoxencounters/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/deusvoxencounters/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/deusvoxencounters/3.3.5.zip"
+}

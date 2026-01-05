@@ -1,0 +1,16 @@
+{
+  "title": "FixGroups",
+  "description": "Automatically set up groups in raids.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fixgroups/logo.webp",
+  "author": "bencvt",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/fixgroups/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fixgroups/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fixgroups/3.3.5.zip"
+}

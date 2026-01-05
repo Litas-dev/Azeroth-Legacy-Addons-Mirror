@@ -1,0 +1,16 @@
+{
+  "title": "SnowfallKeyPress",
+  "description": "Modify key bindings to work on key press rather than key release.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/snowfallkeypress/logo.webp",
+  "author": "Dayn",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/snowfallkeypress/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/snowfallkeypress/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/snowfallkeypress/3.3.5.zip"
+}

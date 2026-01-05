@@ -1,0 +1,16 @@
+{
+  "title": "Dhask’s FlightMap",
+  "description": "Adds a tooltip to the world map showing flightpaths into and out of regions.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dhask_s_flightmap/logo.jpg",
+  "author": "Dhask",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/dhasks-flightmap/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dhask_s_flightmap/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dhask_s_flightmap/3.3.5.zip"
+}

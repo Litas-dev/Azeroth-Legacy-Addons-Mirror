@@ -1,0 +1,16 @@
+{
+  "title": "Simple Raid Target Icons",
+  "description": "Simple Raid Target Icons",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/simple_raid_target_icons/logo.jpg",
+  "author": "MrFIXlT",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/simple-raid-target-icons/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/simple_raid_target_icons/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/simple_raid_target_icons/3.3.5.zip"
+}

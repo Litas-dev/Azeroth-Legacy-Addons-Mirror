@@ -1,0 +1,16 @@
+{
+  "title": "Mage Fever",
+  "description": "Dynamic tracking of buffs, debuffs, and procs specific to a Mage.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mage_fever/logo.webp",
+  "author": "KCmilam",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/mage-fever/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mage_fever/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mage_fever/3.3.5.zip"
+}

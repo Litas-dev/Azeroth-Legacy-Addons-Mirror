@@ -1,0 +1,16 @@
+{
+  "title": "All You Can Eat",
+  "description": "Details about foods, beverages, elixirs, potions, bandages and flasks.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/all_you_can_eat/logo.webp",
+  "author": "Unknown",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/all-you-can-eat/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/all_you_can_eat/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/all_you_can_eat/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "ShockAndAwe",
+  "description": "Enhance Shaman timer information for Shields, Shocks, Windfury, Stormstrike &amp; Maelstrom.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/shockandawe/logo.webp",
+  "author": "Pericles",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/shockandawe/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/shockandawe/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/shockandawe/3.3.5.zip"
+}

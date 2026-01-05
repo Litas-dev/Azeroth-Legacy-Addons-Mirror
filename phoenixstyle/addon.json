@@ -1,0 +1,16 @@
+{
+  "title": "PhoenixStyle",
+  "description": "Tracks raid fails, and other useful information on boss fights.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/phoenixstyle/logo.webp",
+  "author": "shurshik",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/phoenixstyle/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/phoenixstyle/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/phoenixstyle/3.3.5.zip"
+}

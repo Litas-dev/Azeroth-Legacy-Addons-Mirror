@@ -1,0 +1,16 @@
+{
+  "title": "HideMuteErrors",
+  "description": "A simple World of Warcraft addon for 3.3.5 client (WotLK) that hides the red UI error text",
+  "image": "https://warperia.com/wp-content/themes/warperia-com/assets/img/default-image.jpg",
+  "author": "thierbig",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/thierbig/HideMuteErrors"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/hidemuteerrors/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/hidemuteerrors/3.3.5.zip"
+}

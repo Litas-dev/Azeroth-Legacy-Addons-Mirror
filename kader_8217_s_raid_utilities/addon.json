@@ -1,0 +1,24 @@
+{
+  "title": "Kader&#8217;s Raid Utilities",
+  "description": "Raid Menu, Loot Method, Auto Invites, Paladin Auras, Healers Mana, Sunder Armor, Raid Cooldowns and Combat Timer",
+  "image": "https://warperia.com/wp-content/uploads/2024/12/addon-logo-3657-6761bacb75ce2-300x300.png",
+  "author": "bkader",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/bkader/KRU-WoTLK"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/kader_8217_s_raid_utilities/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/kader_8217_s_raid_utilities/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/kader_8217_s_raid_utilities/screenshot_2.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/kader_8217_s_raid_utilities/screenshot_3.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/kader_8217_s_raid_utilities/screenshot_4.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/kader_8217_s_raid_utilities/screenshot_5.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/kader_8217_s_raid_utilities/screenshot_6.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/kader_8217_s_raid_utilities/3.3.5.zip"
+}

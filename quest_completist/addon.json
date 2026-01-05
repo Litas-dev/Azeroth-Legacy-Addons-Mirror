@@ -1,0 +1,16 @@
+{
+  "title": "Quest Completist",
+  "description": "Enables you to see what quests you have completed, and what ones you have left to do.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quest_completist/logo.jpg",
+  "author": "AlistairJM",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/quest-completist/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quest_completist/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quest_completist/3.3.5.zip"
+}

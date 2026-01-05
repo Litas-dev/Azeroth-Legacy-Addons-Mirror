@@ -1,0 +1,16 @@
+{
+  "title": "AutoGratzer",
+  "description": "Autograts to relevant chat on achievement.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/autogratzer/logo.webp",
+  "author": "Jinivus",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/autogratzer/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/autogratzer/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/autogratzer/3.3.5.zip"
+}

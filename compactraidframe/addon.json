@@ -1,0 +1,20 @@
+{
+  "title": "CompactRaidFrame",
+  "description": "Compact frames for your raid.",
+  "image": "https://warperia.com/wp-content/uploads/2024/11/ww-logo-compactraidframe-300x214.webp",
+  "author": "Tsoukie",
+  "source": {
+    "type": "website",
+    "url": "https://gitlab.com/Tsoukie/compactraidframe-3.3.5"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/compactraidframe/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/compactraidframe/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/compactraidframe/screenshot_2.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/compactraidframe/3.3.5.zip"
+}

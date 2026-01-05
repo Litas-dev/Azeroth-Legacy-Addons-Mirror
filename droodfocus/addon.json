@@ -1,0 +1,16 @@
+{
+  "title": "DroodFocus",
+  "description": "DroodFocus adds a window with all the info that a feral druid must have.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/droodfocus/logo.jpg",
+  "author": "jk_baller23",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/droodfocus/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/droodfocus/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/droodfocus/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/droodfocus/3.3.5.zip"
+}

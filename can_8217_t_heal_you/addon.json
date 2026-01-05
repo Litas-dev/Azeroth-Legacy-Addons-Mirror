@@ -1,0 +1,16 @@
+{
+  "title": "Can&#8217;t Heal You",
+  "description": "Attempts to detect when someone is out of line of sight or range of a heal and whisper them.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/can_8217_t_heal_you/logo.webp",
+  "author": "Unknown",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/cant-heal-you/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/can_8217_t_heal_you/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/can_8217_t_heal_you/3.3.5.zip"
+}

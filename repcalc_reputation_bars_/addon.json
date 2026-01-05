@@ -1,0 +1,16 @@
+{
+  "title": "RepCalc (Reputation Bars)",
+  "description": "Reputation Calculator",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/repcalc_reputation_bars_/logo.webp",
+  "author": "dist_",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/repcalc-reputation-bars/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/repcalc_reputation_bars_/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/repcalc_reputation_bars_/3.3.5.zip"
+}

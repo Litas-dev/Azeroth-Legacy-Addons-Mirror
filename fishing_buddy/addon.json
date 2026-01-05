@@ -1,0 +1,16 @@
+{
+  "title": "Fishing Buddy",
+  "description": "Help with fishing related tasks -- clothing, fish information, etc.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fishing_buddy/logo.png",
+  "author": "Sutorix",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/fishing-buddy/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fishing_buddy/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fishing_buddy/2.4.3.zip",
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fishing_buddy/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fishing_buddy/3.3.5.zip"
+}

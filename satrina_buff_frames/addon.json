@@ -1,0 +1,16 @@
+{
+  "title": "Satrina Buff Frames",
+  "description": "A replacement for the UI buff frame.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/satrina_buff_frames/logo.jpg",
+  "author": "Satrina",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/satrina-buff-frames/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/satrina_buff_frames/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/satrina_buff_frames/3.3.5.zip"
+}

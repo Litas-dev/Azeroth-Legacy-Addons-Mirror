@@ -1,0 +1,16 @@
+{
+  "title": "Analyst",
+  "description": "Collects, analyzes and presents information about the virtual economy.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/analyst/logo.webp",
+  "author": "BethinkWoW",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/analyst/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/analyst/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/analyst/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/analyst/3.3.5.zip"
+}

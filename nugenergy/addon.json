@@ -1,0 +1,16 @@
+{
+  "title": "NugEnergy",
+  "description": "Rage and energy monitor",
+  "image": "https://warperia.com/wp-content/uploads/2024/12/addon-logo-3368-675ac6b24c615-300x223.png",
+  "author": "Carnivohra",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Carnivohra/NugEnergy3.3.5a"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/nugenergy/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/nugenergy/3.3.5.zip"
+}

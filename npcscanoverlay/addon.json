@@ -1,0 +1,16 @@
+{
+  "title": "NPCScanOverlay",
+  "description": "Adds mob patrol paths to your map.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/npcscanoverlay/logo.webp",
+  "author": "Torhal",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/npcscanoverlay/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/npcscanoverlay/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/npcscanoverlay/3.3.5.zip"
+}

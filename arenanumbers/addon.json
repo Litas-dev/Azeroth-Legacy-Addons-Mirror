@@ -1,0 +1,16 @@
+{
+  "title": "ArenaNumbers",
+  "description": "Shows arena player numbers above their nameplates",
+  "image": "https://warperia.com/wp-content/uploads/2025/10/addon-logo-14175-68f947e8e2766-300x180.png",
+  "author": "Poli93",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Poli93/ArenaNumbers"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/arenanumbers/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/arenanumbers/3.3.5.zip"
+}

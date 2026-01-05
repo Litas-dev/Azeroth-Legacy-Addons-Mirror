@@ -1,0 +1,16 @@
+{
+  "title": "Frames",
+  "description": "Simple addon to change the look of your unit frames.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/frames/logo.webp",
+  "author": "Workout",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/frames/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/frames/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/frames/3.3.5.zip"
+}

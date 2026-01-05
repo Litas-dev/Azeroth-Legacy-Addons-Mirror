@@ -1,0 +1,16 @@
+{
+  "title": "ProfessionCapper",
+  "description": "Shows you how to level up your trade skills in the fastest way.",
+  "image": "https://warperia.com/wp-content/uploads/2024/11/ww-logo-professioncapper-300x169.webp",
+  "author": "SamuelLira99",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/SamuelLira99/Profession-Capper#professions-current-status"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/professioncapper/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/professioncapper/3.3.5.zip"
+}

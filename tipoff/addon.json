@@ -1,0 +1,19 @@
+{
+  "title": "TipOff",
+  "description": "Detailed information in tooltips about where and what any item in the game is used for",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tipoff/logo.webp",
+  "author": "Dalthror-x1",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/tipoff/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tipoff/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tipoff/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tipoff/3.3.5.zip"
+}

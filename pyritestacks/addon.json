@@ -1,0 +1,16 @@
+{
+  "title": "PyriteStacks",
+  "description": "Shows a frame to track your Pyrite debuff on Flame Leviathan and it&#039;s trash. Completely based on MalygosStacks by Nebula.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pyritestacks/logo.webp",
+  "author": "ElectronicPunk",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/pyritestacks/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pyritestacks/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pyritestacks/3.3.5.zip"
+}

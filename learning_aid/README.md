@@ -1,0 +1,15 @@
+# Learning Aid
+
+<img src="logo.webp" align="right" width="100">
+
+Displays a bar of spells, abilities, tradeskills, mounts or mini-pets you&#039;ve just learned.
+
+## Metadata
+
+- **Author:** Jamash
+- **Source:** [Original Link](https://warperia.com/addon-wotlk/learning-aid/)
+
+## Supported Versions
+
+- [x] 3.3.5 (WotLK)
+- [x] 2.4.3 (TBC)

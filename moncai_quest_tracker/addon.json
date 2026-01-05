@@ -1,0 +1,16 @@
+{
+  "title": "Moncai Quest Tracker",
+  "description": "Improved Quest Tracker",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/moncai_quest_tracker/logo.webp",
+  "author": "Forge_User_39331286",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/moncai-quest-tracker/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/moncai_quest_tracker/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/moncai_quest_tracker/3.3.5.zip"
+}

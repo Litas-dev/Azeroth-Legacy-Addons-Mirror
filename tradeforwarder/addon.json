@@ -1,0 +1,16 @@
+{
+  "title": "TradeForwarder",
+  "description": "Receive Trade channel messages wherever you are!!",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tradeforwarder/logo.webp",
+  "author": "warbabyy",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/tradeforwarder/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tradeforwarder/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tradeforwarder/3.3.5.zip"
+}

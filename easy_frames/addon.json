@@ -1,0 +1,19 @@
+{
+  "title": "Easy Frames",
+  "description": "Make your unit frames colored and glorious",
+  "image": "https://warperia.com/wp-content/uploads/2024/12/addon-logo-3336-6758844b806eb-300x188.jpg",
+  "author": "Macumbafeh",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Macumbafeh/EasyFrames_wotlk"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/easy_frames/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/easy_frames/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/easy_frames/3.3.5.zip"
+}

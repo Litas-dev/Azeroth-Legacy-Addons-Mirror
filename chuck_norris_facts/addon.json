@@ -1,0 +1,16 @@
+{
+  "title": "Chuck Norris Facts",
+  "description": "Generates and posts random Chuck Norris facts to a specified chat medium.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chuck_norris_facts/logo.jpg",
+  "author": "Ackis",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/chuck-norris-facts/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chuck_norris_facts/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chuck_norris_facts/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chuck_norris_facts/3.3.5.zip"
+}

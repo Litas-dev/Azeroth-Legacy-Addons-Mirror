@@ -1,0 +1,16 @@
+{
+  "title": "HealBot",
+  "description": "Adds a panel with skinable bars for healing, decursive and more.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/healbot/logo.webp",
+  "author": "StrifeCUK",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/healbot/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/healbot/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/healbot/2.4.3.zip",
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/healbot/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/healbot/3.3.5.zip"
+}

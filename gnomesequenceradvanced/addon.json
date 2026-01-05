@@ -1,0 +1,16 @@
+{
+  "title": "GnomeSequencerAdvanced",
+  "description": "Allows you to execute a sequence of macros without stopping on unusable spells.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gnomesequenceradvanced/logo.png",
+  "author": "TheTimothyLuke",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/gnomesequenceradvanced/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gnomesequenceradvanced/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gnomesequenceradvanced/3.3.5.zip"
+}

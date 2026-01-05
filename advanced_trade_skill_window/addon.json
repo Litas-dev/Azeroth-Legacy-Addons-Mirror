@@ -1,0 +1,16 @@
+{
+  "title": "Advanced Trade Skill Window",
+  "description": "An improved window for your tradeskills.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/advanced_trade_skill_window/logo.webp",
+  "author": "Slarti",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/advanced-trade-skill-window/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/advanced_trade_skill_window/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/advanced_trade_skill_window/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/advanced_trade_skill_window/3.3.5.zip"
+}

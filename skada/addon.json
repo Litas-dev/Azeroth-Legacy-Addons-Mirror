@@ -1,0 +1,16 @@
+{
+  "title": "Skada",
+  "description": "Skada is a modular damage meter.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/skada/logo.webp",
+  "author": "zarnivoop",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/skada/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/skada/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/skada/3.3.5.zip"
+}

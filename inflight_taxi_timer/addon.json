@@ -1,0 +1,16 @@
+{
+  "title": "InFlight Taxi Timer",
+  "description": "Status bar timer for your flight paths",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/inflight_taxi_timer/logo.webp",
+  "author": "LudiusMaximus",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/inflight-taxi-timer/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/inflight_taxi_timer/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/inflight_taxi_timer/3.3.5.zip"
+}

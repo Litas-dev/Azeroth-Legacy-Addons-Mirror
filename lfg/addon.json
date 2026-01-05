@@ -1,0 +1,24 @@
+{
+  "title": "LFG",
+  "description": "Looking For Group - LFG Addon for Project Epoch",
+  "image": "https://warperia.com/wp-content/uploads/2025/08/addon-logo-5242-68acb55d28306.png",
+  "author": "Bennylavaa",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Bennylavaa/LFG"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lfg/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lfg/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lfg/screenshot_2.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lfg/screenshot_3.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lfg/screenshot_4.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lfg/screenshot_5.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lfg/screenshot_6.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lfg/3.3.5.zip"
+}

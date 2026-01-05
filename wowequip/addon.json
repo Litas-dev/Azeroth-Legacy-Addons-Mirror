@@ -1,0 +1,16 @@
+{
+  "title": "WoWEquip",
+  "description": "Try on different gear and see their total stats and their differences. In short, an ingame CT-Profiles-like addon.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wowequip/logo.webp",
+  "author": "Xinhuan",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/wowequip/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wowequip/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wowequip/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wowequip/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "FlightHUD",
+  "description": "Display an informational fighter jet style HUD while flying or riding",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/flighthud/logo.webp",
+  "author": "Barfolomeu",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/flighthud/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/flighthud/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/flighthud/3.3.5.zip"
+}

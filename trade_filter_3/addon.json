@@ -1,0 +1,16 @@
+{
+  "title": "Trade Filter 3",
+  "description": "A Simple World of Warcraft Spam Filter!",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/trade_filter_3/logo.webp",
+  "author": "evonder",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/trade-filter-3/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/trade_filter_3/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/trade_filter_3/3.3.5.zip"
+}

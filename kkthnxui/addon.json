@@ -1,0 +1,16 @@
+{
+  "title": "KkthnxUI",
+  "description": "KkthnxUI is a simplistic user interface addon.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/kkthnxui/logo.webp",
+  "author": "Mr_Rosh",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/kkthnxui/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/kkthnxui/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/kkthnxui/3.3.5.zip"
+}

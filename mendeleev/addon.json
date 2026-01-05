@@ -1,0 +1,16 @@
+{
+  "title": "Mendeleev",
+  "description": "Adds various information based on PeriodicTable to item tooltips.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mendeleev/logo.webp",
+  "author": "Rabbit",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/mendeleev/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mendeleev/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mendeleev/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mendeleev/3.3.5.zip"
+}

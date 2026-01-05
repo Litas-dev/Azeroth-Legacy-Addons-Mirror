@@ -1,0 +1,16 @@
+{
+  "title": "CooldownCount",
+  "description": "Display Cooldown Count of Spell Icon and Item",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cooldowncount/logo.webp",
+  "author": "dakikifr",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/cooldowncount/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cooldowncount/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cooldowncount/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cooldowncount/3.3.5.zip"
+}

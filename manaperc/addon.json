@@ -1,0 +1,16 @@
+{
+  "title": "ManaPerc",
+  "description": "Shows mana usage as a percentage in a spells tooltip.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/manaperc/logo.webp",
+  "author": "polyhydride",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/manaperc/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/manaperc/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/manaperc/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/manaperc/3.3.5.zip"
+}

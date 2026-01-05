@@ -1,0 +1,16 @@
+{
+  "title": "oRA2",
+  "description": "oRA2 is a lightweight CTRA replacement.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ora2/logo.webp",
+  "author": "Ammo",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/ora2/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ora2/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ora2/3.3.5.zip"
+}

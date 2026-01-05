@@ -1,0 +1,19 @@
+{
+  "title": "GroupBulletinBoard-Epoch",
+  "description": "A World of Warcraft addon to show a bulletin board for LFG/LFM messages in TBC content or earlier.",
+  "image": "https://warperia.com/wp-content/uploads/2025/08/addon-logo-5284-68ad715657dad-300x189.jpg",
+  "author": "sogladev",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/sogladev/GroupBulletinBoard-epoch"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/groupbulletinboard_epoch/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/groupbulletinboard_epoch/screenshot_1.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/groupbulletinboard_epoch/3.3.5.zip"
+}

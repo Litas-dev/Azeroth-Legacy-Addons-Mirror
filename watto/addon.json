@@ -1,0 +1,16 @@
+{
+  "title": "Watto",
+  "description": "Sell &amp; Purchase lots of items all at once.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/watto/logo.webp",
+  "author": "Kjasi",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/watto/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/watto/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/watto/3.3.5.zip"
+}

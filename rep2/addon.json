@@ -1,0 +1,16 @@
+{
+  "title": "Rep2",
+  "description": "Rep2 displays a message, which shows how much reputation you gained, and how much is needed until the next standing.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rep2/logo.png",
+  "author": "KirinLite",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/rep2/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rep2/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rep2/3.3.5.zip"
+}

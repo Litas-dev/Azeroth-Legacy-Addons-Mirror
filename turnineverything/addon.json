@@ -1,0 +1,16 @@
+{
+  "title": "TurnInEverything",
+  "description": "TurnInEverything automatically turns in all completed quests, pasting any progress and reward text into the chat window.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/turnineverything/logo.png",
+  "author": "_ForgeUser1286272",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/turnineverything/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/turnineverything/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/turnineverything/3.3.5.zip"
+}

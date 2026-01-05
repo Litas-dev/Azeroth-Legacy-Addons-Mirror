@@ -1,0 +1,16 @@
+{
+  "title": "Range Display",
+  "description": "Estimated range display.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/range_display/logo.jpg",
+  "author": "mitch0",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/range-display/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/range_display/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/range_display/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/range_display/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "LFG Group Bulletin Board",
+  "description": "Addon to show a bulletin board for LFG/LFM messages",
+  "image": "https://warperia.com/wp-content/uploads/2025/07/addon-logo-4498-68648115672fb.jpeg",
+  "author": "Vysci",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/fondlez/GroupBulletinBoard"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lfg_group_bulletin_board/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lfg_group_bulletin_board/3.3.5.zip"
+}

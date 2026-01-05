@@ -1,0 +1,16 @@
+{
+  "title": "xMerchant",
+  "description": "xMerchant improves the Vendor-Interface into an easy and clearly arranged scrollable list.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/xmerchant/logo.webp",
+  "author": "Shantalya",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/xmerchant/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/xmerchant/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/xmerchant/3.3.5.zip"
+}

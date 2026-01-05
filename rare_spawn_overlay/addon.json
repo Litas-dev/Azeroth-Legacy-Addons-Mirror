@@ -1,0 +1,16 @@
+{
+  "title": "Rare Spawn Overlay",
+  "description": "World Map Overlay for rare NPC&#039;s.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rare_spawn_overlay/logo.jpg",
+  "author": "keithgabryelski",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/rare-spawn-overlay/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rare_spawn_overlay/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rare_spawn_overlay/3.3.5.zip"
+}

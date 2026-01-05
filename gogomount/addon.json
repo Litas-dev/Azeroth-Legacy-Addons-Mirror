@@ -1,0 +1,16 @@
+{
+  "title": "GoGoMount",
+  "description": "One-key solution for mounting/dismounting, supports spells, shapeshifting.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gogomount/logo.jpg",
+  "author": "tiker",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/gogomount/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gogomount/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gogomount/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gogomount/3.3.5.zip"
+}

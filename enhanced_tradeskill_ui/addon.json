@@ -1,0 +1,16 @@
+{
+  "title": "Enhanced TradeSkill UI",
+  "description": "Shows more recipes in the profession window.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/enhanced_tradeskill_ui/logo.webp",
+  "author": "Unknown",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/enhanced-tradeskill-ui/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/enhanced_tradeskill_ui/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/enhanced_tradeskill_ui/3.3.5.zip"
+}

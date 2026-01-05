@@ -1,0 +1,16 @@
+{
+  "title": "DPSMate",
+  "description": "DPSMate is an advanced combat analyzation tool.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dpsmate/logo.webp",
+  "author": "Shino",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/dpsmate/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dpsmate/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dpsmate/2.4.3.zip",
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dpsmate/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dpsmate/3.3.5.zip"
+}

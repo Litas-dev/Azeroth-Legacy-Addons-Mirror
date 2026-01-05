@@ -1,0 +1,16 @@
+{
+  "title": "BunchOfBars",
+  "description": "Modular and lightweight party/raid frames.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bunchofbars/logo.webp",
+  "author": "erikdubbelboer",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/bunchofbars/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bunchofbars/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bunchofbars/3.3.5.zip"
+}

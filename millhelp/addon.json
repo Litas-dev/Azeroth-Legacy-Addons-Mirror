@@ -1,0 +1,16 @@
+{
+  "title": "MillHelp",
+  "description": "Add a line to herb tooltips that shows what pigment they produce.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/millhelp/logo.webp",
+  "author": "Starinnia",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/millhelp/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/millhelp/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/millhelp/3.3.5.zip"
+}

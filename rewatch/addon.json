@@ -1,0 +1,16 @@
+{
+  "title": "Rewatch",
+  "description": "Track your HOTS like a BOSS",
+  "image": "https://warperia.com/wp-content/uploads/2025/11/warperia_Rewatch_logo_2025-11-04_15-36-36.png",
+  "author": "coenvdwel",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/coenvdwel/rewatch"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rewatch/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rewatch/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rewatch/3.3.5.zip"
+}

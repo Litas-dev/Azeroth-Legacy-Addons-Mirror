@@ -1,0 +1,16 @@
+{
+  "title": "KickAlert",
+  "description": "Warn when it is your turn in a kick or other rotation.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/kickalert/logo.webp",
+  "author": "Honesty",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/kickalert/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/kickalert/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/kickalert/3.3.5.zip"
+}

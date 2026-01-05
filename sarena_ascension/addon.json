@@ -1,0 +1,21 @@
+{
+  "title": "sArena Ascension",
+  "description": "sArena for Ascension Bronzebeard/Malfurion.",
+  "image": "https://warperia.com/wp-content/uploads/2025/10/addon-logo-14221-69042dc94285a-300x300.png",
+  "author": "Exad",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/MCribari/sArena-Ascension"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sarena_ascension/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sarena_ascension/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sarena_ascension/screenshot_2.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sarena_ascension/screenshot_3.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sarena_ascension/3.3.5.zip"
+}

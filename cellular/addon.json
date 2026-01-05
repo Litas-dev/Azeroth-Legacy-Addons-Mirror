@@ -1,0 +1,16 @@
+{
+  "title": "Cellular",
+  "description": "Instant messenger for whispers.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cellular/logo.webp",
+  "author": "totalpackage",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/cellular/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cellular/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cellular/3.3.5.zip"
+}

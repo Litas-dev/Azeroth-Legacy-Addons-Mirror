@@ -1,0 +1,16 @@
+{
+  "title": "Bartender 4",
+  "description": "Bartender 4 is a full ActionBar replacement mod.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bartender_4/logo.webp",
+  "author": "Nevcairiel",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/bartender-4/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bartender_4/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bartender_4/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bartender_4/3.3.5.zip"
+}

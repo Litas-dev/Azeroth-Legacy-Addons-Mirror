@@ -1,0 +1,16 @@
+{
+  "title": "Healium",
+  "description": "A healing user-interface addon that provides up to 15 customizable buttons.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/healium/logo.jpg",
+  "author": "Engy99k",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/healium/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/healium/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/healium/3.3.5.zip"
+}

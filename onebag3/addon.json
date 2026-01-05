@@ -1,0 +1,16 @@
+{
+  "title": "OneBag3",
+  "description": "OneBag is a replacement for the default game bags that combines all the bags into one frame.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/onebag3/logo.webp",
+  "author": "Kaelten",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/onebag3/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/onebag3/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/onebag3/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/onebag3/3.3.5.zip"
+}

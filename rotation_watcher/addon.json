@@ -1,0 +1,16 @@
+{
+  "title": "Rotation Watcher",
+  "description": "Rotation helper with timeline display.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rotation_watcher/logo.png",
+  "author": "mpstark",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/rotation-watcher/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rotation_watcher/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rotation_watcher/3.3.5.zip"
+}

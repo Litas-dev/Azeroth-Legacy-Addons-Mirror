@@ -1,0 +1,16 @@
+{
+  "title": "Mizus RaidTracker",
+  "description": "Tracks raid, loot and attendance",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mizus_raidtracker/logo.webp",
+  "author": "Shadnix",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/mizus-raidtracker/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mizus_raidtracker/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mizus_raidtracker/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "DungeonStatus",
+  "description": "Displays the looking for dungeon queue status",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dungeonstatus/logo.webp",
+  "author": "Lintydruid",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/dungeonstatus/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dungeonstatus/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dungeonstatus/3.3.5.zip"
+}

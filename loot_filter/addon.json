@@ -1,0 +1,16 @@
+{
+  "title": "Loot Filter",
+  "description": "Filter items you get from looting.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/loot_filter/logo.jpg",
+  "author": "Meter",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/loot-filter/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/loot_filter/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/loot_filter/3.3.5.zip"
+}

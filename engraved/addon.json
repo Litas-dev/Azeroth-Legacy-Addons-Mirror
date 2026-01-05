@@ -1,0 +1,16 @@
+{
+  "title": "Engraved",
+  "description": "Monitors Death Knight runes.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/engraved/logo.webp",
+  "author": "lieandswell",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/engraved/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/engraved/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/engraved/3.3.5.zip"
+}

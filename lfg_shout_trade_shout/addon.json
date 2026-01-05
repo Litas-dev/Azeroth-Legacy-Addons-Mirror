@@ -1,0 +1,16 @@
+{
+  "title": "LFG Shout / Trade Shout",
+  "description": "Don&#039;t miss messages, LFG and trade in all that spam!!!",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lfg_shout_trade_shout/logo.webp",
+  "author": "Lintydruid",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/lfg-shout-trade-shout/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lfg_shout_trade_shout/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lfg_shout_trade_shout/3.3.5.zip"
+}

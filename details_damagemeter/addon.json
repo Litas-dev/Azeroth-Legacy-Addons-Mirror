@@ -1,0 +1,19 @@
+{
+  "title": "Details! DamageMeter",
+  "description": "Essential tool to impress that chick in your raid.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/details_damagemeter/logo.webp",
+  "author": "Bunny67",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/details-damagemeter/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/details_damagemeter/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/details_damagemeter/screenshot_1.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/details_damagemeter/3.3.5.zip"
+}

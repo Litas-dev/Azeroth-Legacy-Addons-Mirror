@@ -1,0 +1,19 @@
+{
+  "title": "ShardKeeper",
+  "description": "ShardKeeper helps you manage your Soul Shards automatically.",
+  "image": "https://warperia.com/wp-content/uploads/2025/09/addon-logo-9342-68c7405f4b8a4.jpg",
+  "author": "cronix91",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/andreash-dev/ShardKeeper-WotLK"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/shardkeeper/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/shardkeeper/screenshot_1.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/shardkeeper/3.3.5.zip"
+}

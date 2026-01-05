@@ -1,0 +1,19 @@
+{
+  "title": "Raeli&#8217;s Spell Announcer",
+  "description": "RSA is an addon that can announce spell casts to various chat channels",
+  "image": "https://warperia.com/wp-content/uploads/2024/12/addon-logo-3471-675c1c44cd918-300x249.png",
+  "author": "Raelii",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/alchem1ster/WotLK-RSA"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/raeli_8217_s_spell_announcer/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/raeli_8217_s_spell_announcer/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/raeli_8217_s_spell_announcer/3.3.5.zip"
+}

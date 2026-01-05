@@ -1,0 +1,19 @@
+{
+  "title": "Modern Mouse Over",
+  "description": "Macro generator for perfect mouseover casting. Automatically adds macro to hotbar. (For 3.3.5 pservers)",
+  "image": "https://warperia.com/wp-content/uploads/2025/09/addon-logo-5612-68b5d0b404b48.png",
+  "author": "seathasky",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/seathasky/ModernMouseOver"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/modern_mouse_over/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/modern_mouse_over/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/modern_mouse_over/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Critline",
+  "description": "Saves your normal and critical records and flashes a message if you break the record.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/critline/logo.webp",
+  "author": "Lombra",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/critline/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/critline/3.3.5.zip",
+    "tbc": null,
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/critline/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/critline/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Tell Track",
+  "description": "Allows you to quickly and easily talk to several people that have messaged you",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tell_track/logo.webp",
+  "author": "SleepyBear",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/tell-track/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tell_track/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tell_track/3.3.5.zip"
+}

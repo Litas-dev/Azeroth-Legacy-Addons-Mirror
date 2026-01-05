@@ -1,0 +1,16 @@
+{
+  "title": "Dugis Guide Viewer",
+  "description": "Streamlines your quest experience with in-game guides that will help you reach max-level easier and faster.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dugis_guide_viewer/logo.jpg",
+  "author": "Unknown",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/dugis-guide-viewer/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dugis_guide_viewer/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dugis_guide_viewer/3.3.5.zip"
+}

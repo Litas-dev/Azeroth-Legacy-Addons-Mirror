@@ -1,0 +1,21 @@
+{
+  "title": "BiS-Tooltip",
+  "description": "BiS-Tooltip - is an add-on providing in-game information about best in slot items.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bis_tooltip/logo.png",
+  "author": "Hellixoid",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/bis-tooltip/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bis_tooltip/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bis_tooltip/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bis_tooltip/screenshot_2.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bis_tooltip/screenshot_3.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bis_tooltip/3.3.5.zip"
+}

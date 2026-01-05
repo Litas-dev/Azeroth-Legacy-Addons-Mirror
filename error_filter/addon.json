@@ -1,0 +1,19 @@
+{
+  "title": "Error Filter",
+  "description": "ErrorFilter manages the errors that are displayed in the blizzard UIErrorsFrame",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/error_filter/logo.jpg",
+  "author": "Fulger",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/error-filter/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/error_filter/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/error_filter/screenshot_1.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/error_filter/3.3.5.zip"
+}

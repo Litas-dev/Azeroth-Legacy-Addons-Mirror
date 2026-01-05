@@ -1,0 +1,16 @@
+{
+  "title": "eCastingBar",
+  "description": "Casting Bar replacement mod.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ecastingbar/logo.webp",
+  "author": "NeuroMedivh",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/ecastingbar/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ecastingbar/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ecastingbar/2.4.3.zip",
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ecastingbar/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ecastingbar/3.3.5.zip"
+}

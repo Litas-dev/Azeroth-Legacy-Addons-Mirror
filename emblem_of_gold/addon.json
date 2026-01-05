@@ -1,0 +1,16 @@
+{
+  "title": "Emblem of Gold",
+  "description": "Shows your gold and emblem counts when you open a vendor.",
+  "image": "https://warperia.com/wp-content/uploads/2025/05/addon-logo-4317-682c8fa4a6662-192x300.png",
+  "author": "Stradios",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Stradios/Emblem-of-Gold"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/emblem_of_gold/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/emblem_of_gold/3.3.5.zip"
+}

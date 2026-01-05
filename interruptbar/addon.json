@@ -1,0 +1,16 @@
+{
+  "title": "InterruptBar",
+  "description": "A basic mod that tracks enemy interrupt abilities on a neat little bar.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/interruptbar/logo.jpg",
+  "author": "nydas3k",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/interruptbar/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/interruptbar/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/interruptbar/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/interruptbar/3.3.5.zip"
+}

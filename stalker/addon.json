@@ -1,0 +1,16 @@
+{
+  "title": "Stalker",
+  "description": "Addon for detecting, managing, and tracking hostile players.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/stalker/logo.webp",
+  "author": "Croy9000",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/stalker/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/stalker/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/stalker/3.3.5.zip"
+}

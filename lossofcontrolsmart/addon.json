@@ -1,0 +1,20 @@
+{
+  "title": "LossOfControlSmart",
+  "description": "An enhanced backport of Blizzard&#039;s Loss of Control alerts for WoW 3.3.5. Big new feature is it auto detects CC that isn&#039;t in the list currently. It adds a lot of CCs throughout time.",
+  "image": "https://warperia.com/wp-content/uploads/2025/09/addon-logo-12864-68dae358f04ce-300x294.png",
+  "author": "thierbig",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/thierbig/LossOfControlSmart-3.3.5"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lossofcontrolsmart/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lossofcontrolsmart/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lossofcontrolsmart/screenshot_2.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lossofcontrolsmart/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "RepairBroker",
+  "description": "Auto repair + shows durability.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/repairbroker/logo.webp",
+  "author": "chainweb",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/repairbroker/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/repairbroker/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/repairbroker/3.3.5.zip"
+}

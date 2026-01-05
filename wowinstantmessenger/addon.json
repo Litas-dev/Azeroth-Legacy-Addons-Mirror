@@ -1,0 +1,16 @@
+{
+  "title": "WoWInstantMessenger",
+  "description": "Give whispers an instant messenger feel.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wowinstantmessenger/logo.webp",
+  "author": "lucifercatnip",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/wowinstantmessenger/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wowinstantmessenger/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wowinstantmessenger/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wowinstantmessenger/3.3.5.zip"
+}

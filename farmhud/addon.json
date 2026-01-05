@@ -1,0 +1,16 @@
+{
+  "title": "FarmHud",
+  "description": "Turn your minimap into a hud for farming ore / herb.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/farmhud/logo.webp",
+  "author": "CodeRedLin",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/farmhud/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/farmhud/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/farmhud/3.3.5.zip"
+}

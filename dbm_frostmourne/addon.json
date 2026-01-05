@@ -1,0 +1,16 @@
+{
+  "title": "DBM - Frostmourne",
+  "description": "Deadly Boss Mods that aims to implement accurate timers for the Frostmourne servers.",
+  "image": "https://warperia.com/wp-content/uploads/2025/11/addon-logo-16350-69242c705c069.png",
+  "author": "broizter",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/broizter/DBM-Frostmourne"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dbm_frostmourne/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dbm_frostmourne/3.3.5.zip"
+}

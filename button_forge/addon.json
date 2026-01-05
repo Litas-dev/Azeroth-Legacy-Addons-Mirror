@@ -1,0 +1,16 @@
+{
+  "title": "Button Forge",
+  "description": "The addon lets you create as much action bars as you want.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/button_forge/logo.webp",
+  "author": "Alternator",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/button-forge/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/button_forge/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/button_forge/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "ArenaGCDs",
+  "description": "Arena addon designed to track the global cooldowns (GCDs) of arena1, 2, 3, 4, and 5",
+  "image": "https://warperia.com/wp-content/uploads/2024/12/addon-logo-3826-676984e0c7ed9-300x247.png",
+  "author": "oscargforce",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/oscargforce/ArenaGcds"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/arenagcds/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/arenagcds/3.3.5.zip"
+}

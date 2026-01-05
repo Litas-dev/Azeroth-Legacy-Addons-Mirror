@@ -1,0 +1,16 @@
+{
+  "title": "Inventorium",
+  "description": "Inventorium can keep track of items, refill them from storage and restock from vendors or via crafting professions.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/inventorium/logo.webp",
+  "author": "Zerotorescue",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/inventorium/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/inventorium/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/inventorium/3.3.5.zip"
+}

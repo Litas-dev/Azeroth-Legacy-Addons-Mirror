@@ -1,0 +1,16 @@
+{
+  "title": "Gnosis (Castbars and Timers)",
+  "description": "Highly configurable castbar and single timer addon.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gnosis_castbars_and_timers_/logo.jpg",
+  "author": "elchefe12345",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/gnosis-castbars-and-timers/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gnosis_castbars_and_timers_/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gnosis_castbars_and_timers_/3.3.5.zip"
+}

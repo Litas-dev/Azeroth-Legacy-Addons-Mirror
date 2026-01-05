@@ -1,0 +1,16 @@
+{
+  "title": "ShieldsUp",
+  "description": "Text-based shaman shield monitor.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/shieldsup/logo.webp",
+  "author": "Phanx",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/shieldsup/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/shieldsup/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/shieldsup/3.3.5.zip"
+}

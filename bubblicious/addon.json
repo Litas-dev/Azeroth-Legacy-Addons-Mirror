@@ -1,0 +1,16 @@
+{
+  "title": "Bubblicious",
+  "description": "Customize the appearance of the chat bubbles.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bubblicious/logo.webp",
+  "author": "lucifercatnip",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/bubblicious/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bubblicious/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bubblicious/3.3.5.zip"
+}

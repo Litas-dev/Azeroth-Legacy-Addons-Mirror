@@ -1,0 +1,16 @@
+{
+  "title": "Census Plus",
+  "description": "Easily measure your realm information. Note that this addon might not work on all private servers.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/census_plus/logo.webp",
+  "author": "coopers98",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/census-plus/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/census_plus/3.3.5.zip",
+    "tbc": null,
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/census_plus/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/census_plus/3.3.5.zip"
+}

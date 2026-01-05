@@ -1,0 +1,16 @@
+{
+  "title": "PartyCastingBars",
+  "description": "Shows casting bars for party members",
+  "image": "https://warperia.com/wp-content/uploads/2025/04/addon-logo-4220-67ebf7235e2a5.png",
+  "author": "AnduinLothar",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/wotlk-addons/PartyCastingBars"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/partycastingbars/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/partycastingbars/3.3.5.zip"
+}

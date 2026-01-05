@@ -1,0 +1,16 @@
+{
+  "title": "MonkeyBuddy",
+  "description": "Allows you to easily configure your MonkeyQuest with a nice config window.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/monkeybuddy/logo.webp",
+  "author": "JimBim89",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/monkeybuddy/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/monkeybuddy/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/monkeybuddy/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/monkeybuddy/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "CombatTime",
+  "description": "Simple, light-weight, LDB-enabled timer that tracks how long you spend in combat",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/combattime/logo.webp",
+  "author": "_ForgeUser405586",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/combattime/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/combattime/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/combattime/3.3.5.zip"
+}

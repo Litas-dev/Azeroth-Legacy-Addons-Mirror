@@ -1,0 +1,16 @@
+{
+  "title": "WeakAuras",
+  "description": "A powerful, comprehensive utility for displaying graphics and information based on triggers.",
+  "image": "https://warperia.com/wp-content/uploads/2024/11/ww-logo-weakauras-300x300.webp",
+  "author": "NoM0Re",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/NoM0Re/WeakAuras-WotLK"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/weakauras/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/weakauras/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/weakauras/3.3.5.zip"
+}

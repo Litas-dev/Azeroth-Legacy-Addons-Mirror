@@ -1,0 +1,20 @@
+{
+  "title": "pfQuest Epoch",
+  "description": "An extension for pfQuest-wotlk which adds support for Project Epoch.",
+  "image": "https://warperia.com/wp-content/uploads/2025/07/addon-logo-4614-6884c15c0dd14-300x300.png",
+  "author": "Bennylavaa",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Bennylavaa/pfQuest-epoch"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pfquest_epoch/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pfquest_epoch/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pfquest_epoch/screenshot_2.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pfquest_epoch/3.3.5.zip"
+}

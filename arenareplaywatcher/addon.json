@@ -1,0 +1,16 @@
+{
+  "title": "ArenaReplayWatcher",
+  "description": "Arena Replay Watcher (ARW): Master the Ladder by Replaying Matches.",
+  "image": "https://warperia.com/wp-content/uploads/2025/11/addon-logo-16367-6926426383439-300x300.jpg",
+  "author": "Lyk",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/aladinovitch/ArenaReplayWatcher"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/arenareplaywatcher/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/arenareplaywatcher/3.3.5.zip"
+}

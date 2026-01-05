@@ -1,0 +1,19 @@
+{
+  "title": "BisTooltip 3.3.5a Castellano(beta3)",
+  "description": "Bistooltip totalmente en castellano y compatible con Lich King",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bistooltip_3_3_5a_castellano_beta3_/logo.png",
+  "author": "ErCr1S (Niugh) y Zangetsuu",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/bistooltip-3-3-5a-castellanobeta3/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bistooltip_3_3_5a_castellano_beta3_/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bistooltip_3_3_5a_castellano_beta3_/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bistooltip_3_3_5a_castellano_beta3_/3.3.5.zip"
+}

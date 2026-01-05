@@ -1,0 +1,16 @@
+{
+  "title": "Lua Browser",
+  "description": "Browse through the Lua environment in-game",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lua_browser/logo.webp",
+  "author": "Aezay",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/lua-browser/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lua_browser/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lua_browser/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "AtlasLoot Enhanced",
+  "description": "Shows the possible loot from the bosses.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/atlasloot_enhanced/logo.webp",
+  "author": "Hegarol",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/atlasloot-enhanced/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/atlasloot_enhanced/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/atlasloot_enhanced/2.4.3.zip",
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/atlasloot_enhanced/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/atlasloot_enhanced/3.3.5.zip"
+}

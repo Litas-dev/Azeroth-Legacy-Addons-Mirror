@@ -1,0 +1,16 @@
+{
+  "title": "EveryQuest",
+  "description": "Quest History tracker and shows lists of quests in each category.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/everyquest/logo.webp",
+  "author": "kandarz",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/everyquest/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/everyquest/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/everyquest/3.3.5.zip"
+}

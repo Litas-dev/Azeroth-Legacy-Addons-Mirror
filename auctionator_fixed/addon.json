@@ -1,0 +1,16 @@
+{
+  "title": "Auctionator-Fixed",
+  "description": "Fixed Auctionator with modern sell tab for 3.3.5 client. Includes timeout on scans.",
+  "image": "https://warperia.com/wp-content/uploads/2025/09/addon-logo-12861-68dae413631e2-300x157.png",
+  "author": "thierbig",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/thierbig/Auctionator-3.3.5-Fixed/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/auctionator_fixed/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/auctionator_fixed/3.3.5.zip"
+}

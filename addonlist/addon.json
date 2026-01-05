@@ -1,0 +1,16 @@
+{
+  "title": "AddonList",
+  "description": "Addon List brings you the convenience of in-game addon management.",
+  "image": "https://warperia.com/wp-content/uploads/2025/09/addon-logo-12874-68dae74e974ea-300x292.png",
+  "author": "thierbig",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/thierbig/AddonList-3.3.5-Fixed"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/addonlist/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/addonlist/3.3.5.zip"
+}

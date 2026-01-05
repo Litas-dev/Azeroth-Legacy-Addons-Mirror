@@ -1,0 +1,16 @@
+{
+  "title": "Where To Now",
+  "description": "A little tool for a quick recommendation of zones at your level.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/where_to_now/logo.webp",
+  "author": "Jehris",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/where-to-now/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/where_to_now/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/where_to_now/3.3.5.zip"
+}

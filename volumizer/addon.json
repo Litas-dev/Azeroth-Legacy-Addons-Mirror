@@ -1,0 +1,16 @@
+{
+  "title": "Volumizer",
+  "description": "Control panel for the various game sound volumes.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/volumizer/logo.jpg",
+  "author": "Torhal",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/volumizer/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/volumizer/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/volumizer/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Tome of Teleportation",
+  "description": "An interface for managing teleportation spells and items.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tome_of_teleportation/logo.webp",
+  "author": "Remeen",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/tome-of-teleportation/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tome_of_teleportation/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tome_of_teleportation/3.3.5.zip"
+}

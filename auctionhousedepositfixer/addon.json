@@ -1,0 +1,16 @@
+{
+  "title": "AuctionHouseDepositFixer",
+  "description": "Allows easy modification of displayed AH deposit values for Private Servers.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/auctionhousedepositfixer/logo.webp",
+  "author": "Unknown",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/auctionhousedepositfixer/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/auctionhousedepositfixer/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/auctionhousedepositfixer/3.3.5.zip"
+}

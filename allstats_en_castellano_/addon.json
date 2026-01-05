@@ -1,0 +1,19 @@
+{
+  "title": "AllStats(En-castellano)",
+  "description": "Muestra todas las estadísticas en el menú desplegable junto a la ventana del personaje.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/allstats_en_castellano_/logo.png",
+  "author": "ErCr1S (Niugh)",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/allstatsen-castellano/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/allstats_en_castellano_/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/allstats_en_castellano_/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/allstats_en_castellano_/3.3.5.zip"
+}

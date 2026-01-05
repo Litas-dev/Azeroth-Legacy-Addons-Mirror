@@ -1,0 +1,16 @@
+{
+  "title": "AdvancedIconSelector",
+  "description": "Adds search functionality to the icon selector dialogs.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/advancediconselector/logo.webp",
+  "author": "Darthyl",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/advancediconselector/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/advancediconselector/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/advancediconselector/3.3.5.zip"
+}

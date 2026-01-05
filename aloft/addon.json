@@ -1,0 +1,20 @@
+{
+  "title": "Aloft",
+  "description": "Customize and enhance how nameplates and nameplate casting bars appear in the game",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/aloft/logo.webp",
+  "author": "acapela",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/aloft/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/aloft/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/aloft/2.4.3.zip",
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/aloft/screenshot_1.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/aloft/screenshot_2.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/aloft/3.3.5.zip"
+}

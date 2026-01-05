@@ -1,0 +1,16 @@
+{
+  "title": "Short term memory",
+  "description": "Memorize the last few lines from chat - and post them into chat on login! (or UI reload, etc.)",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/short_term_memory/logo.webp",
+  "author": "watchout_cf",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/short-term-memory/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/short_term_memory/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/short_term_memory/3.3.5.zip"
+}

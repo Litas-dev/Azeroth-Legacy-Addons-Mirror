@@ -1,0 +1,16 @@
+{
+  "title": "CLC DK",
+  "description": "This is a mod designed to put all the neccessary DK information together.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/clc_dk/logo.webp",
+  "author": "Nu7a",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/clc-dk/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/clc_dk/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/clc_dk/3.3.5.zip"
+}

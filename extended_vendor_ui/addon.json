@@ -1,0 +1,16 @@
+{
+  "title": "Extended Vendor UI",
+  "description": "Extends the merchant interface for easier browsing.",
+  "image": "https://warperia.com/wp-content/uploads/2025/02/addon-logo-4156-67ab52c57ddad-300x192.png",
+  "author": "Germbread",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Stekolnyu/ExtVendor_Sirus"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/extended_vendor_ui/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/extended_vendor_ui/3.3.5.zip"
+}

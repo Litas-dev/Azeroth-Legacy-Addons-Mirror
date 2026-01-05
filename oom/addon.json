@@ -1,0 +1,16 @@
+{
+  "title": "OOM",
+  "description": "OOM",
+  "image": "https://warperia.com/wp-content/uploads/2025/11/warperia_OOM_logo_2025-11-04_15-31-31.png",
+  "author": "kizrak",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/abaines/_oom"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/oom/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/oom/3.3.5.zip"
+}

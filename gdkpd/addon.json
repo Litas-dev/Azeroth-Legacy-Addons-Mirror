@@ -1,0 +1,16 @@
+{
+  "title": "GDKPd",
+  "description": "Simplifies GDKP bidding processes",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gdkpd/logo.jpg",
+  "author": "gallantron",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/gdkpd/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gdkpd/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gdkpd/3.3.5.zip"
+}

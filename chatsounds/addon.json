@@ -1,0 +1,16 @@
+{
+  "title": "ChatSounds",
+  "description": "Enables user defined sounds for Party, Guild and Raid chat messages.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chatsounds/logo.webp",
+  "author": "Dridzt",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/chatsounds/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chatsounds/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chatsounds/3.3.5.zip"
+}

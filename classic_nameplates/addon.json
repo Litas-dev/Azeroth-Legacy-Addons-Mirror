@@ -1,0 +1,19 @@
+{
+  "title": "Classic Nameplates",
+  "description": "Enhances Blizzard’s default nameplates with Classic-style improvements for Project Epoch (3.3.5)",
+  "image": "https://warperia.com/wp-content/uploads/2025/09/addon-logo-9260-68c05d0a7ef65.png",
+  "author": "Jake",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/jvanmourik/ClassicNameplates"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/classic_nameplates/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/classic_nameplates/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/classic_nameplates/3.3.5.zip"
+}

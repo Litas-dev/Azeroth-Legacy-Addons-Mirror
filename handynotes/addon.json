@@ -1,0 +1,16 @@
+{
+  "title": "HandyNotes",
+  "description": "Handy notes for your maps.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/handynotes/logo.webp",
+  "author": "Xinhuan",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/handynotes/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/handynotes/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/handynotes/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/handynotes/3.3.5.zip"
+}

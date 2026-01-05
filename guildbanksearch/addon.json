@@ -1,0 +1,16 @@
+{
+  "title": "GuildBankSearch",
+  "description": "Adds a filter for your guild bank and its logs.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/guildbanksearch/logo.png",
+  "author": "Ketho17",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/guildbanksearch/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/guildbanksearch/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/guildbanksearch/3.3.5.zip"
+}

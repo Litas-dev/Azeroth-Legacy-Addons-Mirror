@@ -1,0 +1,16 @@
+{
+  "title": "RaidCluster",
+  "description": "Designed to display clusters of players as counters that increment when players are close to each other.",
+  "image": "https://warperia.com/wp-content/uploads/2025/02/addon-logo-4035-67a4802f20ba1-300x186.png",
+  "author": "NoM0Re",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/NoM0Re/RaidCluster"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/raidcluster/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/raidcluster/3.3.5.zip"
+}

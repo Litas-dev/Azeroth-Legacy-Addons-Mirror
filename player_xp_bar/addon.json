@@ -1,0 +1,16 @@
+{
+  "title": "Player XP Bar",
+  "description": "Player XP Bar",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/player_xp_bar/logo.png",
+  "author": "Kharthus",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/player-xp-bar/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/player_xp_bar/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/player_xp_bar/3.3.5.zip"
+}

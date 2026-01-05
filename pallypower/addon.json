@@ -1,0 +1,16 @@
+{
+  "title": "PallyPower",
+  "description": "Raid/Party Paladin buffs.",
+  "image": "https://warperia.com/wp-content/uploads/2024/11/ww-logo-pallypower-300x169.webp",
+  "author": "Aznamir",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/NoM0Re/PallyPower-Improved-3.3.5"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pallypower/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pallypower/2.4.3.zip",
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pallypower/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pallypower/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "TitanPanel",
+  "description": "Adds a display bar on the top and/or bottom of the screen.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/titanpanel/logo.webp",
+  "author": "HonorGoG",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/titanpanel/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/titanpanel/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/titanpanel/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/titanpanel/3.3.5.zip"
+}

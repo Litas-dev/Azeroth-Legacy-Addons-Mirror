@@ -1,0 +1,16 @@
+{
+  "title": "DiminishingReturns",
+  "description": "Attach diminishing return icons to unit frames.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/diminishingreturns/logo.webp",
+  "author": "Adirelle",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/diminishingreturns/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/diminishingreturns/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/diminishingreturns/3.3.5.zip"
+}

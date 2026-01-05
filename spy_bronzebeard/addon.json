@@ -1,0 +1,21 @@
+{
+  "title": "Spy Bronzebeard",
+  "description": "Spy for Bronzebeard",
+  "image": "https://warperia.com/wp-content/uploads/2025/10/addon-logo-13894-68dd529130b14.jpg",
+  "author": "Exad",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/MCribari/Spy-Bronzebeard"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spy_bronzebeard/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spy_bronzebeard/screenshot_1.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spy_bronzebeard/screenshot_2.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spy_bronzebeard/screenshot_3.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spy_bronzebeard/3.3.5.zip"
+}

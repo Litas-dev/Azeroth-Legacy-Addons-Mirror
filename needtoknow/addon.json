@@ -1,0 +1,16 @@
+{
+  "title": "NeedToKnow",
+  "description": "Timer bars for buffs, debuffs, cooldowns, etc.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/needtoknow/logo.jpg",
+  "author": "lieandswell",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/needtoknow/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/needtoknow/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/needtoknow/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/needtoknow/3.3.5.zip"
+}

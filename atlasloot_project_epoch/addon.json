@@ -1,0 +1,16 @@
+{
+  "title": "Atlasloot Project Epoch",
+  "description": "This is a modified version of Atlas Loot that contains Project Epoch custom data.",
+  "image": "https://warperia.com/wp-content/uploads/2025/08/addon-logo-5101-68a4be109ceb8-300x169.webp",
+  "author": "Raynbock",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Raynbock/AtlaslootProjectEpoch"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/atlasloot_project_epoch/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/atlasloot_project_epoch/3.3.5.zip"
+}

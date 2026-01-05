@@ -1,0 +1,16 @@
+{
+  "title": "QBar",
+  "description": "Dynamic button bar of usable quest items in your bags.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/qbar/logo.jpg",
+  "author": "Aezay",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/qbar/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/qbar/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/qbar/3.3.5.zip"
+}

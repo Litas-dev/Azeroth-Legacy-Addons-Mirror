@@ -1,0 +1,16 @@
+{
+  "title": "Icetip",
+  "description": "Icetip is a simple, customizeable and powerful tooltip addon.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/icetip/logo.webp",
+  "author": "wolftankk",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/icetip/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/icetip/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/icetip/3.3.5.zip"
+}

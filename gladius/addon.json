@@ -1,0 +1,16 @@
+{
+  "title": "Gladius",
+  "description": "Arena enemy unit frames.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gladius/logo.webp",
+  "author": "Proditor",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/gladius/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gladius/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gladius/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gladius/3.3.5.zip"
+}

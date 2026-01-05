@@ -1,0 +1,19 @@
+{
+  "title": "FSRTracker",
+  "description": "Five Second Rule Tracker for Project-Epoch",
+  "image": "https://warperia.com/wp-content/uploads/2025/09/addon-logo-9166-68bc80f67aa2a-300x300.png",
+  "author": "RetroUnreal",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/RetroUnreal/FSRTracker"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fsrtracker/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fsrtracker/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fsrtracker/3.3.5.zip"
+}

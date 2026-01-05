@@ -1,0 +1,16 @@
+{
+  "title": "Gnome Sage",
+  "description": "Got something on your mind? Need help deciding? Let Gnome Sage help you! New &amp; improved with 20 possible answers.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gnome_sage/logo.webp",
+  "author": "svartalve",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/gnome-sage/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gnome_sage/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gnome_sage/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gnome_sage/3.3.5.zip"
+}

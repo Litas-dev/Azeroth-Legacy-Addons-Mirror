@@ -1,0 +1,16 @@
+{
+  "title": "EclipseBar",
+  "description": "Druid eclipse bar for Wrath of the Lich King.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/eclipsebar/logo.jpg",
+  "author": "bkader",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/eclipsebar/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/eclipsebar/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/eclipsebar/3.3.5.zip"
+}

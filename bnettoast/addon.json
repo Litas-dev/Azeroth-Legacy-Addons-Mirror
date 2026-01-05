@@ -1,0 +1,21 @@
+{
+  "title": "BNetToast",
+  "description": "BattleNET style Online/Offline Indicator for your friend/guild mates",
+  "image": "https://warperia.com/wp-content/uploads/2024/12/addon-logo-3458-675c1af4733ab-300x203.png",
+  "author": "Bonho",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/crumdidlyumshis/BNetToast"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bnettoast/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bnettoast/screenshot_1.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bnettoast/screenshot_2.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bnettoast/screenshot_3.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bnettoast/3.3.5.zip"
+}

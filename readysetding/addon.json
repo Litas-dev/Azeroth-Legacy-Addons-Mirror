@@ -1,0 +1,16 @@
+{
+  "title": "ReadySetDing",
+  "description": "Shows time taken when you level up.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/readysetding/logo.webp",
+  "author": "Ketho",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/readysetding/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/readysetding/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/readysetding/3.3.5.zip"
+}

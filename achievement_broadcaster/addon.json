@@ -1,0 +1,16 @@
+{
+  "title": "Achievement Broadcaster",
+  "description": "Alert your friends when you ding, get an achivement, or get phat lewts!",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/achievement_broadcaster/logo.png",
+  "author": "Cexikitin",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/achievement-broadcaster/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/achievement_broadcaster/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/achievement_broadcaster/3.3.5.zip"
+}

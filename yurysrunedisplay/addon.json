@@ -1,0 +1,16 @@
+{
+  "title": "YurysRuneDisplay",
+  "description": "Very simple and lightweight addon for display of a Death Knight&#039;s runes.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/yurysrunedisplay/logo.webp",
+  "author": "Unknown",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/yurysrunedisplay/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/yurysrunedisplay/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/yurysrunedisplay/3.3.5.zip"
+}

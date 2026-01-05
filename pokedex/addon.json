@@ -1,0 +1,16 @@
+{
+  "title": "Pokedex",
+  "description": "mount and companion manager",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pokedex/logo.jpg",
+  "author": "Turducken_McNugget",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/pokedex/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pokedex/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pokedex/3.3.5.zip"
+}

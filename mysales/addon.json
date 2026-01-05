@@ -1,0 +1,16 @@
+{
+  "title": "MySales",
+  "description": "Tells you who bought your auctions.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mysales/logo.webp",
+  "author": "Cyprias",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/mysales/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mysales/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mysales/3.3.5.zip"
+}

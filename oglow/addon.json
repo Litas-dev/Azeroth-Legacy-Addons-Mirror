@@ -1,0 +1,16 @@
+{
+  "title": "oGlow",
+  "description": "Make your shiny items... glow in the dark.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/oglow/logo.webp",
+  "author": "haste",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/oglow/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/oglow/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/oglow/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/oglow/3.3.5.zip"
+}

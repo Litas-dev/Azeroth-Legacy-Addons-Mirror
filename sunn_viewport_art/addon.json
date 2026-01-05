@@ -1,0 +1,16 @@
+{
+  "title": "Sunn - Viewport Art",
+  "description": "Allows you to modify the size of the rendered 3D area of the screen with textured bars in the non-rendered areas",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sunn_viewport_art/logo.png",
+  "author": "sunn6",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/sunn-viewport-art/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sunn_viewport_art/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sunn_viewport_art/3.3.5.zip"
+}

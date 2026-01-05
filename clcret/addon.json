@@ -1,0 +1,16 @@
+{
+  "title": "CLCRet",
+  "description": "Rotation helper for Retribution Paladins.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/clcret/logo.webp",
+  "author": "abija",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/clcret/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/clcret/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/clcret/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "SimpleMD",
+  "description": "Track all threat redirection ability transfers and cooldowns (MD and TotT).",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/simplemd/logo.webp",
+  "author": "Starinnia",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/simplemd/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/simplemd/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/simplemd/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/simplemd/3.3.5.zip"
+}

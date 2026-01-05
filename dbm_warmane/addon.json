@@ -1,0 +1,20 @@
+{
+  "title": "DBM - Warmane",
+  "description": "Alerts you when a Boss begins to cast certain spells or use certain skills.",
+  "image": "https://warperia.com/wp-content/uploads/2024/11/ww-icon-server-warmane.jpg",
+  "author": "Zidras",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Zidras/DBM-Warmane"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dbm_warmane/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dbm_warmane/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dbm_warmane/screenshot_2.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dbm_warmane/3.3.5.zip"
+}

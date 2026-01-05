@@ -1,0 +1,21 @@
+{
+  "title": "ReaperHp Bar",
+  "description": "CLEAN HP BAR FULLY CUSTOMIZABLE",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/reaperhp_bar/logo.png",
+  "author": "ZoneReaper_",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/reaperhp-bar/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/reaperhp_bar/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/reaperhp_bar/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/reaperhp_bar/screenshot_2.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/reaperhp_bar/screenshot_3.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/reaperhp_bar/3.3.5.zip"
+}

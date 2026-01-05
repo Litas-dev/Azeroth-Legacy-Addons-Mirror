@@ -1,0 +1,16 @@
+{
+  "title": "Killshot",
+  "description": "Killshot is a simple addon that will display a message each time you make a killing blow.",
+  "image": "https://warperia.com/wp-content/uploads/2024/11/ww-killshot-636141635363234302-min-300x240.jpg",
+  "author": "zwarmapapa",
+  "source": {
+    "type": "website",
+    "url": "https://www.curseforge.com/wow/addons/killshot"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/killshot/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/killshot/3.3.5.zip"
+}

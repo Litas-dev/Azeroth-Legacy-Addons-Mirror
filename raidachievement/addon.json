@@ -1,0 +1,16 @@
+{
+  "title": "RaidAchievement",
+  "description": "Makes it easier to earn dungeon and raid achievements.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/raidachievement/logo.webp",
+  "author": "shurshik",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/raidachievement/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/raidachievement/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/raidachievement/3.3.5.zip"
+}

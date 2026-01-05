@@ -1,0 +1,16 @@
+{
+  "title": "Farmed",
+  "description": "Farmed",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/farmed/logo.webp",
+  "author": "Lintydruid",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/farmed/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/farmed/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/farmed/3.3.5.zip"
+}

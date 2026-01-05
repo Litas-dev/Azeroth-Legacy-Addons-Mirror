@@ -1,0 +1,16 @@
+{
+  "title": "iShadow",
+  "description": "iShadow adds shadowed border to the UI window.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ishadow/logo.webp",
+  "author": "selias2k",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/ishadow/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ishadow/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ishadow/3.3.5.zip"
+}

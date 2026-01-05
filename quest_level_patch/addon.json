@@ -1,0 +1,16 @@
+{
+  "title": "Quest Level Patch",
+  "description": "Adds level within brackets to the quest name. Example: [62] Order Must Be Restored",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quest_level_patch/logo.webp",
+  "author": "Fulger",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/quest-level-patch/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quest_level_patch/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quest_level_patch/3.3.5.zip"
+}

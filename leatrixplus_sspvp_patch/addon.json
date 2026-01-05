@@ -1,0 +1,16 @@
+{
+  "title": "LeatrixPlus - SSPVP Patch",
+  "description": "LeatrixPlus compatibility patch for SSPVP addon",
+  "image": "https://warperia.com/wp-content/uploads/2025/10/addon-logo-13911-68def27401b48-300x195.png",
+  "author": "Leatrix",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/MCribari/LeatrixPlus-SSPVP-patch"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/leatrixplus_sspvp_patch/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/leatrixplus_sspvp_patch/3.3.5.zip"
+}

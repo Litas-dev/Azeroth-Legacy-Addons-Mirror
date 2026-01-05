@@ -1,0 +1,16 @@
+{
+  "title": "RUF",
+  "description": "Raeli&#039;s Unit Frames. Simple lightweight unitframes using oUF.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ruf/logo.webp",
+  "author": "Raeli",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/ruf/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ruf/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ruf/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "UnlimitedChatMessage",
+  "description": "Lets you paste long msgs into chat by spliting msg into multiple outing msgs.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/unlimitedchatmessage/logo.webp",
+  "author": "Zwixx",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/unlimitedchatmessage/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/unlimitedchatmessage/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/unlimitedchatmessage/3.3.5.zip"
+}

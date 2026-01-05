@@ -1,0 +1,16 @@
+{
+  "title": "Am I locked out?",
+  "description": "Rembers which of your chars are saved to which instance.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/am_i_locked_out_/logo.jpg",
+  "author": "Wig0r",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/am-i-locked-out/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/am_i_locked_out_/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/am_i_locked_out_/3.3.5.zip"
+}

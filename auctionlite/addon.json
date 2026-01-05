@@ -1,0 +1,16 @@
+{
+  "title": "AuctionLite",
+  "description": "A lightweight addon that tracks auction house data and improves the auction house interface.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/auctionlite/logo.webp",
+  "author": "Merial",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/auctionlite/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/auctionlite/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/auctionlite/3.3.5.zip"
+}

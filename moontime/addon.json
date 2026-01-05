@@ -1,0 +1,16 @@
+{
+  "title": "MoonTime",
+  "description": "MoonTime shows cooldowns and durations of DoTs in a compact way.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/moontime/logo.webp",
+  "author": "perle",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/moontime/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/moontime/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/moontime/3.3.5.zip"
+}

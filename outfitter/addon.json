@@ -1,0 +1,16 @@
+{
+  "title": "Outfitter",
+  "description": "Clothing and weapon management and automated equipment changes.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/outfitter/logo.webp",
+  "author": "mundocani",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/outfitter/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/outfitter/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/outfitter/2.4.3.zip",
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/outfitter/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/outfitter/3.3.5.zip"
+}

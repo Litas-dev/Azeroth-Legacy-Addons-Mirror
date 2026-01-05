@@ -1,0 +1,16 @@
+{
+  "title": "NiceDamage",
+  "description": "Changes your damage font to something more festive.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/nicedamage/logo.webp",
+  "author": "Montyburns",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/nicedamage/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/nicedamage/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/nicedamage/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/nicedamage/3.3.5.zip"
+}

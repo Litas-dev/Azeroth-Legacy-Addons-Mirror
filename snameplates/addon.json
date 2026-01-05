@@ -1,0 +1,19 @@
+{
+  "title": "sNamePlates",
+  "description": "Change the style of your nameplate bars",
+  "image": "https://warperia.com/wp-content/uploads/2024/12/addon-logo-3371-675ac73f6e096-300x109.png",
+  "author": "antmonsep",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/antmonsep/sNamePlates"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/snameplates/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/snameplates/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/snameplates/3.3.5.zip"
+}

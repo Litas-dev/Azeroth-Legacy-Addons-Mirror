@@ -1,0 +1,16 @@
+{
+  "title": "Sunn - Viewport Art Pack 10",
+  "description": "Textures for Sunn - Viewport Art (SunnArt)",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sunn_viewport_art_pack_10/logo.webp",
+  "author": "sunn6",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/sunn-viewport-art-pack-10/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sunn_viewport_art_pack_10/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sunn_viewport_art_pack_10/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "NumPadBar",
+  "description": "Displays a numpad action bar.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/numpadbar/logo.webp",
+  "author": "mrm2u",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/numpadbar/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/numpadbar/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/numpadbar/3.3.5.zip"
+}

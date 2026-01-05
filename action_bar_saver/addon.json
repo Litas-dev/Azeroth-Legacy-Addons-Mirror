@@ -1,0 +1,16 @@
+{
+  "title": "Action Bar Saver",
+  "description": "Saves and restores your action bars.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/action_bar_saver/logo.jpg",
+  "author": "Shadowed",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/action-bar-saver/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/action_bar_saver/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/action_bar_saver/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/action_bar_saver/3.3.5.zip"
+}

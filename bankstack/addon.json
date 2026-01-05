@@ -1,0 +1,16 @@
+{
+  "title": "BankStack",
+  "description": "Allows you to customize and change stuff in your bags and bank.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bankstack/logo.webp",
+  "author": "Kemayo",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/bankstack/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bankstack/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bankstack/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bankstack/3.3.5.zip"
+}

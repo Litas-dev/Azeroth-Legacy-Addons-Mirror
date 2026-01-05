@@ -1,0 +1,16 @@
+{
+  "title": "WoWKB",
+  "description": "This AddOn stores the name, description, level, rarity and location of all the NPCs/mobs you mouse over.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wowkb/logo.png",
+  "author": "Raynbock",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/wowkb/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wowkb/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wowkb/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "SimpleTradeskill",
+  "description": "Tweak the tradeskill windows",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/simpletradeskill/logo.jpg",
+  "author": "Kemayo",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/simpletradeskill/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/simpletradeskill/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/simpletradeskill/3.3.5.zip"
+}

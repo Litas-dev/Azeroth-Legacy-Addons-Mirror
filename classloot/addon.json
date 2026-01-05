@@ -1,0 +1,16 @@
+{
+  "title": "ClassLoot",
+  "description": "Lets you know whether the item you hover is good for your spec.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/classloot/logo.webp",
+  "author": "Pneumatus",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/classloot/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/classloot/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/classloot/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/classloot/3.3.5.zip"
+}

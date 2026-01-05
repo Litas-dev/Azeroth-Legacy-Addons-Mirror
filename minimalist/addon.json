@@ -1,0 +1,16 @@
+{
+  "title": "Minimalist",
+  "description": "A Collection of Automations and Interface Tweaks.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/minimalist/logo.jpg",
+  "author": "_ForgeUser877",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/minimalist/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/minimalist/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/minimalist/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/minimalist/3.3.5.zip"
+}

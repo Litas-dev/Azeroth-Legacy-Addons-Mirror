@@ -1,0 +1,16 @@
+{
+  "title": "Armory",
+  "description": "Provides an overview of equipment, stats, inventory, professions, quests, spells and more for all your characters",
+  "image": "https://warperia.com/wp-content/uploads/2025/11/warperia_Armory_logo_2025-11-04_15-25-15.jpeg",
+  "author": "Warmexx_",
+  "source": {
+    "type": "website",
+    "url": "https://www.curseforge.com/wow/addons/armory/pages/more-info"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/armory/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/armory/3.3.5.zip"
+}

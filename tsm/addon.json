@@ -1,0 +1,19 @@
+{
+  "title": "TSM",
+  "description": "Backported version of Trade Skill Master (TSM).",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tsm/logo.webp",
+  "author": "Sapu94",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/tsm/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tsm/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tsm/screenshot_1.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tsm/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Mutt Macro Patcher",
+  "description": "Mutt (Macro Update Target Tool) provides slash-commands that can patch the predefined targets in your macros.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mutt_macro_patcher/logo.webp",
+  "author": "Tuills",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/mutt-macro-patcher/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mutt_macro_patcher/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mutt_macro_patcher/3.3.5.zip"
+}

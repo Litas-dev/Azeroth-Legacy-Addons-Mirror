@@ -1,0 +1,22 @@
+{
+  "title": "GupCharacter",
+  "description": "GupCharacter makes the original blizard frame a bit bigger.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gupcharacter/logo.jpg",
+  "author": "Gupp",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/gupcharacter/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gupcharacter/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gupcharacter/screenshot_1.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gupcharacter/screenshot_2.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gupcharacter/screenshot_3.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gupcharacter/screenshot_4.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gupcharacter/3.3.5.zip"
+}

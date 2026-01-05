@@ -1,0 +1,16 @@
+{
+  "title": "LagBar",
+  "description": "Displays a simple bar with some Latency Information.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lagbar/logo.webp",
+  "author": "Xruptor",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/lagbar/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lagbar/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lagbar/3.3.5.zip"
+}

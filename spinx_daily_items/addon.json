@@ -1,0 +1,16 @@
+{
+  "title": "Spinx Daily Items",
+  "description": "Daily quest and PvP items direct to your actionbar",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spinx_daily_items/logo.webp",
+  "author": "TheSpanishInq",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/spinx-daily-items/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spinx_daily_items/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spinx_daily_items/3.3.5.zip"
+}

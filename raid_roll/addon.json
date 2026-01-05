@@ -1,0 +1,16 @@
+{
+  "title": "Raid Roll",
+  "description": "An addon that can be used to perform Raid Rolls.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/raid_roll/logo.webp",
+  "author": "killerpet1986",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/raid-roll/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/raid_roll/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/raid_roll/3.3.5.zip"
+}

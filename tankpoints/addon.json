@@ -1,0 +1,16 @@
+{
+  "title": "TankPoints",
+  "description": "Calculates and shows your TankPoints in the PaperDall Frame.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tankpoints/logo.webp",
+  "author": "whitetooth3",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/tankpoints/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tankpoints/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tankpoints/3.3.5.zip"
+}

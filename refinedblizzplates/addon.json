@@ -1,0 +1,21 @@
+{
+  "title": "RefinedBlizzPlates",
+  "description": "RefinedBlizzPlates is a lightweight nameplates addon.",
+  "image": "https://warperia.com/wp-content/uploads/2025/11/addon-logo-16402-692c38ad67481-300x204.jpg",
+  "author": "Khal",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/KhalGH/RefinedBlizzPlates-WotLK"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/refinedblizzplates/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/refinedblizzplates/screenshot_1.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/refinedblizzplates/screenshot_2.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/refinedblizzplates/screenshot_3.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/refinedblizzplates/3.3.5.zip"
+}

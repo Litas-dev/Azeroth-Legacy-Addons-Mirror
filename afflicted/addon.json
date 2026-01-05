@@ -1,0 +1,16 @@
+{
+  "title": "Afflicted",
+  "description": "PvP timer and cool down tracking mod.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/afflicted/logo.webp",
+  "author": "Shadowed",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/afflicted/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/afflicted/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/afflicted/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/afflicted/3.3.5.zip"
+}

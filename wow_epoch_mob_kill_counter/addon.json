@@ -1,0 +1,19 @@
+{
+  "title": "WoW Epoch Mob Kill Counter",
+  "description": "Displays your kill count for hovered mob in tooltip",
+  "image": "https://warperia.com/wp-content/uploads/2025/08/addon-logo-5515-68b242dd01747.png",
+  "author": "dellmas",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/dellmas/WoW-Epoch-Mob-Counter"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wow_epoch_mob_kill_counter/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wow_epoch_mob_kill_counter/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wow_epoch_mob_kill_counter/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Mage Gate",
+  "description": "Add StarGate sound effects to your WoW Client.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mage_gate/logo.jpg",
+  "author": "endarren",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/mage-gate/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mage_gate/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mage_gate/3.3.5.zip"
+}

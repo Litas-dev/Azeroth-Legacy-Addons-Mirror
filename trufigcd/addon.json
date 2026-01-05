@@ -1,0 +1,16 @@
+{
+  "title": "TrufiGCD",
+  "description": "Shows you the recently used abilities by your party &amp; arena members.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/trufigcd/logo.webp",
+  "author": "Trufi",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/trufigcd/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/trufigcd/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/trufigcd/3.3.5.zip"
+}

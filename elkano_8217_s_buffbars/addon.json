@@ -1,0 +1,16 @@
+{
+  "title": "Elkano&#8217;s BuffBars",
+  "description": "EBB adds groups of bars to your screen showing you which (de)buffs currently affect your char.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/elkano_8217_s_buffbars/logo.webp",
+  "author": "Elkano",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/elkanos-buffbars/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/elkano_8217_s_buffbars/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/elkano_8217_s_buffbars/3.3.5.zip"
+}

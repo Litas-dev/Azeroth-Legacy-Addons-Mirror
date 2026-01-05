@@ -1,0 +1,16 @@
+{
+  "title": "Stuf Unit Frames",
+  "description": "Main unitframes replacement. Assembly optional.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/stuf_unit_frames/logo.webp",
+  "author": "totalpackage",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/stuf-unit-frames/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/stuf_unit_frames/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/stuf_unit_frames/3.3.5.zip"
+}

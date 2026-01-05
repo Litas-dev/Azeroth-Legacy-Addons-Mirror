@@ -1,0 +1,16 @@
+{
+  "title": "InspectEquip",
+  "description": "Shows where the equipment of inspected users or yourself is from.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/inspectequip/logo.webp",
+  "author": "emelio",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/inspectequip/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/inspectequip/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/inspectequip/3.3.5.zip"
+}

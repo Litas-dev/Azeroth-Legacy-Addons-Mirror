@@ -1,0 +1,16 @@
+{
+  "title": "TipTop",
+  "description": "Enchances the default Blizzard tooltip.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tiptop/logo.webp",
+  "author": "Seerah",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/tiptop/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tiptop/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tiptop/3.3.5.zip"
+}

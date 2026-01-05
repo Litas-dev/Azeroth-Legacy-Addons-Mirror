@@ -1,0 +1,16 @@
+{
+  "title": "Guild Bounty Hunter",
+  "description": "A guild bounty hunting and integrated guild bank tracking system.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/guild_bounty_hunter/logo.webp",
+  "author": "_ForgeUser3801672",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/guild-bounty-hunter/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/guild_bounty_hunter/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/guild_bounty_hunter/3.3.5.zip"
+}

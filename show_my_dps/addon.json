@@ -1,0 +1,16 @@
+{
+  "title": "Show my DPS",
+  "description": "Simply shows your own dps or hps with combat total heal or damage",
+  "image": "https://warperia.com/wp-content/uploads/2025/11/warperia_Show-my-DPS_logo_2025-11-04_15-34-51.jpg",
+  "author": "bobklso",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/calebbarr/ShowMyDPS"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/show_my_dps/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/show_my_dps/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "BasicChatMods",
+  "description": "Basic Chat Mods!",
+  "image": "https://warperia.com/wp-content/uploads/2025/11/warperia_BasicChatMods_logo_2025-11-04_15-24-42.png",
+  "author": "Funkeh",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/sponsors/funkydude"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/basicchatmods/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/basicchatmods/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/basicchatmods/3.3.5.zip"
+}

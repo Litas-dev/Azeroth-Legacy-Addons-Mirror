@@ -1,0 +1,16 @@
+{
+  "title": "Friend Notes",
+  "description": "Displays friend notes in unit tooltips, at logon, and in /who results.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/friend_notes/logo.webp",
+  "author": "Talryn",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/friend-notes/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/friend_notes/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/friend_notes/3.3.5.zip"
+}

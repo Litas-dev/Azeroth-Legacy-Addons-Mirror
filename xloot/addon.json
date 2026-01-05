@@ -1,0 +1,16 @@
+{
+  "title": "XLoot",
+  "description": "A remake of the built-in lootframe.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/xloot/logo.webp",
+  "author": "kalimash",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/xloot/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/xloot/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/xloot/2.4.3.zip",
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/xloot/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/xloot/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "DoTimer",
+  "description": "Displays duration timers for DoTs/HoTs, cooldowns, and your buffs/debuffs.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dotimer/logo.webp",
+  "author": "Asheyla",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/dotimer/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dotimer/3.3.5.zip",
+    "tbc": null,
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dotimer/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dotimer/3.3.5.zip"
+}

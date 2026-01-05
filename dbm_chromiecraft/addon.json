@@ -1,0 +1,16 @@
+{
+  "title": "DBM - ChromieCraft",
+  "description": "Alerts you when a Boss begins to cast certain spells or use certain skills.",
+  "image": "https://warperia.com/wp-content/uploads/2024/11/ww-icon-server-chromiecraft.jpg",
+  "author": "balleny",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/balleny/DBM/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dbm_chromiecraft/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dbm_chromiecraft/3.3.5.zip"
+}

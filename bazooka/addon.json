@@ -1,0 +1,16 @@
+{
+  "title": "Bazooka",
+  "description": "Data Broker Display similar to FuBar",
+  "image": "https://warperia.com/wp-content/uploads/2025/11/warperia_Bazooka_logo_2025-11-04_15-21-05.jpeg",
+  "author": "mitchnull",
+  "source": {
+    "type": "github",
+    "url": "http://wiki.github.com/tekkub/libdatabroker-1-1/addons-using-ldb"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bazooka/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bazooka/3.3.5.zip"
+}

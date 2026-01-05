@@ -1,0 +1,16 @@
+{
+  "title": "WeightsWatcher",
+  "description": "Ranks gear according to customizable stat weights.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/weightswatcher/logo.webp",
+  "author": "IQgryn",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/weightswatcher/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/weightswatcher/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/weightswatcher/3.3.5.zip"
+}

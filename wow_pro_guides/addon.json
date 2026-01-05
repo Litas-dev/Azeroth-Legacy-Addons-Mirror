@@ -1,0 +1,16 @@
+{
+  "title": "WoW-Pro Guides",
+  "description": "Questing and Leveling guides from the WoW-Pro community!",
+  "image": "https://warperia.com/wp-content/uploads/2025/11/warperia_WoW-Pro-Guides_logo_2025-11-04_15-09-50.jpg",
+  "author": "Ludovicus_Maior",
+  "source": {
+    "type": "github",
+    "url": "http://github.com/tekkub/libdatabroker-1-1/wikis"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wow_pro_guides/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wow_pro_guides/3.3.5.zip"
+}

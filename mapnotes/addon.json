@@ -1,0 +1,16 @@
+{
+  "title": "MapNotes",
+  "description": "Allows you to add notes to the world map and minimap helping you keep track of interesting locations.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mapnotes/logo.jpg",
+  "author": "Cortello",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/mapnotes/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mapnotes/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mapnotes/3.3.5.zip"
+}

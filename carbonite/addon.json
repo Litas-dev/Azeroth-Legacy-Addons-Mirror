@@ -1,0 +1,20 @@
+{
+  "title": "Carbonite",
+  "description": "Map replacement that includes the map and coordinates.",
+  "image": "https://warperia.com/wp-content/uploads/2024/11/ww-logo-carbonite-300x291.webp",
+  "author": "Rythal",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/DevScarabyte/Carbonite-3.3.5a-Remastered"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/carbonite/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/carbonite/2.4.3.zip",
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/carbonite/screenshot_1.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/carbonite/screenshot_2.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/carbonite/3.3.5.zip"
+}

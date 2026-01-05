@@ -1,0 +1,16 @@
+{
+  "title": "wMarker - Raid Controls / Marker Controls",
+  "description": "Easy access to raid markers, world markers, and other raid controls",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wmarker_raid_controls_marker_controls/logo.webp",
+  "author": "Waky08",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/wmarker-raid-controls-marker-controls/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wmarker_raid_controls_marker_controls/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/wmarker_raid_controls_marker_controls/3.3.5.zip"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "TrinketCDs",
+  "description": "Trinket cooldowns addon for WotLK",
+  "image": "https://warperia.com/wp-content/uploads/2024/12/addon-logo-3276-674c52eea11d2.png",
+  "author": "Ridepad",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Ridepad/TrinketCDs"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/trinketcds/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/trinketcds/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/trinketcds/screenshot_2.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/trinketcds/screenshot_3.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/trinketcds/screenshot_4.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/trinketcds/screenshot_5.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/trinketcds/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "X-PerlUnitFrames",
+  "description": "Replaces the normal unit, party, target, pet frames and adds target-of-target.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/x_perlunitframes/logo.webp",
+  "author": "MysticalOS",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/x-perlunitframes/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/x_perlunitframes/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/x_perlunitframes/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/x_perlunitframes/3.3.5.zip"
+}

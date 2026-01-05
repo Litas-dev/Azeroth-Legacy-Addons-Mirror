@@ -1,0 +1,16 @@
+{
+  "title": "Grid2",
+  "description": "A modular, lightweight and screen-estate saving grid of party/raid unit frames.",
+  "image": "https://warperia.com/wp-content/uploads/2024/11/ww-logo-grid2-300x196.webp",
+  "author": "bkader",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/bkader/Grid2-WoTLK"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/grid2/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/grid2/3.3.5.zip"
+}

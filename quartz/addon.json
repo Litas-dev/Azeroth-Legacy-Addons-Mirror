@@ -1,0 +1,16 @@
+{
+  "title": "Quartz",
+  "description": "Quartz is a modular approach to a casting bar addon.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quartz/logo.webp",
+  "author": "Nymbia",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/quartz/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quartz/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quartz/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quartz/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Quest Announce",
+  "description": "Announces your quest progression to your group.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quest_announce/logo.webp",
+  "author": "Sommy",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/quest-announce/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quest_announce/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quest_announce/3.3.5.zip"
+}

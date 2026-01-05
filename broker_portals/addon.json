@@ -1,0 +1,16 @@
+{
+  "title": "Broker_Portals",
+  "description": "Provides access to all Portal and Teleport spells on right click of one button.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/broker_portals/logo.jpg",
+  "author": "artscout375",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/broker_portals/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/broker_portals/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/broker_portals/3.3.5.zip"
+}

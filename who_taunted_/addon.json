@@ -1,0 +1,16 @@
+{
+  "title": "Who Taunted?",
+  "description": "Tracks player taunts and displays who they taunted, what ability they used to taunt, and if it failed in some way.",
+  "image": "https://warperia.com/wp-content/uploads/2025/11/warperia_Who-Taunted_logo_2025-11-04_15-23-52.png",
+  "author": "Davie3",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Davie3/who-taunted"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/who_taunted_/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/who_taunted_/3.3.5.zip"
+}

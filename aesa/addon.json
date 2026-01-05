@@ -1,0 +1,16 @@
+{
+  "title": "Aesa",
+  "description": "Aesa helps you track enemy cooldowns.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/aesa/logo.webp",
+  "author": "Ananhaid",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/aesa/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/aesa/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/aesa/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/aesa/3.3.5.zip"
+}

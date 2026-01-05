@@ -1,0 +1,16 @@
+{
+  "title": "AutoInvite by Martag",
+  "description": "Used to Automatically Invite players into a group/raid based on what and where they say certain &quot;trigger&quot; keywords.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/autoinvite_by_martag/logo.jpg",
+  "author": "Martag",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/autoinvite-by-martag/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/autoinvite_by_martag/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/autoinvite_by_martag/3.3.5.zip"
+}

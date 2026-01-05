@@ -1,0 +1,16 @@
+{
+  "title": "OPie",
+  "description": "OPie lets you group actions into rings which appear when you hold down a key.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/opie/logo.webp",
+  "author": "Foxlit",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/opie/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/opie/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/opie/3.3.5.zip"
+}

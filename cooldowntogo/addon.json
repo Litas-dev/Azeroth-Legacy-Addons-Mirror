@@ -1,0 +1,16 @@
+{
+  "title": "CooldownToGo",
+  "description": "Displays the remaing cooldown of the action you tried to use",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cooldowntogo/logo.png",
+  "author": "mitchnull",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/cooldowntogo/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cooldowntogo/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cooldowntogo/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cooldowntogo/3.3.5.zip"
+}

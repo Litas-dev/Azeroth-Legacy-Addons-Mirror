@@ -1,0 +1,16 @@
+{
+  "title": "Tongues",
+  "description": "Tongues",
+  "image": "https://warperia.com/wp-content/uploads/2025/11/warperia_Tongues_logo_2025-11-04_15-39-27.jpg",
+  "author": "_ForgeUser307712",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Aurorablade/Tongues"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tongues/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tongues/3.3.5.zip"
+}

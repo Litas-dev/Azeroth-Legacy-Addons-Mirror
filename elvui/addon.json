@@ -1,0 +1,16 @@
+{
+  "title": "ElvUI",
+  "description": "User Interface replacement AddOn for World of Warcraft.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/elvui/logo.webp",
+  "author": "TukUI Team",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/elvui/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/elvui/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/elvui/3.3.5.zip"
+}

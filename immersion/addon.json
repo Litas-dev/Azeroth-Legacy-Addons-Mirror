@@ -1,0 +1,19 @@
+{
+  "title": "Immersion",
+  "description": "Immersion is a replacement for the dated quest &amp; gossip frames.",
+  "image": "https://warperia.com/wp-content/uploads/2025/01/addon-logo-3954-67877820f12fa-300x217.png",
+  "author": "leoaviana",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/leoaviana/ImmersionLK"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/immersion/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/immersion/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/immersion/3.3.5.zip"
+}

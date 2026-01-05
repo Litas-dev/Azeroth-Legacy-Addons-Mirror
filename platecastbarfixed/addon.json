@@ -1,0 +1,20 @@
+{
+  "title": "PlateCastBarFixed",
+  "description": "Nameplate castbar addon. Shows casts on all nameplates. Options, media, test mode.",
+  "image": "https://warperia.com/wp-content/uploads/2025/10/addon-logo-13974-68e3fd2f105a2-300x179.png",
+  "author": "thierbig",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/thierbig/PlateCastBar-3.3.5-Fixed"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/platecastbarfixed/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/platecastbarfixed/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/platecastbarfixed/screenshot_2.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/platecastbarfixed/3.3.5.zip"
+}

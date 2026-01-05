@@ -1,0 +1,19 @@
+{
+  "title": "AddFriend",
+  "description": "Enhances the player unit dropdown menu, seamlessly integrating options to add Friends and Guild members.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/addfriend/logo.png",
+  "author": "fyrye",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/addfriend/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/addfriend/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/addfriend/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/addfriend/3.3.5.zip"
+}

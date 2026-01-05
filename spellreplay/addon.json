@@ -1,0 +1,16 @@
+{
+  "title": "SpellReplay",
+  "description": "Helps you keep track of your CDs and casted abilities.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spellreplay/logo.png",
+  "author": "Oldsalt0",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/spellreplay/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spellreplay/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spellreplay/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spellreplay/3.3.5.zip"
+}

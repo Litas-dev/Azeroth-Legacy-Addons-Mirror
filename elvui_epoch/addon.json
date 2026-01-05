@@ -1,0 +1,16 @@
+{
+  "title": "ElvUI Epoch",
+  "description": "An ElvUI modification that prevents a crash on Project Epoch.",
+  "image": "https://warperia.com/wp-content/uploads/2025/09/addon-logo-9426-68d659f8c9946.webp",
+  "author": "Bennylavaa",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Bennylavaa/ElvUI-Epoch"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/elvui_epoch/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/elvui_epoch/3.3.5.zip"
+}

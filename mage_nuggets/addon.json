@@ -1,0 +1,16 @@
+{
+  "title": "Mage Nuggets",
+  "description": "Mage Nuggets is a mage utility with many useful nuggets to make the lives of mages easier.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mage_nuggets/logo.webp",
+  "author": "b-buck",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/mage-nuggets/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mage_nuggets/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mage_nuggets/3.3.5.zip"
+}

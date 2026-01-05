@@ -1,0 +1,21 @@
+{
+  "title": "Daggerlols Item Level",
+  "description": "Shows the item level in a small class colored text on top of the item.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/daggerlols_item_level/logo.jpg",
+  "author": "Atane",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/daggerlols-item-level/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/daggerlols_item_level/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/daggerlols_item_level/screenshot_1.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/daggerlols_item_level/screenshot_2.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/daggerlols_item_level/screenshot_3.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/daggerlols_item_level/3.3.5.zip"
+}

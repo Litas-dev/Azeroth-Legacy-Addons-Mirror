@@ -1,0 +1,16 @@
+{
+  "title": "Bison",
+  "description": "Customizing your buff display.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bison/logo.webp",
+  "author": "TimTaler",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/bison/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bison/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bison/3.3.5.zip"
+}

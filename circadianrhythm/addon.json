@@ -1,0 +1,19 @@
+{
+  "title": "CircadianRhythm",
+  "description": "Addon that shows a GUI window with the Day/Night cycle information.",
+  "image": "https://warperia.com/wp-content/uploads/2025/09/addon-logo-9177-68bca0a397ed1-300x291.png",
+  "author": "Bennylavaa",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Bennylavaa/CircadianRhythm"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/circadianrhythm/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/circadianrhythm/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/circadianrhythm/3.3.5.zip"
+}

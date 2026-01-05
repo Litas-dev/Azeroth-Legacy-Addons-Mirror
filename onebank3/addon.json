@@ -1,0 +1,16 @@
+{
+  "title": "OneBank3",
+  "description": "OneBank3 will combine all the bank bags into one frame.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/onebank3/logo.webp",
+  "author": "Kaelten",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/onebank3/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/onebank3/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/onebank3/3.3.5.zip"
+}

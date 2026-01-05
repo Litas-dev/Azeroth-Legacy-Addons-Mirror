@@ -1,0 +1,16 @@
+{
+  "title": "Chinchilla Minimap",
+  "description": "Minimap addon of awesomeness. It&#039;ll nibble your hay pellets.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chinchilla_minimap/logo.webp",
+  "author": "ckknight",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/chinchilla-minimap/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chinchilla_minimap/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chinchilla_minimap/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chinchilla_minimap/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "PitBull Unit Frames",
+  "description": "PitBull is a Unit Frames addon that provides maximal customization.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pitbull_unit_frames/logo.webp",
+  "author": "Shefki",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/pitbull-unit-frames/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pitbull_unit_frames/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pitbull_unit_frames/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pitbull_unit_frames/3.3.5.zip"
+}

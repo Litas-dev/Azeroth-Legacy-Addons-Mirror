@@ -1,0 +1,20 @@
+{
+  "title": "NotPlater",
+  "description": "Feature rich nameplate addon",
+  "image": "https://warperia.com/wp-content/uploads/2024/12/addon-logo-3481-675cc6455fbdd-300x96.png",
+  "author": "RichSteini",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/RichSteini/NotPlater"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/notplater/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/notplater/2.4.3.zip",
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/notplater/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/notplater/screenshot_2.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/notplater/3.3.5.zip"
+}

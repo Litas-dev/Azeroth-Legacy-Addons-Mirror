@@ -1,0 +1,16 @@
+{
+  "title": "SimpleUnitFrames",
+  "description": "An extension to the default WoW Unit Frames.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/simpleunitframes/logo.webp",
+  "author": "rophy",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/simpleunitframes/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/simpleunitframes/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/simpleunitframes/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/simpleunitframes/3.3.5.zip"
+}

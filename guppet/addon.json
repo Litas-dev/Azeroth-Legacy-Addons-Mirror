@@ -1,0 +1,16 @@
+{
+  "title": "GupPet",
+  "description": "GupPet",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/guppet/logo.webp",
+  "author": "_ForgeUser2148619",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/guppet/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/guppet/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/guppet/3.3.5.zip"
+}

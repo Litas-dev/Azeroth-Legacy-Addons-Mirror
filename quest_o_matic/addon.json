@@ -1,0 +1,16 @@
+{
+  "title": "Quest-o-matic",
+  "description": "Auto accepting and turning in quests",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quest_o_matic/logo.webp",
+  "author": "Miratu",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/quest-o-matic/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quest_o_matic/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quest_o_matic/3.3.5.zip"
+}

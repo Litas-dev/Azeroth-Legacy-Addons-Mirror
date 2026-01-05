@@ -1,0 +1,16 @@
+{
+  "title": "Cyanide Poison Reminder",
+  "description": "Reminds rogues when their poisons are about to expire.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cyanide_poison_reminder/logo.webp",
+  "author": "CruizeT",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/cyanide-poison-reminder/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cyanide_poison_reminder/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cyanide_poison_reminder/3.3.5.zip"
+}

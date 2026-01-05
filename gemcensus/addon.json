@@ -1,0 +1,16 @@
+{
+  "title": "GemCensus",
+  "description": "GemCensus inspects people and records which gems they have socketed.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gemcensus/logo.webp",
+  "author": "Cyprias",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/gemcensus/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gemcensus/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gemcensus/3.3.5.zip"
+}

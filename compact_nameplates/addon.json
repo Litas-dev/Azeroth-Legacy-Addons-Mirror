@@ -1,0 +1,16 @@
+{
+  "title": "Compact Nameplates",
+  "description": "Custom nameplates for Project Epoch (3.3.5), inspired by Blizzard’s classic raid frames.",
+  "image": "https://warperia.com/wp-content/uploads/2025/09/addon-logo-9446-68d9895a046f6.png",
+  "author": "Jake",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/jvanmourik/CompactNameplates"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/compact_nameplates/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/compact_nameplates/3.3.5.zip"
+}

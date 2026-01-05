@@ -1,0 +1,16 @@
+{
+  "title": "TinyDPS",
+  "description": "A lightweight damage and healing meter.",
+  "image": "https://warperia.com/wp-content/uploads/2025/11/warperia_TinyDPS_logo_2025-11-04_15-34-34.png",
+  "author": "Talyrius",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Talyrius/TinyDPS/issues"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tinydps/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tinydps/3.3.5.zip"
+}

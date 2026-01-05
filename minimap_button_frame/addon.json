@@ -1,0 +1,16 @@
+{
+  "title": "Minimap Button Frame",
+  "description": "Collects the minimap buttons and puts them into a moveable frame.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/minimap_button_frame/logo.webp",
+  "author": "Bachlott",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/minimap-button-frame/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/minimap_button_frame/3.3.5.zip",
+    "tbc": null,
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/minimap_button_frame/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/minimap_button_frame/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Totem Timers",
+  "description": "Helps shamans manage their totems, shields and weapon buffs.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/totem_timers/logo.webp",
+  "author": "Zulah",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/totem-timers/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/totem_timers/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/totem_timers/2.4.3.zip",
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/totem_timers/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/totem_timers/3.3.5.zip"
+}

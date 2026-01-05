@@ -1,0 +1,16 @@
+{
+  "title": "TinyMeleeStats",
+  "description": "Shows your current melee stats (Attack Power, Crit Chance, Hit Chance, Main and offhand weapon speed). By TheVaan",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tinymeleestats/logo.png",
+  "author": "TheVaan_",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/tinymeleestats/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tinymeleestats/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tinymeleestats/3.3.5.zip"
+}

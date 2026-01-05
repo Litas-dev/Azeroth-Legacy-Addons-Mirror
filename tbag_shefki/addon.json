@@ -1,0 +1,16 @@
+{
+  "title": "TBag-Shefki",
+  "description": "The last bag addon you&#039;ll ever need. Autosorting, viewable anywhere, easy to use yet amazingly configurable.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tbag_shefki/logo.webp",
+  "author": "shefkin",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/tbag-shefki/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tbag_shefki/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tbag_shefki/3.3.5.zip"
+}

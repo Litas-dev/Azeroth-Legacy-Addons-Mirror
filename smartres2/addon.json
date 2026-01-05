@@ -1,0 +1,16 @@
+{
+  "title": "SmartRes2",
+  "description": "Co-ordinated targetless Party and Raid wipe recovery. Evolved",
+  "image": "https://warperia.com/wp-content/uploads/2025/11/warperia_SmartRes2_logo_2025-11-04_15-36-54.jpg",
+  "author": "Sygon_Paul",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Myrroddin/smartres2/wiki/Public-API"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/smartres2/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/smartres2/3.3.5.zip"
+}

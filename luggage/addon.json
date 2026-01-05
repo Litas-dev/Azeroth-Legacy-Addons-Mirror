@@ -1,0 +1,16 @@
+{
+  "title": "Luggage",
+  "description": "A chest made of sapient pearwood that sorts your inventory for you",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/luggage/logo.webp",
+  "author": "_ForgeUser7189",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/luggage/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/luggage/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/luggage/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/luggage/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "MiniMount",
+  "description": "MiniMount",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/minimount/logo.webp",
+  "author": "Kjasi",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/minimount/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/minimount/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/minimount/3.3.5.zip"
+}

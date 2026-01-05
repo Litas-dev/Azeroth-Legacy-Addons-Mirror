@@ -1,0 +1,20 @@
+{
+  "title": "pretty_lootalert",
+  "description": "Adds alert system for receiving loot, crafting, learning recipes, winning on battlefields.",
+  "image": "https://warperia.com/wp-content/uploads/2025/01/addon-logo-3968-678779f87f298-300x219.png",
+  "author": "s0h2x",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/s0h2x/pretty_lootalert"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pretty_lootalert/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pretty_lootalert/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pretty_lootalert/screenshot_2.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pretty_lootalert/3.3.5.zip"
+}

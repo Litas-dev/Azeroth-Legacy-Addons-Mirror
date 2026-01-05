@@ -1,0 +1,16 @@
+{
+  "title": "RAQ (Raid Achievement Query)",
+  "description": "Shows achievements needed and completed in the raid/party",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/raq_raid_achievement_query_/logo.webp",
+  "author": "_ForgeUser2265545",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/raq-raid-achievement-query/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/raq_raid_achievement_query_/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/raq_raid_achievement_query_/3.3.5.zip"
+}

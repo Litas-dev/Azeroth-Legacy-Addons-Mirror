@@ -1,0 +1,19 @@
+{
+  "title": "RCLootCouncil",
+  "description": "Interface for running a Loot Council.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rclootcouncil/logo.webp",
+  "author": "broizter",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/rclootcouncil/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rclootcouncil/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rclootcouncil/screenshot_1.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rclootcouncil/3.3.5.zip"
+}

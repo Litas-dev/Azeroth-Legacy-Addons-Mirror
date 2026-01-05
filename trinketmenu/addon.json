@@ -1,0 +1,19 @@
+{
+  "title": "TrinketMenu",
+  "description": "Lightweight trinket manager, updated for 3.3.5",
+  "image": "https://warperia.com/wp-content/uploads/2025/09/addon-logo-12870-68dae586960ef-300x215.png",
+  "author": "thierbig",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/thierbig/TrinketMenu-3.3.5"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/trinketmenu/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/trinketmenu/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/trinketmenu/3.3.5.zip"
+}

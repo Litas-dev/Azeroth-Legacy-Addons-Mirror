@@ -1,0 +1,16 @@
+{
+  "title": "Market Watcher",
+  "description": "Records the state of the auction house for specified items.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/market_watcher/logo.webp",
+  "author": "Torrid01",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/market-watcher/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/market_watcher/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/market_watcher/3.3.5.zip"
+}

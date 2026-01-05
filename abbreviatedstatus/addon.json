@@ -1,0 +1,16 @@
+{
+  "title": "AbbreviatedStatus",
+  "description": "Enables the display of health and mana values, either as absolute numbers or percentages, on both the player and target unit frames",
+  "image": "https://warperia.com/wp-content/themes/warperia-com/assets/img/default-image.jpg",
+  "author": "RomanSpector",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/RomanSpector/AbbreviatedStatus/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/abbreviatedstatus/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/abbreviatedstatus/3.3.5.zip"
+}

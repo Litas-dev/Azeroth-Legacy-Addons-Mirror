@@ -1,0 +1,16 @@
+{
+  "title": "Magnify",
+  "description": "World of Warcraft WotLK (3.3.5a) add-on that enables world map zoom.",
+  "image": "https://warperia.com/wp-content/uploads/2025/07/addon-logo-4503-6866e4b146dea-300x176.jpg",
+  "author": "rissole",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/rissole/Magnify-WotLK"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/magnify/3.3.5.zip",
+    "tbc": null,
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/magnify/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/magnify/3.3.5.zip"
+}

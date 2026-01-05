@@ -1,0 +1,15 @@
+# Action Bar Saver
+
+<img src="logo.jpg" align="right" width="100">
+
+Saves and restores your action bars.
+
+## Metadata
+
+- **Author:** Shadowed
+- **Source:** [Original Link](https://warperia.com/addon-wotlk/action-bar-saver/)
+
+## Supported Versions
+
+- [x] 3.3.5 (WotLK)
+- [x] 2.4.3 (TBC)

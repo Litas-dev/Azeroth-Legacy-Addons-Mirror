@@ -1,0 +1,16 @@
+{
+  "title": "TotemRadius",
+  "description": "Shows you the radius of your totems.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/totemradius/logo.webp",
+  "author": "Cyprias",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/totemradius/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/totemradius/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/totemradius/3.3.5.zip"
+}

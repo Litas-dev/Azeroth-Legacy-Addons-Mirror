@@ -1,0 +1,16 @@
+{
+  "title": "AutoRepair",
+  "description": "Automaticaly repairs all items when a merchant window is opened.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/autorepair/logo.webp",
+  "author": "markyxl",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/autorepair/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/autorepair/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/autorepair/3.3.5.zip"
+}

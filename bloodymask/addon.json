@@ -1,0 +1,19 @@
+{
+  "title": "BloodyMask",
+  "description": "Simulates Metro&#039;s Gas Mask effects based on your character&#039;s actions.",
+  "image": "https://warperia.com/wp-content/uploads/2024/12/addon-logo-3670-6761bc578fffb-300x169.jpg",
+  "author": "bkader",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/bkader/BloodyMask"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bloodymask/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bloodymask/screenshot_1.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bloodymask/3.3.5.zip"
+}

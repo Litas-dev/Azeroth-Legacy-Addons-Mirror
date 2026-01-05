@@ -1,0 +1,16 @@
+{
+  "title": "Sick Of Clicking Dailies",
+  "description": "AutoMagicly clicks though Daily Quests, and Turns them In.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sick_of_clicking_dailies/logo.webp",
+  "author": "orionshocked",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/sick-of-clicking-dailies/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sick_of_clicking_dailies/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sick_of_clicking_dailies/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sick_of_clicking_dailies/3.3.5.zip"
+}

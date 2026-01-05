@@ -1,0 +1,16 @@
+{
+  "title": "Nameplates Modifier",
+  "description": "Helps you customize the default nameplates.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/nameplates_modifier/logo.webp",
+  "author": "Shadowed",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/nameplates-modifier/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/nameplates_modifier/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/nameplates_modifier/3.3.5.zip"
+}

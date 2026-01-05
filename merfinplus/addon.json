@@ -1,0 +1,16 @@
+{
+  "title": "MerfinPlus",
+  "description": "Inserts Merfin media into LibSharedMedia&#039;s storage.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/merfinplus/logo.webp",
+  "author": "Merfin",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/merfinplus/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/merfinplus/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/merfinplus/3.3.5.zip"
+}

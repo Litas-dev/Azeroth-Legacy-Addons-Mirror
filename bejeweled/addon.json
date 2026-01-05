@@ -1,0 +1,16 @@
+{
+  "title": "Bejeweled",
+  "description": "The popular game Bejeweled, now for World of Warcraft!",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bejeweled/logo.webp",
+  "author": "Kadecgos",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/bejeweled/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bejeweled/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bejeweled/3.3.5.zip"
+}

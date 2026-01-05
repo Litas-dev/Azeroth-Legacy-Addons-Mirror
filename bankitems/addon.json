@@ -1,0 +1,16 @@
+{
+  "title": "BankItems",
+  "description": "View bank, inventory, mail, equipped and guild bank contents from any character anywhere.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bankitems/logo.webp",
+  "author": "Xinhuan",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/bankitems/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bankitems/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bankitems/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bankitems/3.3.5.zip"
+}

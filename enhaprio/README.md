@@ -1,0 +1,14 @@
+# EnhaPrio
+
+<img src="logo.webp" align="right" width="100">
+
+Suggested spell priority for enhancement shamans.
+
+## Metadata
+
+- **Author:** Unknown
+- **Source:** [Original Link](https://warperia.com/addon-wotlk/enhaprio/)
+
+## Supported Versions
+
+- [x] 3.3.5 (WotLK)

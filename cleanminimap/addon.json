@@ -1,0 +1,20 @@
+{
+  "title": "CleanMinimap",
+  "description": "A clean square or round minimap that replaces the default minimap.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cleanminimap/logo.jpg",
+  "author": "Azxiana",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/cleanminimap/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cleanminimap/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cleanminimap/screenshot_1.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cleanminimap/screenshot_2.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/cleanminimap/3.3.5.zip"
+}

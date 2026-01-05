@@ -1,0 +1,16 @@
+{
+  "title": "Addon Loader",
+  "description": "Speeds up the loading process by enabling addons when they are needed.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/addon_loader/logo.webp",
+  "author": "Ammo",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/addon-loader/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/addon_loader/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/addon_loader/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "MacroBank",
+  "description": "MacroBank is an addon to allow you to save macros for future use.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/macrobank/logo.webp",
+  "author": "Odlaw",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/macrobank/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/macrobank/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/macrobank/3.3.5.zip"
+}

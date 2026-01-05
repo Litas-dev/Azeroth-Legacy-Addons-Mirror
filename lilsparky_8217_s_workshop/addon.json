@@ -1,0 +1,16 @@
+{
+  "title": "LilSparky&#8217;s Workshop",
+  "description": "LilSparky&#039;s Workshop mod for Trade Skills.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lilsparky_8217_s_workshop/logo.webp",
+  "author": "lilsparky",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/lilsparkys-workshop/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lilsparky_8217_s_workshop/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lilsparky_8217_s_workshop/3.3.5.zip"
+}

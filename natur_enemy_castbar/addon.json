@@ -1,0 +1,16 @@
+{
+  "title": "Natur Enemy Castbar",
+  "description": "Show a targets beneficial buffs and debuffs with the option to ignore certain spells or abilities.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/natur_enemy_castbar/logo.webp",
+  "author": "Codermik",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/natur-enemy-castbar/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/natur_enemy_castbar/3.3.5.zip",
+    "tbc": null,
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/natur_enemy_castbar/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/natur_enemy_castbar/3.3.5.zip"
+}

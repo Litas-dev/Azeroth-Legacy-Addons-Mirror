@@ -1,0 +1,16 @@
+{
+  "title": "Guild Search",
+  "description": "A UI for searching the guild roster.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/guild_search/logo.jpg",
+  "author": "Talryn",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/guild-search/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/guild_search/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/guild_search/3.3.5.zip"
+}

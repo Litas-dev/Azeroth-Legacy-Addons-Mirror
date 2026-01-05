@@ -1,0 +1,16 @@
+{
+  "title": "GridIndicatorCornerPlus",
+  "description": "Adds 3 corner indicators to each corner of the Grid frames.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gridindicatorcornerplus/logo.webp",
+  "author": "_ForgeUser136437",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/gridindicatorcornerplus/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gridindicatorcornerplus/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gridindicatorcornerplus/3.3.5.zip"
+}

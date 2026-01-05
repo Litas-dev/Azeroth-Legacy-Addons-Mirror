@@ -1,0 +1,16 @@
+{
+  "title": "ShadowedUnitFrames",
+  "description": "Improve your boring Blizzard UI with prettier unit frames.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/shadowedunitframes/logo.webp",
+  "author": "Shadowed",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/shadowedunitframes/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/shadowedunitframes/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/shadowedunitframes/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/shadowedunitframes/3.3.5.zip"
+}

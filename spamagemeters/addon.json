@@ -1,0 +1,16 @@
+{
+  "title": "SpamageMeters",
+  "description": "Suppresses chat messages from damage meters and provides single chat-link damage statistics in a popup.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spamagemeters/logo.webp",
+  "author": "_ForgeUser1373614",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/spamagemeters/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spamagemeters/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spamagemeters/3.3.5.zip"
+}

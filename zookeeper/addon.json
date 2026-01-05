@@ -1,0 +1,16 @@
+{
+  "title": "ZooKeeper",
+  "description": "It can be used to overcome the ignore list size limitation.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/zookeeper/logo.webp",
+  "author": "CheshireKatt",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/zookeeper/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/zookeeper/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/zookeeper/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/zookeeper/3.3.5.zip"
+}

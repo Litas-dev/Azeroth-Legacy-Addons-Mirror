@@ -1,0 +1,16 @@
+{
+  "title": "JebusMail",
+  "description": "Easily mail friends, guild members, alts and others",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/jebusmail/logo.png",
+  "author": "Jebus905",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/jebusmail/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/jebusmail/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/jebusmail/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/jebusmail/3.3.5.zip"
+}

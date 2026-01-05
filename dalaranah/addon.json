@@ -1,0 +1,16 @@
+{
+  "title": "DalaranAH",
+  "description": "Lightweight addon that simplifies interactions with the Auctionhouse NPC in Dalaran",
+  "image": "https://warperia.com/wp-content/uploads/2024/12/addon-logo-3343-6758877308ac7.png",
+  "author": "NoM0Re",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/NoM0Re/DalaranAH"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dalaranah/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dalaranah/3.3.5.zip"
+}

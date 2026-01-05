@@ -1,0 +1,16 @@
+{
+  "title": "Gryphons Remover",
+  "description": "Simply removes the Gryphons from your Buttonbar",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gryphons_remover/logo.jpg",
+  "author": "tehKD",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/gryphons-remover/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gryphons_remover/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gryphons_remover/3.3.5.zip"
+}

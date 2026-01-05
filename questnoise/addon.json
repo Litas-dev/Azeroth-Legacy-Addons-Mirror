@@ -1,0 +1,16 @@
+{
+  "title": "QuestNoise",
+  "description": "Plays sounds upon making progress on quest objectives",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/questnoise/logo.png",
+  "author": "cybermind",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/questnoise/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/questnoise/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/questnoise/3.3.5.zip"
+}

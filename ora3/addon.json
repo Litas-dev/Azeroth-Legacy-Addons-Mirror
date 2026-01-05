@@ -1,0 +1,16 @@
+{
+  "title": "oRA3",
+  "description": "oRA3 is a raid leading addon, offering loot settings, invite settings and more.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ora3/logo.webp",
+  "author": "funkydude",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/ora3/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ora3/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/ora3/3.3.5.zip"
+}

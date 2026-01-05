@@ -1,0 +1,16 @@
+{
+  "title": "Whisp",
+  "description": "Makes chatting fun again! Type /whisp for options",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/whisp/logo.webp",
+  "author": "Dreyle",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/whisp/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/whisp/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/whisp/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "SexyMap",
+  "description": "Spice up ye olde minimap with some sexytime options.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sexymap/logo.webp",
+  "author": "funkydude",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/sexymap/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sexymap/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sexymap/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sexymap/3.3.5.zip"
+}

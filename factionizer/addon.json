@@ -1,0 +1,16 @@
+{
+  "title": "Factionizer",
+  "description": "Tells you what you can do to improve your faction reputation.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/factionizer/logo.webp",
+  "author": "A_Nolan",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/factionizer/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/factionizer/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/factionizer/3.3.5.zip"
+}

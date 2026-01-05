@@ -1,0 +1,16 @@
+{
+  "title": "Dimmed Actions",
+  "description": "Dims action buttons.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dimmed_actions/logo.webp",
+  "author": "Cyprias",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/dimmed-actions/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dimmed_actions/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dimmed_actions/3.3.5.zip"
+}

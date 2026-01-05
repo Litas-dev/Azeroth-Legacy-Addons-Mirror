@@ -1,0 +1,16 @@
+{
+  "title": "LootCouncilLite",
+  "description": "Loot Council is a new mod designed to help loot councils with a solid voting interface.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lootcouncillite/logo.webp",
+  "author": "Blacksen",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/lootcouncillite/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lootcouncillite/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lootcouncillite/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "BigDebuffs Ascension",
+  "description": "BigDebuffs for Ascension Bronzebeard/Malfurion.",
+  "image": "https://warperia.com/wp-content/uploads/2025/10/addon-logo-14229-69042ef7c931c-300x300.png",
+  "author": "Exad",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/MCribari/BigDebuffs-Ascension"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bigdebuffs_ascension/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bigdebuffs_ascension/3.3.5.zip"
+}

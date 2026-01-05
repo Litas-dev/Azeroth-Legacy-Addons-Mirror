@@ -1,0 +1,16 @@
+{
+  "title": "Piece of Justice",
+  "description": "Piece of Justice",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/piece_of_justice/logo.webp",
+  "author": "DarkAtair",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/piece-of-justice/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/piece_of_justice/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/piece_of_justice/3.3.5.zip"
+}

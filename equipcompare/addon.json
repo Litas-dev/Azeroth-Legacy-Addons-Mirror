@@ -1,0 +1,16 @@
+{
+  "title": "EquipCompare",
+  "description": "Simple addon for quick item comparisons.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/equipcompare/logo.jpg",
+  "author": "Legorol",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/equipcompare/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/equipcompare/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/equipcompare/3.3.5.zip"
+}

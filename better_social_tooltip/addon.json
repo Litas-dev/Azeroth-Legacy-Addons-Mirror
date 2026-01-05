@@ -1,0 +1,16 @@
+{
+  "title": "Better Social Tooltip",
+  "description": "Tooltip of socials button will now show which friends are online",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/better_social_tooltip/logo.jpg",
+  "author": "Jebus905",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/better-social-tooltip/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/better_social_tooltip/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/better_social_tooltip/3.3.5.zip"
+}

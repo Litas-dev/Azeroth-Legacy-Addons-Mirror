@@ -1,0 +1,16 @@
+{
+  "title": "IceHUD",
+  "description": "IceHUD is a highly configurable and customizable HUD addon.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/icehud/logo.webp",
+  "author": "Parnic",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/icehud/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/icehud/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/icehud/2.4.3.zip",
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/icehud/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/icehud/3.3.5.zip"
+}

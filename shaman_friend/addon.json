@@ -1,0 +1,16 @@
+{
+  "title": "Shaman Friend",
+  "description": "Windfury Counter and Helper for Elemental Shields, Purge, Grounding Totem, Lightning Overload etc.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/shaman_friend/logo.webp",
+  "author": "bstassart",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/shaman-friend/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/shaman_friend/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/shaman_friend/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/shaman_friend/3.3.5.zip"
+}

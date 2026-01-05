@@ -1,0 +1,16 @@
+{
+  "title": "New Level Frame",
+  "description": "Simple New Level Frame for World of Warcraft Wrath of the Lich King 3.3.5",
+  "image": "https://warperia.com/wp-content/uploads/2025/08/addon-logo-4883-68947859e0221-300x204.png",
+  "author": "Mr_Rosh",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/mrrosh/WotLK-NewLevelFrame"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/new_level_frame/3.3.5.zip",
+    "tbc": null,
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/new_level_frame/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/new_level_frame/3.3.5.zip"
+}

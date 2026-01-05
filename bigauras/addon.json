@@ -1,0 +1,16 @@
+{
+  "title": "BigAuras",
+  "description": "Alternative for LoseControl",
+  "image": "https://warperia.com/wp-content/uploads/2024/11/68747470733a2f2f692e696d6775722e636f6d2f4174777a7877672e706e67-300x231.png",
+  "author": "Qblolz",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Qblolz/BigAuras"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bigauras/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bigauras/3.3.5.zip"
+}

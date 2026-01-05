@@ -1,0 +1,16 @@
+{
+  "title": "Eriks Shopping List",
+  "description": "This add-on provides a shopping list of all ingredients you need for any recipe of any profession.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/eriks_shopping_list/logo.webp",
+  "author": "Unknown",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/eriks-shopping-list/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/eriks_shopping_list/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/eriks_shopping_list/3.3.5.zip"
+}

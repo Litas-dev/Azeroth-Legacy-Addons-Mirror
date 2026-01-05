@@ -1,0 +1,16 @@
+{
+  "title": "MobInfo2",
+  "description": "Adds information about the hovered mob to the tooltip and shows health/mana.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mobinfo2/logo.webp",
+  "author": "ileclerk",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/mobinfo2/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mobinfo2/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mobinfo2/2.4.3.zip",
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mobinfo2/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/mobinfo2/3.3.5.zip"
+}

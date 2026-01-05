@@ -1,0 +1,16 @@
+{
+  "title": "CoolLine",
+  "description": "Shows cooldowns on a single bar.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/coolline/logo.webp",
+  "author": "totalpackage",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/coolline/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/coolline/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/coolline/3.3.5.zip"
+}

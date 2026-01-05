@@ -1,0 +1,16 @@
+{
+  "title": "EasyCopy",
+  "description": "EasyCopy",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/easycopy/logo.png",
+  "author": "_ForgeUser55723",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/easycopy/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/easycopy/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/easycopy/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/easycopy/3.3.5.zip"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "DBM - Whitemane",
+  "description": "DBM for Whitemane (Frostmourne)",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dbm_whitemane/logo.jpg",
+  "author": "broizter",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/dbm-whitemane/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dbm_whitemane/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dbm_whitemane/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dbm_whitemane/screenshot_2.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dbm_whitemane/screenshot_3.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/dbm_whitemane/3.3.5.zip"
+}

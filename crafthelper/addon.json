@@ -1,0 +1,16 @@
+{
+  "title": "Crafthelper",
+  "description": "A filter tool for blizzards TradeSkillUI",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/crafthelper/logo.webp",
+  "author": "endymion172",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/crafthelper/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/crafthelper/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/crafthelper/3.3.5.zip"
+}

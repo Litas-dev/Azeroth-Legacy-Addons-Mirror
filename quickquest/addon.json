@@ -1,0 +1,16 @@
+{
+  "title": "QuickQuest",
+  "description": "QuickQuest is a quest automating addon that will do the most enduring questing tasks for you.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quickquest/logo.webp",
+  "author": "p3lim",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/quickquest/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quickquest/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/quickquest/3.3.5.zip"
+}

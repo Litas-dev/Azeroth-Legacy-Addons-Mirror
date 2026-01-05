@@ -1,0 +1,16 @@
+{
+  "title": "CharacterMap",
+  "description": "Provides a virtual keyboard of extended-ASCII and Unicode characters which can be inserted into text areas.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/charactermap/logo.webp",
+  "author": "Mirrored_",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/charactermap/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/charactermap/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/charactermap/3.3.5.zip"
+}

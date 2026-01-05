@@ -1,0 +1,16 @@
+{
+  "title": "GearScore Lite",
+  "description": "Quickly and easily judge a player&#039;s level of gear",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gearscore_lite/logo.webp",
+  "author": "Mirrikat45",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/gearscore-lite/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gearscore_lite/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gearscore_lite/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gearscore_lite/3.3.5.zip"
+}

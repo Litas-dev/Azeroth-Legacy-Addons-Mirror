@@ -1,0 +1,16 @@
+{
+  "title": "FonzAppraiser",
+  "description": "FonzAppraiser is an addon for World of Warcraft to track the value of personal loot.",
+  "image": "https://warperia.com/wp-content/uploads/2024/11/FonzAppraiser-01-300x214.png",
+  "author": "fondlez",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/fondlez/FonzAppraiser"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fonzappraiser/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fonzappraiser/3.3.5.zip"
+}

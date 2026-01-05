@@ -1,0 +1,16 @@
+{
+  "title": "Rune It All",
+  "description": "Simple and rich Death Knight rune customizations.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rune_it_all/logo.webp",
+  "author": "Cralor",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/rune-it-all/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rune_it_all/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/rune_it_all/3.3.5.zip"
+}

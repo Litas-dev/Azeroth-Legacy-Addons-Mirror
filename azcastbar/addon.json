@@ -1,0 +1,21 @@
+{
+  "title": "AzCastBar",
+  "description": "A highly customizable and lightweight casting bar replacement addon, with support for saved profiles and plugins.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/azcastbar/logo.jpg",
+  "author": "Aezay",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/azcastbar/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/azcastbar/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/azcastbar/screenshot_1.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/azcastbar/screenshot_2.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/azcastbar/screenshot_3.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/azcastbar/3.3.5.zip"
+}

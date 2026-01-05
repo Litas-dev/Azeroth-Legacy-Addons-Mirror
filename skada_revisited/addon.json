@@ -1,0 +1,16 @@
+{
+  "title": "Skada Revisited",
+  "description": "An improved version of Skada Damage Meter",
+  "image": "https://warperia.com/wp-content/uploads/2024/11/ww-logo-skadarevisited-300x166.webp",
+  "author": "bkader",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/bkader/Skada-WoTLK"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/skada_revisited/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/skada_revisited/3.3.5.zip"
+}

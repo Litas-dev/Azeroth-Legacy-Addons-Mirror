@@ -1,0 +1,19 @@
+{
+  "title": "PerfilesDeBandaRetail",
+  "description": "Básicamente la opciones de grupo y banda del retail, en Lich King.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/perfilesdebandaretail/logo.png",
+  "author": "ErCr1S (Niugh)",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/perfilesdebandaretail/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/perfilesdebandaretail/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/perfilesdebandaretail/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/perfilesdebandaretail/3.3.5.zip"
+}

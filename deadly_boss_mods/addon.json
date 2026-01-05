@@ -1,0 +1,16 @@
+{
+  "title": "Deadly Boss Mods",
+  "description": "Alerts you when a Boss begins to cast certain spells or use certain skills.",
+  "image": "https://warperia.com/wp-content/uploads/2024/11/ww-logo-deadlybossmods.webp",
+  "author": "MysticalOS",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Zidras/DBM-Warmane"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/deadly_boss_mods/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/deadly_boss_mods/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/deadly_boss_mods/3.3.5.zip"
+}

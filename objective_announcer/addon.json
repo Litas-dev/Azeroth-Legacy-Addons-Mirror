@@ -1,0 +1,16 @@
+{
+  "title": "Objective Announcer",
+  "description": "Announces Questing Information to Chat.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/objective_announcer/logo.webp",
+  "author": "bantou",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/objective-announcer/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/objective_announcer/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/objective_announcer/3.3.5.zip"
+}

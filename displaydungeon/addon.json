@@ -1,0 +1,16 @@
+{
+  "title": "DisplayDungeon",
+  "description": "Displays current RDF queue status below your minimap.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/displaydungeon/logo.webp",
+  "author": "SmokeyDev",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/displaydungeon/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/displaydungeon/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/displaydungeon/3.3.5.zip"
+}

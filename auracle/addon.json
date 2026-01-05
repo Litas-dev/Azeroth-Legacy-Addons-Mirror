@@ -1,0 +1,16 @@
+{
+  "title": "Auracle",
+  "description": "Compact &amp; customizable filtering, monitoring and grouping of buffs and debuffs.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/auracle/logo.webp",
+  "author": "taleden",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/auracle/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/auracle/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/auracle/3.3.5.zip"
+}

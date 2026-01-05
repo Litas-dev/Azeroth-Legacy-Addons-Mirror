@@ -1,0 +1,16 @@
+{
+  "title": "Blitz (Quest Automation)",
+  "description": "Automatically accepts and delivers quests for you. Easy to use and highly configurable.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/blitz_quest_automation_/logo.png",
+  "author": "jaliborc",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/blitz-quest-automation/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/blitz_quest_automation_/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/blitz_quest_automation_/3.3.5.zip"
+}

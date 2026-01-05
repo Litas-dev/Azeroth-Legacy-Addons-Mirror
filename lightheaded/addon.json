@@ -1,0 +1,19 @@
+{
+  "title": "LightHeaded",
+  "description": "Displays quest information and comments from WoWHead in-game.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lightheaded/logo.png",
+  "author": "vaniron",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/lightheaded/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lightheaded/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lightheaded/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/lightheaded/3.3.5.zip"
+}

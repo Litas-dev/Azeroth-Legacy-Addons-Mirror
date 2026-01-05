@@ -1,0 +1,19 @@
+{
+  "title": "ZoneLevelInfo",
+  "description": "Este addon muestra rangos de nivel, nombres de zonas",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/zonelevelinfo/logo.png",
+  "author": "DJarv",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/zonelevelinfo/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/zonelevelinfo/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/zonelevelinfo/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/zonelevelinfo/3.3.5.zip"
+}

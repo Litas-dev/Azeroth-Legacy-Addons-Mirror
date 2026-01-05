@@ -1,0 +1,16 @@
+{
+  "title": "AutoShop",
+  "description": "Automatically buy, sell, repair, and protect items at shops.",
+  "image": "https://warperia.com/wp-content/uploads/2025/09/addon-logo-5617-68b5dd658621a-300x183.png",
+  "author": "fondlez",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/fondlez/AutoShop"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/autoshop/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/autoshop/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/autoshop/3.3.5.zip"
+}

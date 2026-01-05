@@ -1,0 +1,16 @@
+{
+  "title": "Examiner",
+  "description": "Advanced Inspection Mod of Gear, Talents, Honor, Arena and Achievements.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/examiner/logo.png",
+  "author": "Aezay",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/examiner/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/examiner/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/examiner/3.3.5.zip"
+}

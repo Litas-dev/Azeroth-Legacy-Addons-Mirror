@@ -1,0 +1,24 @@
+{
+  "title": "Exad Tweaks",
+  "description": "Based on RougeUI. Features numerous visual and quality-of-life tweaks.",
+  "image": "https://warperia.com/wp-content/uploads/2025/10/addon-logo-14085-68ecff94c5228-300x300.png",
+  "author": "Exad",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/MCribari/ExadTweaks"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/exad_tweaks/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/exad_tweaks/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/exad_tweaks/screenshot_2.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/exad_tweaks/screenshot_3.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/exad_tweaks/screenshot_4.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/exad_tweaks/screenshot_5.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/exad_tweaks/screenshot_6.gif"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/exad_tweaks/3.3.5.zip"
+}

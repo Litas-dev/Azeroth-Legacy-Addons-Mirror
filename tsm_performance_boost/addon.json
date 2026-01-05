@@ -1,0 +1,20 @@
+{
+  "title": "Tsm Performance Boost",
+  "description": "Essentially, this addon smooths out TSM’s performance",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tsm_performance_boost/logo.jpg",
+  "author": "ZoneReaper_",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/tsmperfboost-bronzebeard-ah-mail-optimizer/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tsm_performance_boost/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tsm_performance_boost/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tsm_performance_boost/screenshot_2.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/tsm_performance_boost/3.3.5.zip"
+}

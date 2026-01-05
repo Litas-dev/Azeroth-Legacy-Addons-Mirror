@@ -1,0 +1,16 @@
+{
+  "title": "ClassTimer",
+  "description": "Timers for Buffs, DOTs, CC effects, etc..",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/classtimer/logo.webp",
+  "author": "Stanzilla",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/classtimer/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/classtimer/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/classtimer/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/classtimer/3.3.5.zip"
+}

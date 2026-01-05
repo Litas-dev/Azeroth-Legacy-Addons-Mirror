@@ -1,0 +1,20 @@
+{
+  "title": "SSPVP",
+  "description": "SSPVP for Bronzebeard/ProjectEpoch",
+  "image": "https://warperia.com/wp-content/uploads/2025/09/addon-logo-9375-68cbf4ce9e10b-300x193.png",
+  "author": "Exad",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/MCribari/SSPVP-Epoch"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sspvp/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sspvp/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sspvp/screenshot_2.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sspvp/3.3.5.zip"
+}

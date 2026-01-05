@@ -1,0 +1,16 @@
+{
+  "title": "Loot Hog",
+  "description": "Tracks rolls and sorts them, allowing raid leaders to announce winners quickly and easily.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/loot_hog/logo.webp",
+  "author": "Razyel",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/loot-hog/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/loot_hog/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/loot_hog/3.3.5.zip"
+}

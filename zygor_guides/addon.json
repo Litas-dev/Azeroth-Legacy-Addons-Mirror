@@ -1,0 +1,22 @@
+{
+  "title": "Zygor Guides",
+  "description": "Multi-purpose leveling guide and talents viewer.",
+  "image": "https://warperia.com/wp-content/uploads/2024/11/ww-logo-zygorguides-300x122.webp",
+  "author": "ErebusAres",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/ErebusAres/ZygorGuidesPlus_3.3.5a-WOTLK"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/zygor_guides/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/zygor_guides/2.4.3.zip",
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/zygor_guides/screenshot_1.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/zygor_guides/screenshot_2.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/zygor_guides/screenshot_3.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/zygor_guides/screenshot_4.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/zygor_guides/3.3.5.zip"
+}

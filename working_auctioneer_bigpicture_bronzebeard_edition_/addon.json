@@ -1,0 +1,16 @@
+{
+  "title": "Working Auctioneer + BigPicture (Bronzebeard Edition)",
+  "description": "Auctioneer + BigPicture turbocharges your Warparia Auction House with real-time pricing power, full market scans, and a sleek expanded UI that turns gold-making into a weapon.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/working_auctioneer_bigpicture_bronzebeard_edition_/logo.png",
+  "author": "ZoneReaper_",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/working-auctioneer-bigpicture-bronzebeard-edition/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/working_auctioneer_bigpicture_bronzebeard_edition_/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/working_auctioneer_bigpicture_bronzebeard_edition_/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "HudMap",
+  "description": "Heads-up minimap display.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/hudmap/logo.webp",
+  "author": "Ardentvark",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/hudmap/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/hudmap/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/hudmap/3.3.5.zip"
+}

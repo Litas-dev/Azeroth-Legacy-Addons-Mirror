@@ -1,0 +1,16 @@
+{
+  "title": "SayRandomQuote",
+  "description": "Say random things in-game with a simple slash command.",
+  "image": "https://warperia.com/wp-content/themes/warperia-com/assets/img/default-image.jpg",
+  "author": "xtoq",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/xtoq/SayRandomQuote/issues"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sayrandomquote/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/sayrandomquote/3.3.5.zip"
+}

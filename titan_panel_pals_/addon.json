@@ -1,0 +1,16 @@
+{
+  "title": "Titan Panel [Pals]",
+  "description": "Friends Managment Plugin for Titan Panel",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/titan_panel_pals_/logo.webp",
+  "author": "KanadiaN1673",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/titan-panel-pals/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/titan_panel_pals_/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/titan_panel_pals_/3.3.5.zip"
+}

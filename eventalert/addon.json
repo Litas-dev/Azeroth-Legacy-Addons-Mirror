@@ -1,0 +1,16 @@
+{
+  "title": "EventAlert",
+  "description": "Simple warnings for event procs.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/eventalert/logo.webp",
+  "author": "CurtisTheGreat",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/eventalert/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/eventalert/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/eventalert/3.3.5.zip"
+}

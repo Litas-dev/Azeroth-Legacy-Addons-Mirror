@@ -1,0 +1,19 @@
+{
+  "title": "ChatTranslator",
+  "description": "Translates incoming chat messages.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chattranslator/logo.png",
+  "author": "fella",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/chattranslator/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chattranslator/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chattranslator/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/chattranslator/3.3.5.zip"
+}

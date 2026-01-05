@@ -1,0 +1,16 @@
+{
+  "title": "Recipe Radar",
+  "description": "Locates vendors who sell recipes in the current region or by profession.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/recipe_radar/logo.webp",
+  "author": "Miller",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/recipe-radar/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/recipe_radar/3.3.5.zip",
+    "tbc": null,
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/recipe_radar/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/recipe_radar/3.3.5.zip"
+}

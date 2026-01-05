@@ -1,0 +1,16 @@
+{
+  "title": "Spamalyzer",
+  "description": "Tracks SendAddonMessage Spam",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spamalyzer/logo.webp",
+  "author": "Torhal",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/spamalyzer/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spamalyzer/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/spamalyzer/3.3.5.zip"
+}

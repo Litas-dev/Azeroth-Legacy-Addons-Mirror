@@ -1,0 +1,16 @@
+{
+  "title": "AdiBags",
+  "description": "AdiBags displays the content of your bags in one view, distributed into several sections.",
+  "image": "https://warperia.com/wp-content/uploads/2024/11/ww-logo-adibags-300x177.webp",
+  "author": "Adi",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/Sattva-108/AdiBags"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/adibags/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/adibags/3.3.5.zip"
+}

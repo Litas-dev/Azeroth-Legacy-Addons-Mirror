@@ -1,0 +1,16 @@
+{
+  "title": "XToLevel",
+  "description": "Shows mobs, quests, dungeons and battles needed until you level.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/xtolevel/logo.webp",
+  "author": "AtliThor",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/xtolevel/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/xtolevel/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/xtolevel/3.3.5.zip"
+}

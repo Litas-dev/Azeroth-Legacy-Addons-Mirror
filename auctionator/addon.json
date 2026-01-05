@@ -1,0 +1,19 @@
+{
+  "title": "Auctionator",
+  "description": "Addon that makes it easy and fast to buy, sell and manage auctions.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/auctionator/logo.webp",
+  "author": "Zirco",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/auctionator/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/auctionator/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/auctionator/2.4.3.zip",
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/auctionator/screenshot_1.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/auctionator/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "FasterLoot",
+  "description": "Lightweight, non-intrusive AddOn that improves the speed at which you loot containers and corpses.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fasterloot/logo.png",
+  "author": "FoobarZA",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/fasterloot/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fasterloot/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fasterloot/3.3.5.zip"
+}

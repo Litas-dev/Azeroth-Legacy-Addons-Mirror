@@ -1,0 +1,16 @@
+{
+  "title": "aTotemBar",
+  "description": "Move and Hide the Default Totem Bar, Totem Timers, and Hides Blizzard&#039;s Timers.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/atotembar/logo.webp",
+  "author": "Arimis",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/atotembar/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/atotembar/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/atotembar/3.3.5.zip"
+}

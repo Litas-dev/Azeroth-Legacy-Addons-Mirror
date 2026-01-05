@@ -1,0 +1,20 @@
+{
+  "title": "FrameSort",
+  "description": "FrameSort for Ascension Bronzebeard/Malfurion.",
+  "image": "https://warperia.com/wp-content/themes/warperia-com/assets/img/default-image.jpg",
+  "author": "Exad",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/MCribari/FrameSort-Ascension"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/framesort/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/framesort/screenshot_1.png",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/framesort/screenshot_2.png"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/framesort/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "RoleIndicator",
+  "description": "Addon for displaying icons on nameplates to indicate if a player is a healer or tank.",
+  "image": "https://warperia.com/wp-content/uploads/2025/02/addon-logo-4163-67adbaad3b738-300x158.png",
+  "author": "ggustavo",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/ggustavo/RoleIndicator"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/roleindicator/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/roleindicator/3.3.5.zip"
+}

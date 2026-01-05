@@ -1,0 +1,16 @@
+{
+  "title": "BossHealth",
+  "description": "Boss Health Bars",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bosshealth/logo.jpg",
+  "author": "Saibantes",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/bosshealth/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bosshealth/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bosshealth/3.3.5.zip"
+}

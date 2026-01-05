@@ -1,0 +1,16 @@
+{
+  "title": "Magic Marker",
+  "description": "Automated smart raid marking to speed up trash clearing in instance runs.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/magic_marker/logo.webp",
+  "author": "neotron",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/magic-marker/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/magic_marker/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/magic_marker/3.3.5.zip"
+}

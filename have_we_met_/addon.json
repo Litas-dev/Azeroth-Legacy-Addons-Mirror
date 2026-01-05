@@ -1,0 +1,16 @@
+{
+  "title": "Have We Met?",
+  "description": "Records and display you groups and raiding with othe rplayers.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/have_we_met_/logo.webp",
+  "author": "Lintydruid",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/have-we-met/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/have_we_met_/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/have_we_met_/3.3.5.zip"
+}

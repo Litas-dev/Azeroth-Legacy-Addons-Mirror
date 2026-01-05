@@ -1,0 +1,16 @@
+{
+  "title": "Eprast_UnitFrames",
+  "description": "Upgrade your default Blizzard character frames with better ones with more thickness.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/eprast_unitframes/logo.png",
+  "author": "WbTest2",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/eprast_unitframes/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/eprast_unitframes/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/eprast_unitframes/3.3.5.zip"
+}

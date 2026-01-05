@@ -1,0 +1,16 @@
+{
+  "title": "MorgDKP2",
+  "description": "Inspects all members of raid and lists people&#039;s DKP values.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/morgdkp2/logo.webp",
+  "author": "morgalm",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/morgdkp2/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/morgdkp2/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/morgdkp2/3.3.5.zip"
+}

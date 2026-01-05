@@ -1,0 +1,16 @@
+{
+  "title": "AutomaticWeaponRemoval",
+  "description": "This addon remove (swap) your weapons automatically if you are melee and get mind controlled by a variety of bosses.",
+  "image": "https://warperia.com/wp-content/uploads/2025/05/addon-logo-4305-682c8d3249d0e-300x189.png",
+  "author": "SecretX33",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/SecretX33/AutomaticWeaponRemoval/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/automaticweaponremoval/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/automaticweaponremoval/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "AltTabber",
+  "description": "Plays sound when a ready check, LFG queue, battleground queue, or world battleground queue pops even if you have sounds turne...",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/alttabber/logo.webp",
+  "author": "Ackis",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/alttabber/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/alttabber/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/alttabber/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/alttabber/3.3.5.zip"
+}

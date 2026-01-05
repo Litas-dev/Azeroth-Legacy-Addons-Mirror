@@ -1,0 +1,16 @@
+{
+  "title": "Buffwatch++",
+  "description": "Buffwatch++",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/buffwatch_/logo.webp",
+  "author": "Pupp3h",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/buffwatch/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/buffwatch_/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/buffwatch_/3.3.5.zip"
+}

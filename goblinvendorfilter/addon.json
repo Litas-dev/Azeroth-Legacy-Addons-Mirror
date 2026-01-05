@@ -1,0 +1,20 @@
+{
+  "title": "GoblinVendorFilter",
+  "description": "Allows you to filter the current merchant window items.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/goblinvendorfilter/logo.jpg",
+  "author": "yssaril",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/goblinvendorfilter/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/goblinvendorfilter/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "screenshots": [
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/goblinvendorfilter/screenshot_1.jpg",
+    "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/goblinvendorfilter/screenshot_2.jpg"
+  ],
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/goblinvendorfilter/3.3.5.zip"
+}

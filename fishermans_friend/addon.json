@@ -1,0 +1,16 @@
+{
+  "title": "Fishermans Friend",
+  "description": "Fishermans Friend is a fishing helper addon.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fishermans_friend/logo.webp",
+  "author": "Ammo",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/fishermans-friend/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fishermans_friend/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/fishermans_friend/3.3.5.zip"
+}

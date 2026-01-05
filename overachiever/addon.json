@@ -1,0 +1,16 @@
+{
+  "title": "OverAchiever",
+  "description": "Tools and tweaks to make the lives of players seeking Achievements a little bit easier.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/overachiever/logo.webp",
+  "author": "Tuhljin",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/overachiever/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/overachiever/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/overachiever/3.3.5.zip"
+}

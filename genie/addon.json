@@ -1,0 +1,16 @@
+{
+  "title": "Genie",
+  "description": "Genie helps you organize your bags, bank and/or guildbank",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/genie/logo.jpg",
+  "author": "adjoeu",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/genie/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/genie/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/genie/3.3.5.zip"
+}

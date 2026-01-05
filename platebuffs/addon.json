@@ -1,0 +1,16 @@
+{
+  "title": "PlateBuffs",
+  "description": "This addon will show buffs on enemy nameplates.",
+  "image": "https://warperia.com/wp-content/uploads/2024/11/ww-logo-platebuffs-300x221.webp",
+  "author": "bkader",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/bkader/PlateBuffs_WoTLK"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/platebuffs/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/platebuffs/3.3.5.zip"
+}

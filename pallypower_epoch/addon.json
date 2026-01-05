@@ -1,0 +1,16 @@
+{
+  "title": "PallyPower - Epoch",
+  "description": "Raid/Party Paladin buffs.",
+  "image": "https://warperia.com/wp-content/uploads/2025/09/addon-logo-9264-68c070848f2c2-300x169.jpg",
+  "author": "ForestJ316",
+  "source": {
+    "type": "github",
+    "url": "https://github.com/ForestJ316/PallyPower-OnyxiaTBC-3.3.5"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pallypower_epoch/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/pallypower_epoch/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Parrot",
+  "description": "Floating Combat Text of awesomeness. Caw. It&#039;ll eat your crackers.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/parrot/logo.jpg",
+  "author": "ckknight",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/parrot/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/parrot/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/parrot/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/parrot/3.3.5.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "ArkInventory",
+  "description": "Allows viewing of your (and your alts) Bags, Keyring, Bank, Guild Bank, Inventory and Mail items.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/arkinventory/logo.jpg",
+  "author": "arkayenro",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/arkinventory/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/arkinventory/3.3.5.zip",
+    "tbc": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/arkinventory/2.4.3.zip",
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/arkinventory/3.3.5.zip"
+}

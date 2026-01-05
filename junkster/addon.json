@@ -1,0 +1,16 @@
+{
+  "title": "Junkster",
+  "description": "Sells your junk and reports gains/losses at the vendor!",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/junkster/logo.webp",
+  "author": "_ForgeUser4426162",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/junkster/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/junkster/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/junkster/3.3.5.zip"
+}

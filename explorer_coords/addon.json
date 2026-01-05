@@ -1,0 +1,16 @@
+{
+  "title": "Explorer Coords",
+  "description": "Shows all coords left to explore for the achievement.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/explorer_coords/logo.webp",
+  "author": "DarkStarX",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/explorer-coords/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/explorer_coords/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/explorer_coords/3.3.5.zip"
+}

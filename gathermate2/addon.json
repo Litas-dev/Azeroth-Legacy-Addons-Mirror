@@ -1,0 +1,16 @@
+{
+  "title": "GatherMate2",
+  "description": "Collects Herbs, Mines Fishing locations and adds them to the map.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gathermate2/logo.webp",
+  "author": "Kagaro",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/gathermate2/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gathermate2/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gathermate2/3.3.5.zip"
+}

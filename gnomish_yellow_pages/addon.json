@@ -1,0 +1,16 @@
+{
+  "title": "Gnomish Yellow Pages",
+  "description": "Captures chatframe Tradeskill Links for later reference in an easy to read format.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gnomish_yellow_pages/logo.webp",
+  "author": "lilsparky",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/gnomish-yellow-pages/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gnomish_yellow_pages/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/gnomish_yellow_pages/3.3.5.zip"
+}

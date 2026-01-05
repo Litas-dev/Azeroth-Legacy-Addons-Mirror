@@ -1,0 +1,16 @@
+{
+  "title": "BossTactics",
+  "description": "Make it easy to explain bosses in Raids.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bosstactics/logo.webp",
+  "author": "_ForgeUser1194774",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/bosstactics/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bosstactics/3.3.5.zip",
+    "tbc": null,
+    "classic": null
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/bosstactics/3.3.5.zip"
+}
