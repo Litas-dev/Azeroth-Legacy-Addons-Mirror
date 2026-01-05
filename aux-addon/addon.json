@@ -1,0 +1,16 @@
+{
+  "title": "Aux",
+  "description": "Auction House interface replacement.",
+  "image": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/aux-addon/logo.webp",
+  "author": "simon_hirsig",
+  "source": {
+    "type": "warperia",
+    "url": "https://warperia.com/addon-wotlk/aux/"
+  },
+  "downloads": {
+    "wotlk": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/aux-addon/3.3.5.zip",
+    "tbc": null,
+    "classic": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/aux-addon/1.12.1.zip"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Litas-dev/Azeroth-Legacy-Addons-Mirror/main/aux-addon/3.3.5.zip"
+}
