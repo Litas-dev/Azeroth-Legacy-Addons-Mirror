@@ -1,0 +1,23 @@
+name: Addons Mirror Virus Scan
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: '0 0 * * 0' # Run every Sunday
+
+jobs:
+  virus_scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 # Fetch all history for full scan
+
+      - name: Scan for Viruses (ClamAV)
+        uses: djdefi/gitavscan@main
+        with:
+          full: '--full'
+          fail-action: true
