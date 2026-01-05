@@ -1,7 +1,7 @@
 # Azeroth Legacy Addons Mirror
 
 This repository hosts a mirror of addons for legacy client versions (1.12.1, 2.4.3, 3.3.5).
-It is used as the primary data source for the [Azeroth Legacy Launcher](https://github.com/YourRepo/Launcher).
+It is used as the primary data source for the [Azeroth Legacy Launcher](https://github.com/Litas-dev/Azeroth-Legacy-Launcher).
 
 ## Structure
 Each addon has its own folder containing:
