@@ -11,4 +11,4 @@ Allows you to sell every item you do not need with a single click at the merchan
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

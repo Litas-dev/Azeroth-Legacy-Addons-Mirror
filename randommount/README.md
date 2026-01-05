@@ -11,4 +11,4 @@ This add-on makes it simple to summon a random mount.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

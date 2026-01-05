@@ -11,4 +11,4 @@ Add lines to ore and gem tooltips that show prospecting sources/results.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

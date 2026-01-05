@@ -9,4 +9,4 @@ Provides a clearer visual display of the Corporeality buff during phase 3 of the
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

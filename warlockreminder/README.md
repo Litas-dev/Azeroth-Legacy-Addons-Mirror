@@ -11,4 +11,4 @@ Provides helpful buff reminders for Warlocks.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

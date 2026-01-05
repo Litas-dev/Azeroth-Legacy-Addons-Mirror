@@ -11,4 +11,4 @@ Gives detailed descriptions of particular localities, as zones or instances, and
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

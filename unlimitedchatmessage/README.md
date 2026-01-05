@@ -11,4 +11,4 @@ Lets you paste long msgs into chat by spliting msg into multiple outing msgs.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

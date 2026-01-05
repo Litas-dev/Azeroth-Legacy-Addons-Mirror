@@ -11,4 +11,4 @@ Allows you to execute a sequence of macros without stopping on unusable spells.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

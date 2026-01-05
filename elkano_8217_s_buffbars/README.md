@@ -11,4 +11,4 @@ EBB adds groups of bars to your screen showing you which (de)buffs currently aff
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

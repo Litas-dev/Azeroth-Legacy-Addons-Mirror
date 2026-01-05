@@ -1,6 +1,6 @@
 # New Level Frame
 
-Simple New Level Frame for World of Warcraft Wrath of the Lich King 3.3.5
+Simple New Level Frame for Azeroth Legacy 3.3.5 3.3.5
 
 ## Metadata
 
@@ -9,5 +9,5 @@ Simple New Level Frame for World of Warcraft Wrath of the Lich King 3.3.5
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
-- [x] 1.12.1 (Vanilla)
+- [x] 3.3.5 
+- [x] 1.12.1 

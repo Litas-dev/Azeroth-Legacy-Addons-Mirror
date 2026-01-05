@@ -9,4 +9,4 @@ A modular, lightweight and screen-estate saving grid of party/raid unit frames.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

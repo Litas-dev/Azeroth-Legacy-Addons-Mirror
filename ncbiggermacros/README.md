@@ -11,4 +11,4 @@ Allows you to make macro&#039;s up to 1024 characters.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -1,6 +1,6 @@
 # FonzAppraiser
 
-FonzAppraiser is an addon for World of Warcraft to track the value of personal loot.
+FonzAppraiser is an addon for Azeroth Legacy to track the value of personal loot.
 
 ## Metadata
 
@@ -9,4 +9,4 @@ FonzAppraiser is an addon for World of Warcraft to track the value of personal l
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

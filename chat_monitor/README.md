@@ -11,4 +11,4 @@ Filters specific messages into a new window to make monitoring chat much easier.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

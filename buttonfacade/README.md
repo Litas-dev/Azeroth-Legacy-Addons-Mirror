@@ -11,4 +11,4 @@ Allows the dynamic skinning of button-based addons.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

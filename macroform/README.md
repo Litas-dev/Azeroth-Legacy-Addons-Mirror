@@ -11,4 +11,4 @@ This addon helps the user write conditional macros using only the mouse.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

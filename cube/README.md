@@ -11,4 +11,4 @@ Simple Development&amp;Debug tools. type /cube to open GUI.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

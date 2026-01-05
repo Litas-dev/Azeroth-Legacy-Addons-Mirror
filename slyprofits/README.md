@@ -11,4 +11,4 @@ An addon that calculates the profit to be made from buying tradeskill mats from 
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

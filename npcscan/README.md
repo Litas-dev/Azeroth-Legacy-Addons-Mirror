@@ -11,4 +11,4 @@ Scans NPCs around you for rare ones.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

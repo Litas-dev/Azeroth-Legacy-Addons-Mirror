@@ -11,4 +11,4 @@ Drop the cheapest thing you&#039;re carrying.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

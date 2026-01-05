@@ -11,4 +11,4 @@ Attach diminishing return icons to unit frames.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ Addon that allows user to create Keybinding Profiles, for easy switching between
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,5 +11,5 @@ Easily measure your realm information. Note that this addon might not work on al
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
-- [x] 1.12.1 (Vanilla)
+- [x] 3.3.5 
+- [x] 1.12.1 

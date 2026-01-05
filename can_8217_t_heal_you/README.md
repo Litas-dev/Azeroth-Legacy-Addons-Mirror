@@ -11,4 +11,4 @@ Attempts to detect when someone is out of line of sight or range of a heal and w
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ TurnInEverything automatically turns in all completed quests, pasting any progre
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

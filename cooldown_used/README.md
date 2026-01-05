@@ -11,4 +11,4 @@ Inform the raid when someone uses a cooldown
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

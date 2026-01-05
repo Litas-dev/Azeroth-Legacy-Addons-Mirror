@@ -11,5 +11,5 @@ It can be used to overcome the ignore list size limitation.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
-- [x] 2.4.3 (TBC)
+- [x] 3.3.5 
+- [x] 2.4.3 

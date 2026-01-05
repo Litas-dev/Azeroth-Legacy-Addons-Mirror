@@ -11,4 +11,4 @@ Keeps the combat log from breaking without munging it completely
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

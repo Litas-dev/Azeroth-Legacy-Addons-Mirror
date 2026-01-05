@@ -11,4 +11,4 @@ Makes your UI load faster by preventing garbage collection.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

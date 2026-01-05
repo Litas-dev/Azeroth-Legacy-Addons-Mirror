@@ -11,4 +11,4 @@ Raid Frames providing click-heal functionality, buff and debuff control and much
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

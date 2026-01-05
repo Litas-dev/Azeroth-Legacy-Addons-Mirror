@@ -11,4 +11,4 @@ The default UI with black color of frames/bars and some improvements.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

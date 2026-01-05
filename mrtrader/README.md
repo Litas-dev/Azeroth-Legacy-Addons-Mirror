@@ -11,4 +11,4 @@ MrTrader is a Tradeskill window replacement, with additional features.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

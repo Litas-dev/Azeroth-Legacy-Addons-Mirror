@@ -11,4 +11,4 @@ Shows all of the stats from the dropdowns next to the paperdoll window.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

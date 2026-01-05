@@ -11,4 +11,4 @@ Gear check for the Achievements &#039;A Tribute to Dedicated Insanity&#039; and 
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ Add a line to herb tooltips that shows what pigment they produce.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ Allows you to create and use your own custom emotes on a global.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

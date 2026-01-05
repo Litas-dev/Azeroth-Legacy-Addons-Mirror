@@ -11,4 +11,4 @@ Status bar timer for your flight paths
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

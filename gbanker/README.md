@@ -11,4 +11,4 @@ Fast and easy movement of items from and to your (guild) bank.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -2,7 +2,7 @@
 
 <img src="logo.webp" align="right" width="100">
 
-User Interface replacement AddOn for World of Warcraft.
+User Interface replacement AddOn for Azeroth Legacy.
 
 ## Metadata
 
@@ -11,4 +11,4 @@ User Interface replacement AddOn for World of Warcraft.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

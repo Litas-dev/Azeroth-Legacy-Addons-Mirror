@@ -2,7 +2,7 @@
 
 <img src="logo.webp" align="right" width="100">
 
-The popular game Bejeweled, now for World of Warcraft!
+The popular game Bejeweled, now for Azeroth Legacy!
 
 ## Metadata
 
@@ -11,4 +11,4 @@ The popular game Bejeweled, now for World of Warcraft!
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

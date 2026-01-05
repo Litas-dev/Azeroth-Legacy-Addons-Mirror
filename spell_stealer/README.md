@@ -11,4 +11,4 @@ Creates a small movable frame listing stealable buffs from your target.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

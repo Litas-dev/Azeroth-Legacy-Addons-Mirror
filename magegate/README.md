@@ -11,4 +11,4 @@ Adds a touch of Star Gate to the mage portals when they are being casted.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

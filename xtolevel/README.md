@@ -11,4 +11,4 @@ Shows mobs, quests, dungeons and battles needed until you level.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ Smart automatic tracking for hunters only with Improved tracking talent.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

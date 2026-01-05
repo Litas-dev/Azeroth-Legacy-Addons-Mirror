@@ -11,4 +11,4 @@ Helps you find more people to join your raid group.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

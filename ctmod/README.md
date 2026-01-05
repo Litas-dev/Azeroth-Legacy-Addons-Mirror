@@ -11,4 +11,4 @@ CTMod customizes your interface to include hotbars, buff timers and much more.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

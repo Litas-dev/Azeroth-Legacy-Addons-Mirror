@@ -11,4 +11,4 @@ Alert your friends when you ding, get an achivement, or get phat lewts!
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

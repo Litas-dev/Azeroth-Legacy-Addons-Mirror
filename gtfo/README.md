@@ -11,4 +11,4 @@ Reminds you when you are standing in stuff that can kill you.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

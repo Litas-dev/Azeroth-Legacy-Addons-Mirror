@@ -11,4 +11,4 @@ A snazzy autolooter with value filtering, item white/blacklisting, and more.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

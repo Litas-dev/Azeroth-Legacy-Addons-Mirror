@@ -9,4 +9,4 @@ Tracks player taunts and displays who they taunted, what ability they used to ta
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

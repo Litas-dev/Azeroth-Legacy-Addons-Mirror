@@ -11,4 +11,4 @@ Mage Nuggets is a mage utility with many useful nuggets to make the lives of mag
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

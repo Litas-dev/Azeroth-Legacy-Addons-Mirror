@@ -9,4 +9,4 @@ A small text based progress bar system for target buffs.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

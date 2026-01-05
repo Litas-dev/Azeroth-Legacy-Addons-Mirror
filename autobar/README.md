@@ -11,4 +11,4 @@ Dynamic bars with buttons that automatically adds items you specify into a butto
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

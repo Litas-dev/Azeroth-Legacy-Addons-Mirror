@@ -2,7 +2,7 @@
 
 <img src="logo.webp" align="right" width="100">
 
-A simple spam blocker &amp; reporter for World of Warcraft.
+A simple spam blocker &amp; reporter for Azeroth Legacy.
 
 ## Metadata
 
@@ -11,4 +11,4 @@ A simple spam blocker &amp; reporter for World of Warcraft.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

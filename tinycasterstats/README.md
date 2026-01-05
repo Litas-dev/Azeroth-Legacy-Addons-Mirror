@@ -11,4 +11,4 @@ Shows your current caster stats (spellpower, critchance, haste, hit, mp5). By Th
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

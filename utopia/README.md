@@ -11,4 +11,4 @@ Target Debuff monitor. Stacking aware, giving current and potential debuff statu
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

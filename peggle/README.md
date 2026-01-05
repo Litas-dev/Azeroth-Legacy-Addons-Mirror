@@ -2,7 +2,7 @@
 
 <img src="logo.webp" align="right" width="100">
 
-The popular game Peggle, now for World of Warcraft!
+The popular game Peggle, now for Azeroth Legacy!
 
 ## Metadata
 
@@ -11,4 +11,4 @@ The popular game Peggle, now for World of Warcraft!
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

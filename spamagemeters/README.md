@@ -11,4 +11,4 @@ Suppresses chat messages from damage meters and provides single chat-link damage
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

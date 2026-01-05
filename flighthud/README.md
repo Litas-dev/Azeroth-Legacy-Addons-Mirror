@@ -11,4 +11,4 @@ Display an informational fighter jet style HUD while flying or riding
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

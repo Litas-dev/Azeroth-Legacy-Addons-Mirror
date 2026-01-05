@@ -11,4 +11,4 @@ Raeli&#039;s Unit Frames. Simple lightweight unitframes using oUF.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

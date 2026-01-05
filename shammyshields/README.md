@@ -11,4 +11,4 @@ Shaman mod for tracking Shields and Reincarnate.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,5 +11,5 @@ Scans your mini-pets and mounts and provide a check list for what you&#039;re mi
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
-- [x] 2.4.3 (TBC)
+- [x] 3.3.5 
+- [x] 2.4.3 

@@ -11,5 +11,5 @@ OneBag is a replacement for the default game bags that combines all the bags int
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
-- [x] 2.4.3 (TBC)
+- [x] 3.3.5 
+- [x] 2.4.3 

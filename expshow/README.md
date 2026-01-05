@@ -11,4 +11,4 @@ Show your target&#039;s arena experience.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

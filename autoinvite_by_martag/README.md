@@ -11,4 +11,4 @@ Used to Automatically Invite players into a group/raid based on what and where t
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

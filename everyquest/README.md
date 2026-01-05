@@ -11,4 +11,4 @@ Quest History tracker and shows lists of quests in each category.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

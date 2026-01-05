@@ -2,7 +2,7 @@
 
 <img src="logo.webp" align="right" width="100">
 
-This is a custom Diablo III styled user interface for World of Warcraft.
+This is a custom Diablo III styled user interface for Azeroth Legacy.
 
 ## Metadata
 
@@ -11,4 +11,4 @@ This is a custom Diablo III styled user interface for World of Warcraft.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

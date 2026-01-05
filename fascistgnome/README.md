@@ -11,4 +11,4 @@ Prints a list of people missing either flask, elixirs or food buff every ready c
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

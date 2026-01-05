@@ -11,4 +11,4 @@ A lightweight addon that tracks auction house data and improves the auction hous
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

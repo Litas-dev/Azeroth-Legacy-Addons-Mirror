@@ -11,4 +11,4 @@ Quick (re)sort out your items in your bags/bank/guildbank.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

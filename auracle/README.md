@@ -11,4 +11,4 @@ Compact &amp; customizable filtering, monitoring and grouping of buffs and debuf
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

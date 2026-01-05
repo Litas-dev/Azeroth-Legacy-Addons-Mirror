@@ -11,4 +11,4 @@ Flourish displays finished (not yet turned in) quests as part of the current exp
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

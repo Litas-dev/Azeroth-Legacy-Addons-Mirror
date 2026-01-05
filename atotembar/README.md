@@ -11,4 +11,4 @@ Move and Hide the Default Totem Bar, Totem Timers, and Hides Blizzard&#039;s Tim
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ MacroBank is an addon to allow you to save macros for future use.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

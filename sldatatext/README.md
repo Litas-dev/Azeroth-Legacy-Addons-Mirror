@@ -11,4 +11,4 @@ Modular text-based information tool to relay game-specific information.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

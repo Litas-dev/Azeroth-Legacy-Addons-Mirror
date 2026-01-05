@@ -11,4 +11,4 @@ Minimalistic Addon to decline duel requests.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ Rep2 displays a message, which shows how much reputation you gained, and how muc
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

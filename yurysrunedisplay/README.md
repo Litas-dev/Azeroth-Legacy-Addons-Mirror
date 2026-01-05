@@ -11,4 +11,4 @@ Very simple and lightweight addon for display of a Death Knight&#039;s runes.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

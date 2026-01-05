@@ -11,4 +11,4 @@ GemCensus inspects people and records which gems they have socketed.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

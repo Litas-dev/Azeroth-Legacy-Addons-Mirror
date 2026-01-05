@@ -11,4 +11,4 @@ Shows the name of the current dungeon set to queue even when random.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

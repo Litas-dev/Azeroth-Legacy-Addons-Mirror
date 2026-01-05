@@ -11,4 +11,4 @@ Tools and tweaks to make the lives of players seeking Achievements a little bit 
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

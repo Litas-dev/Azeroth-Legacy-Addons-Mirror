@@ -11,4 +11,4 @@ Allows easy modification of displayed AH deposit values for Private Servers.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

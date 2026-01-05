@@ -11,4 +11,4 @@ Auctioneer + BigPicture turbocharges your Warparia Auction House with real-time 
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

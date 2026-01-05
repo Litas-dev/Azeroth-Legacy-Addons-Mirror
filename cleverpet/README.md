@@ -11,4 +11,4 @@ Shows a text on the screen informing that your pet has lost his target.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ Highly Customizable Tooltip Enhancement Addon.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

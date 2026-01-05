@@ -11,4 +11,4 @@ A raid finder that displays any found raids in the raid browser LFR frame.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

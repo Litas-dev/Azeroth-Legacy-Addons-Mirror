@@ -11,4 +11,4 @@ An herb and ore gathering add-on with a focus on ease-of-use.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

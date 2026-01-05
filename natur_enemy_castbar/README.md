@@ -11,5 +11,5 @@ Show a targets beneficial buffs and debuffs with the option to ignore certain sp
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
-- [x] 1.12.1 (Vanilla)
+- [x] 3.3.5 
+- [x] 1.12.1 

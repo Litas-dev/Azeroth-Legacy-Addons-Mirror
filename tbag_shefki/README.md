@@ -11,4 +11,4 @@ The last bag addon you&#039;ll ever need. Autosorting, viewable anywhere, easy t
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

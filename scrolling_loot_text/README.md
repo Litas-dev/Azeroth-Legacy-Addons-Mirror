@@ -11,4 +11,4 @@ Changes the default loot window with a scrolling one.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

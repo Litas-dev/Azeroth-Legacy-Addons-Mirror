@@ -9,4 +9,4 @@ Designed to display clusters of players as counters that increment when players 
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

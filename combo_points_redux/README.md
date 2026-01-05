@@ -11,4 +11,4 @@ Numerical and graphical display of Combo Point and similar buffs/debuffs.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

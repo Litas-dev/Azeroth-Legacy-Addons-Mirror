@@ -11,4 +11,4 @@ Captures chatframe Tradeskill Links for later reference in an easy to read forma
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

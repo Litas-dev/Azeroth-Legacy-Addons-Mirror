@@ -11,4 +11,4 @@ QuickQuest is a quest automating addon that will do the most enduring questing t
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

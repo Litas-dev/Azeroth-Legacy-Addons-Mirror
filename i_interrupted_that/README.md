@@ -11,4 +11,4 @@ It says what you interrupted. Not only does it say it, it links it. Amazing.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

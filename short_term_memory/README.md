@@ -11,4 +11,4 @@ Memorize the last few lines from chat - and post them into chat on login! (or UI
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

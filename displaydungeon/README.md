@@ -11,4 +11,4 @@ Displays current RDF queue status below your minimap.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

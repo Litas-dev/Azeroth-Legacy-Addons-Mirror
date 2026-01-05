@@ -11,4 +11,4 @@ Compact &amp; Customisable health bar windows, with filters &amp; sorts galore!
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

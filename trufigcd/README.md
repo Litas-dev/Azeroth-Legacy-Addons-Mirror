@@ -11,4 +11,4 @@ Shows you the recently used abilities by your party &amp; arena members.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

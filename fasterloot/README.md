@@ -11,4 +11,4 @@ Lightweight, non-intrusive AddOn that improves the speed at which you loot conta
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

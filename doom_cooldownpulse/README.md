@@ -11,4 +11,4 @@ Flash an ability&#039;s icon in the middle of the screen when it comes off coold
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

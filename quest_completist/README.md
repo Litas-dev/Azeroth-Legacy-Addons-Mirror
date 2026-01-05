@@ -11,4 +11,4 @@ Enables you to see what quests you have completed, and what ones you have left t
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

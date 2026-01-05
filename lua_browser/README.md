@@ -11,4 +11,4 @@ Browse through the Lua environment in-game
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

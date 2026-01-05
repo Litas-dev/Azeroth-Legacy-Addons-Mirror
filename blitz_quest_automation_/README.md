@@ -11,4 +11,4 @@ Automatically accepts and delivers quests for you. Easy to use and highly config
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

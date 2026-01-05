@@ -11,4 +11,4 @@ Provides access to all Portal and Teleport spells on right click of one button.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

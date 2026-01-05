@@ -9,4 +9,4 @@ Lightweight addon that simplifies interactions with the Auctionhouse NPC in Dala
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

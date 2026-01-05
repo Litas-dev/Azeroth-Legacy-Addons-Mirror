@@ -11,4 +11,4 @@ Sell &amp; Purchase lots of items all at once.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ A healing user-interface addon that provides up to 15 customizable buttons.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

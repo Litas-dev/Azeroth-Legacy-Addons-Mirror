@@ -11,4 +11,4 @@ Helps you cast or re-cast Vigilance on a target.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

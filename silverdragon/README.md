@@ -11,4 +11,4 @@ Remember the locations of rares as you go near them.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

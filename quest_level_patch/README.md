@@ -11,4 +11,4 @@ Adds level within brackets to the quest name. Example: [62] Order Must Be Restor
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

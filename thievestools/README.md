@@ -11,4 +11,4 @@ Buff and debuff tracking, combo point icons, proc icons, interrupt monitoring.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

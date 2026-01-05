@@ -11,4 +11,4 @@ LootPlan is an addon that helps you in keeping track of drops you need/want in t
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

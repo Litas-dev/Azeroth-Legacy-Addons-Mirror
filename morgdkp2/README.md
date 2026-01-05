@@ -11,4 +11,4 @@ Inspects all members of raid and lists people&#039;s DKP values.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

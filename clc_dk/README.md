@@ -11,4 +11,4 @@ This is a mod designed to put all the neccessary DK information together.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

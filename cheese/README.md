@@ -2,7 +2,7 @@
 
 <img src="logo.webp" align="right" width="100">
 
-Cataclyms-like spell proc overlays for Wrath of the Lich King.
+Cataclyms-like spell proc overlays for 3.3.5.
 
 ## Metadata
 
@@ -11,4 +11,4 @@ Cataclyms-like spell proc overlays for Wrath of the Lich King.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ Tooltip of socials button will now show which friends are online
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

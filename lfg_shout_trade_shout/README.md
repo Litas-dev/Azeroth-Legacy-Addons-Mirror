@@ -11,4 +11,4 @@ Don&#039;t miss messages, LFG and trade in all that spam!!!
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

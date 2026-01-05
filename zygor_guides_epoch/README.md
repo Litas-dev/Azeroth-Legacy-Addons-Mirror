@@ -9,4 +9,4 @@ Zygor Guide Viewer 3.3.5 port to Project Epoch (Vanilla 1-60 leveling)
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

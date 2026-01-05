@@ -9,4 +9,4 @@ Adds a list of all the spells for your class in a new tab in the spellbook.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ Shows how many of an item a party member has crafted.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

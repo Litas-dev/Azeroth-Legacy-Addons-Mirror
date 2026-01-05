@@ -11,4 +11,4 @@ A simple Add-on that rings when you hover or target an enemy healer.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

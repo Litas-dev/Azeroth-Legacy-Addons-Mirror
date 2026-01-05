@@ -11,4 +11,4 @@ An addon that can be used to perform Raid Rolls.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

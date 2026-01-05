@@ -11,4 +11,4 @@ Says random things in chat when casting any spell or ability.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ Combines the physical and shadow portion of the Scourge Strike.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

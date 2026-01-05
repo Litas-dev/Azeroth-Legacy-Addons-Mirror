@@ -11,4 +11,4 @@ Auto-invite friends to a party or raid upon receiving a whispered keyword.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ Allows you to add notes to the world map and minimap helping you keep track of i
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ MoonTime shows cooldowns and durations of DoTs in a compact way.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

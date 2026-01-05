@@ -11,4 +11,4 @@ Prints out slash commands based on your searching parameters.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

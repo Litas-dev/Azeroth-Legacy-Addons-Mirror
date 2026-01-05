@@ -9,4 +9,4 @@ Shows you how to level up your trade skills in the fastest way.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

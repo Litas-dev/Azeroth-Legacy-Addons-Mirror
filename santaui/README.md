@@ -11,4 +11,4 @@ SantaUI is a collection of simple modifications to the default UI.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

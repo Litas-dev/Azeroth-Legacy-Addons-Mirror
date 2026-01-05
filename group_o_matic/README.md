@@ -11,4 +11,4 @@ Group O Matic makes it easier for the raid leader to set up the group arrangemen
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

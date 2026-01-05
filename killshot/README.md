@@ -9,4 +9,4 @@ Killshot is a simple addon that will display a message each time you make a kill
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

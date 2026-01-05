@@ -11,4 +11,4 @@ Warn when it is your turn in a kick or other rotation.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

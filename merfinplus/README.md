@@ -11,4 +11,4 @@ Inserts Merfin media into LibSharedMedia&#039;s storage.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

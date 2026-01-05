@@ -11,4 +11,4 @@ Addon that displays Death Knight runes in a nice and clean way.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -9,4 +9,4 @@ Shows your gold and emblem counts when you open a vendor.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

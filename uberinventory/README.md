@@ -11,4 +11,4 @@ UberInventory lets you view your bags, bank and mailbox at all items.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

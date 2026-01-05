@@ -9,4 +9,4 @@ Say random things in-game with a simple slash command.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

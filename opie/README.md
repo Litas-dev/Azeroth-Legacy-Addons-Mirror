@@ -11,4 +11,4 @@ OPie lets you group actions into rings which appear when you hold down a key.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

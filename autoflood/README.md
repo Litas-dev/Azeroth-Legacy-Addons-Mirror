@@ -11,4 +11,4 @@ Sends a periodical message in a channel.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

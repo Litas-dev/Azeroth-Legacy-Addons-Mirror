@@ -11,4 +11,4 @@ Receive Trade channel messages wherever you are!!
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

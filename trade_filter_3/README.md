@@ -2,7 +2,7 @@
 
 <img src="logo.webp" align="right" width="100">
 
-A Simple World of Warcraft Spam Filter!
+A Simple Azeroth Legacy Spam Filter!
 
 ## Metadata
 
@@ -11,4 +11,4 @@ A Simple World of Warcraft Spam Filter!
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ Tells you what you can do to improve your faction reputation.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

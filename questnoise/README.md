@@ -11,4 +11,4 @@ Plays sounds upon making progress on quest objectives
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

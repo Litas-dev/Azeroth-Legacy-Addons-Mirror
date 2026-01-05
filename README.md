@@ -1,6 +1,6 @@
 # Azeroth Legacy Addons Mirror
 
-This repository hosts a mirror of World of Warcraft addons for legacy expansions (Vanilla 1.12.1, TBC 2.4.3, WotLK 3.3.5).
+This repository hosts a mirror of addons for legacy client versions (1.12.1, 2.4.3, 3.3.5).
 It is used as the primary data source for the [Azeroth Legacy Launcher](https://github.com/YourRepo/Launcher).
 
 ## Structure

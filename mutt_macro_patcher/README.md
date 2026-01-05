@@ -11,4 +11,4 @@ Mutt (Macro Update Target Tool) provides slash-commands that can patch the prede
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

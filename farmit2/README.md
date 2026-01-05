@@ -11,4 +11,4 @@ A customizeable inventory tracking tool.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ Loot Council is a new mod designed to help loot councils with a solid voting int
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

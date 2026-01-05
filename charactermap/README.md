@@ -11,4 +11,4 @@ Provides a virtual keyboard of extended-ASCII and Unicode characters which can b
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

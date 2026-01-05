@@ -11,4 +11,4 @@ Rembers which of your chars are saved to which instance.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -9,4 +9,4 @@ Deadly Boss Mods that aims to implement accurate timers for the Frostmourne serv
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

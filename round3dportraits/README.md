@@ -11,4 +11,4 @@ Draws some lovely 3D portraits in the standard Blizzard artwork.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

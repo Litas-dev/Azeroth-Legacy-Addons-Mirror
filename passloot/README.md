@@ -11,4 +11,4 @@ Auto roll greed, need, pass or manually roll on items.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

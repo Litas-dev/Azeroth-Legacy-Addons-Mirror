@@ -11,4 +11,4 @@ Dynamic tracking of buffs, debuffs, and procs specific to a Mage.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

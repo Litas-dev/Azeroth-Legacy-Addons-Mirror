@@ -11,4 +11,4 @@ Automated smart raid marking to speed up trash clearing in instance runs.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,6 +11,6 @@ Adds a panel with skinable bars for healing, decursive and more.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
-- [x] 2.4.3 (TBC)
-- [x] 1.12.1 (Vanilla)
+- [x] 3.3.5 
+- [x] 2.4.3 
+- [x] 1.12.1 

@@ -11,4 +11,4 @@ Decurse, dispell, cure, heal, buff, whisper, open trade and more.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

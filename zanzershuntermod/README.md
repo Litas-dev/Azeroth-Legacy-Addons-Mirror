@@ -11,4 +11,4 @@ Useful additions to make a Hunter&#039;s life even easier!
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

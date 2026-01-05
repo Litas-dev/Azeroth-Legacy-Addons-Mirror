@@ -11,4 +11,4 @@ Upgrade your default Blizzard character frames with better ones with more thickn
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

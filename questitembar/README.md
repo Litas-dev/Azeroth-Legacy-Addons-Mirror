@@ -11,4 +11,4 @@ Automatically shows a bar with buttons for the quest items you possess.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

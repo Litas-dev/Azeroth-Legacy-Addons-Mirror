@@ -11,4 +11,4 @@ Adds 3 corner indicators to each corner of the Grid frames.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ Adds a tooltip to the world map showing flightpaths into and out of regions.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

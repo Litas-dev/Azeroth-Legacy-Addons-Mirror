@@ -11,5 +11,5 @@ Allows you to customize and change stuff in your bags and bank.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
-- [x] 2.4.3 (TBC)
+- [x] 3.3.5 
+- [x] 2.4.3 

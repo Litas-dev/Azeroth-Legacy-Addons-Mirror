@@ -11,4 +11,4 @@ Modify key bindings to work on key press rather than key release.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

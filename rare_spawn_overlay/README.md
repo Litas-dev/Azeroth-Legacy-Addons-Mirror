@@ -11,4 +11,4 @@ World Map Overlay for rare NPC&#039;s.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

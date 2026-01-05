@@ -11,4 +11,4 @@ A simple interface that will provide support for Food, Portals and Teleports.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

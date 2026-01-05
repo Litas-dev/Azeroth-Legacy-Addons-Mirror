@@ -9,4 +9,4 @@ An ElvUI modification that prevents a crash on Project Epoch.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,5 +11,5 @@ Locates vendors who sell recipes in the current region or by profession.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
-- [x] 1.12.1 (Vanilla)
+- [x] 3.3.5 
+- [x] 1.12.1 

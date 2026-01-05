@@ -9,4 +9,4 @@ Adds IDs to the ingame tooltips
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

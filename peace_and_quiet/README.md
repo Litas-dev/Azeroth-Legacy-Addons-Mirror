@@ -11,4 +11,4 @@ Automatically leaves the global channels when inside an instance/raid and restor
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ Create panels for customizing your UI, sucessor to eePanels.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

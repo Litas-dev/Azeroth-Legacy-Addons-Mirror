@@ -11,4 +11,4 @@ A little tool for a quick recommendation of zones at your level.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

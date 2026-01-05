@@ -9,4 +9,4 @@ Addon for displaying icons on nameplates to indicate if a player is a healer or 
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

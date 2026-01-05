@@ -11,4 +11,4 @@ Allows you to modify the size of the rendered 3D area of the screen with texture
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

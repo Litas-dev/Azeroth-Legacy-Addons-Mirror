@@ -11,4 +11,4 @@ Ouro Loot helps you easily tracks loot during a raid.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ Modifies the inbox into a scrollable inbox, including open all options.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

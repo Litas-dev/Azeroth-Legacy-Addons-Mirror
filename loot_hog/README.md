@@ -11,4 +11,4 @@ Tracks rolls and sorts them, allowing raid leaders to announce winners quickly a
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

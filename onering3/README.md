@@ -11,4 +11,4 @@ A plugin for OneBag to make your keyring the same texture as OneBag/Bank.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

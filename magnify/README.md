@@ -1,6 +1,6 @@
 # Magnify
 
-World of Warcraft WotLK (3.3.5a) add-on that enables world map zoom.
+Azeroth Legacy 3.3.5 (3.3.5a) add-on that enables world map zoom.
 
 ## Metadata
 
@@ -9,5 +9,5 @@ World of Warcraft WotLK (3.3.5a) add-on that enables world map zoom.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
-- [x] 1.12.1 (Vanilla)
+- [x] 3.3.5 
+- [x] 1.12.1 

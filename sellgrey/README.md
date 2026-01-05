@@ -11,4 +11,4 @@ Adds a button to the Merchant frame that sells grey items
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

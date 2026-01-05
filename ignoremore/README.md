@@ -11,4 +11,4 @@ Ignore more than 49 people, autoshared between your alts.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

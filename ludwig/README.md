@@ -11,4 +11,4 @@ Ludwig is an item link database addon that was originally based on GetLink.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

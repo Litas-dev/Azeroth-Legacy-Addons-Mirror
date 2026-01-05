@@ -11,4 +11,4 @@ Automaticaly repairs all items when a merchant window is opened.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,5 +11,5 @@ Floating Combat Text of awesomeness. Caw. It&#039;ll eat your crackers.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
-- [x] 2.4.3 (TBC)
+- [x] 3.3.5 
+- [x] 2.4.3 

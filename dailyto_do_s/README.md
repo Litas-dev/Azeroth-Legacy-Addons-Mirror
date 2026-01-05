@@ -11,4 +11,4 @@ Tracks your repeated daily tasks so you don&#039;t forget!
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

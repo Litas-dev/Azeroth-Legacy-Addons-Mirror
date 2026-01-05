@@ -11,4 +11,4 @@ Displays all of the current toons currencies with just a mouseover.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

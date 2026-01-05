@@ -11,4 +11,4 @@ Makes it easier to earn dungeon and raid achievements.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

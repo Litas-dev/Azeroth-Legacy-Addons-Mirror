@@ -11,5 +11,5 @@ Numerical &amp; customizable display of current combo points.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
-- [x] 2.4.3 (TBC)
+- [x] 3.3.5 
+- [x] 2.4.3 

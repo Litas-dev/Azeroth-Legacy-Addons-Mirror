@@ -11,4 +11,4 @@ Detects and alerts you to the presence of nearby enemy players.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

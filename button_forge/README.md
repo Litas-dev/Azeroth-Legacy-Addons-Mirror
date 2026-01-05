@@ -11,4 +11,4 @@ The addon lets you create as much action bars as you want.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ Bayi&#039;s Extended Questlog
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ Set and manage character notes that are displayed in unit tooltips and /who resu
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ Pops up an image for where to stand
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

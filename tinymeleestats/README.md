@@ -11,4 +11,4 @@ Shows your current melee stats (Attack Power, Crit Chance, Hit Chance, Main and 
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

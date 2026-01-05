@@ -11,4 +11,4 @@ Allows you to quickly and easily talk to several people that have messaged you
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

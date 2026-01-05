@@ -11,4 +11,4 @@ Scans your Equipment for cumulative item bonuses and sums them up.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

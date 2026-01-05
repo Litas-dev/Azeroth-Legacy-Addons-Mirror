@@ -11,4 +11,4 @@ Inventorium can keep track of items, refill them from storage and restock from v
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

@@ -11,4 +11,4 @@ Genie helps you organize your bags, bank and/or guildbank
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

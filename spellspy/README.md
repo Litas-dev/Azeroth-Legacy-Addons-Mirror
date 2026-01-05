@@ -2,7 +2,7 @@
 
 <img src="logo.webp" align="right" width="100">
 
-Search, lookup and browse all spells in World of Warcraft
+Search, lookup and browse all spells in Azeroth Legacy
 
 ## Metadata
 
@@ -11,4 +11,4 @@ Search, lookup and browse all spells in World of Warcraft
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

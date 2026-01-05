@@ -11,4 +11,4 @@ Tracks rolls and list them so you can report to guild, party, raid or self.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

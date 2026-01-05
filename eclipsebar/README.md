@@ -2,7 +2,7 @@
 
 <img src="logo.jpg" align="right" width="100">
 
-Druid eclipse bar for Wrath of the Lich King.
+Druid eclipse bar for 3.3.5.
 
 ## Metadata
 
@@ -11,4 +11,4 @@ Druid eclipse bar for Wrath of the Lich King.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

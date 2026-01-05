@@ -11,4 +11,4 @@ Lightweight general purpose chat enhancement collection.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

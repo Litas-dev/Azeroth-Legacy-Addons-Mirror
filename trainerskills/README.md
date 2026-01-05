@@ -11,4 +11,4 @@ Shows the class trainer frame from anywhere.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

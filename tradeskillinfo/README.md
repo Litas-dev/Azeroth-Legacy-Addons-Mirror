@@ -11,4 +11,4 @@ TradeSkillInfo gives you all the information that you need about tradeskills.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

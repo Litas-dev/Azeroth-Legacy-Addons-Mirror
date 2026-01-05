@@ -11,4 +11,4 @@ This AddOn stores the name, description, level, rarity and location of all the N
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

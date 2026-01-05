@@ -11,4 +11,4 @@ Shows a frame to track your Pyrite debuff on Flame Leviathan and it&#039;s trash
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

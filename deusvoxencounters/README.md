@@ -11,4 +11,4 @@ Deus Vox Encounters (DXE) is a boss and PVP mod inspired by RDX.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

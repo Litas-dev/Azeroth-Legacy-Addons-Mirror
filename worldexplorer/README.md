@@ -11,4 +11,4 @@ Adds to your map coordinates to uncover all unexplored areas.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 

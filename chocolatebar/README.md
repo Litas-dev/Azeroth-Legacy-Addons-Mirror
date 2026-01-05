@@ -11,4 +11,4 @@ ChocolateBar is a sweet display addon for broker plugins.
 
 ## Supported Versions
 
-- [x] 3.3.5 (WotLK)
+- [x] 3.3.5 
