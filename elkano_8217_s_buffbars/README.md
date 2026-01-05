@@ -7,7 +7,7 @@ EBB adds groups of bars to your screen showing you which (de)buffs currently aff
 ## Metadata
 
 - **Author:** Elkano
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/elkanos-buffbars/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/elkanos-buffbars/)
 
 ## Supported Versions
 

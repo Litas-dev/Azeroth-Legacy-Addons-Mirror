@@ -7,7 +7,7 @@ Básicamente la opciones de grupo y banda del retail, en Lich King.
 ## Metadata
 
 - **Author:** ErCr1S (Niugh)
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/perfilesdebandaretail/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/perfilesdebandaretail/)
 
 ## Supported Versions
 

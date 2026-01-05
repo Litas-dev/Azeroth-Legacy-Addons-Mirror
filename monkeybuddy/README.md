@@ -7,7 +7,7 @@ Allows you to easily configure your MonkeyQuest with a nice config window.
 ## Metadata
 
 - **Author:** JimBim89
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/monkeybuddy/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/monkeybuddy/)
 
 ## Supported Versions
 

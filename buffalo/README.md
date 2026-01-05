@@ -7,7 +7,7 @@ Customizing your buff display.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/buffalo/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/buffalo/)
 
 ## Supported Versions
 

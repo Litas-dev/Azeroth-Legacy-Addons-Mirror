@@ -7,7 +7,7 @@ Makes your UI load faster by preventing garbage collection.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/zoom/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/zoom/)
 
 ## Supported Versions
 

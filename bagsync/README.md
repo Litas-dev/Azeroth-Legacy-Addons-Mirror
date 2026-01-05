@@ -7,7 +7,7 @@ Tracks the items on your characters and displays the information in collective t
 ## Metadata
 
 - **Author:** Xruptor
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/bagsync/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/bagsync/)
 
 ## Supported Versions
 

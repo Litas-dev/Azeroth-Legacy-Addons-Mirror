@@ -7,7 +7,7 @@ Rep2 displays a message, which shows how much reputation you gained, and how muc
 ## Metadata
 
 - **Author:** KirinLite
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/rep2/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/rep2/)
 
 ## Supported Versions
 

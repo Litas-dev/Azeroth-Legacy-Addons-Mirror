@@ -7,7 +7,7 @@ Auctioneer + BigPicture turbocharges your Warparia Auction House with real-time 
 ## Metadata
 
 - **Author:** ZoneReaper_
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/working-auctioneer-bigpicture-bronzebeard-edition/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/working-auctioneer-bigpicture-bronzebeard-edition/)
 
 ## Supported Versions
 

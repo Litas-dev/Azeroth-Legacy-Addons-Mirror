@@ -7,7 +7,7 @@ Timers for Buffs, DOTs, CC effects, etc..
 ## Metadata
 
 - **Author:** Stanzilla
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/classtimer/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/classtimer/)
 
 ## Supported Versions
 

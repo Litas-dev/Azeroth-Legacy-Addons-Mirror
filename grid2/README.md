@@ -5,7 +5,7 @@ A modular, lightweight and screen-estate saving grid of party/raid unit frames.
 ## Metadata
 
 - **Author:** bkader
-- **Source:** [Original Link](https://github.com/bkader/Grid2-WoTLK)
+- **Source:** [Original Link](https://github.com/bkader/Grid2-3.3.5)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Adds level within brackets to the quest name. Example: [62] Order Must Be Restor
 ## Metadata
 
 - **Author:** Fulger
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/quest-level-patch/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/quest-level-patch/)
 
 ## Supported Versions
 

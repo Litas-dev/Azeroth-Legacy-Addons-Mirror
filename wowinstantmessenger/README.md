@@ -1,4 +1,4 @@
-# WoWInstantMessenger
+# GameInstantMessenger
 
 <img src="logo.webp" align="right" width="100">
 
@@ -7,7 +7,7 @@ Give whispers an instant messenger feel.
 ## Metadata
 
 - **Author:** lucifercatnip
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/wowinstantmessenger/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/wowinstantmessenger/)
 
 ## Supported Versions
 

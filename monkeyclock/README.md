@@ -7,7 +7,7 @@ Adds a simple movable clock without tooltip info.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/monkeyclock/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/monkeyclock/)
 
 ## Supported Versions
 

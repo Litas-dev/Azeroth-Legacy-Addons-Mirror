@@ -7,7 +7,7 @@ Browse through the Lua environment in-game
 ## Metadata
 
 - **Author:** Aezay
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/lua-browser/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/lua-browser/)
 
 ## Supported Versions
 

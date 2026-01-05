@@ -7,7 +7,7 @@ Provides top/bottom bars with quick access to information and menus.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/fubar/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/fubar/)
 
 ## Supported Versions
 

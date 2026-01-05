@@ -7,7 +7,7 @@ Prints out slash commands based on your searching parameters.
 ## Metadata
 
 - **Author:** therzok0
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/slashlist/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/slashlist/)
 
 ## Supported Versions
 

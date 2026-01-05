@@ -7,7 +7,7 @@ Koordinator
 ## Metadata
 
 - **Author:** _ForgeUser30694
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/koordinator/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/koordinator/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Simple warnings for event procs.
 ## Metadata
 
 - **Author:** CurtisTheGreat
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/eventalert/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/eventalert/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Simple Development&amp;Debug tools. type /cube to open GUI.
 ## Metadata
 
 - **Author:** kurapica125
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/cube/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/cube/)
 
 ## Supported Versions
 

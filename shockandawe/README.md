@@ -7,7 +7,7 @@ Enhance Shaman timer information for Shields, Shocks, Windfury, Stormstrike &amp
 ## Metadata
 
 - **Author:** Pericles
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/shockandawe/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/shockandawe/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ A gnome helper that keeps your wardrobe organized. At least tries to.
 ## Metadata
 
 - **Author:** folknor
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/closetgnome/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/closetgnome/)
 
 ## Supported Versions
 

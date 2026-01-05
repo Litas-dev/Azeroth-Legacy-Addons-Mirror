@@ -7,7 +7,7 @@ Simple and rich Death Knight rune customizations.
 ## Metadata
 
 - **Author:** Cralor
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/rune-it-all/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/rune-it-all/)
 
 ## Supported Versions
 

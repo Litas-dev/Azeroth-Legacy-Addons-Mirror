@@ -7,7 +7,7 @@ mount and companion manager
 ## Metadata
 
 - **Author:** Turducken_McNugget
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/pokedex/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/pokedex/)
 
 ## Supported Versions
 

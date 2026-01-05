@@ -7,7 +7,7 @@ Remember the locations of rares as you go near them.
 ## Metadata
 
 - **Author:** Kemayo
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/silverdragon/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/silverdragon/)
 
 ## Supported Versions
 

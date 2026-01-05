@@ -7,7 +7,7 @@ MrTrader is a Tradeskill window replacement, with additional features.
 ## Metadata
 
 - **Author:** Kaiede83
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/mrtrader/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/mrtrader/)
 
 ## Supported Versions
 

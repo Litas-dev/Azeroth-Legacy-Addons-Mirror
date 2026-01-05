@@ -7,7 +7,7 @@ Displays a bar of spells, abilities, tradeskills, mounts or mini-pets you&#039;v
 ## Metadata
 
 - **Author:** Jamash
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/learning-aid/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/learning-aid/)
 
 ## Supported Versions
 

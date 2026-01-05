@@ -7,7 +7,7 @@ Announces player deaths to chat
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/fatality/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/fatality/)
 
 ## Supported Versions
 

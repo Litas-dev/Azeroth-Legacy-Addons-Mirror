@@ -7,7 +7,7 @@ Prospecting and Disenchanting Aid.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/panda/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/panda/)
 
 ## Supported Versions
 

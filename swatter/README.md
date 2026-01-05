@@ -7,7 +7,7 @@ Debugging tool for handling and displaying of error messages in a useful way.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/swatter/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/swatter/)
 
 ## Supported Versions
 

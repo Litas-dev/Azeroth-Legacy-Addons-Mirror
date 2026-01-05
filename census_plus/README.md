@@ -7,7 +7,7 @@ Easily measure your realm information. Note that this addon might not work on al
 ## Metadata
 
 - **Author:** coopers98
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/census-plus/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/census-plus/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ TrinketICD displays your item proc(s) ICD (internal cooldown).
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/trinketicd/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/trinketicd/)
 
 ## Supported Versions
 

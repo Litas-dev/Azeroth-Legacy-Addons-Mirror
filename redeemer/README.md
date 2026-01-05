@@ -7,7 +7,7 @@ Resurrection messages. Pure fluff!
 ## Metadata
 
 - **Author:** Ryplinn
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/redeemer/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/redeemer/)
 
 ## Supported Versions
 

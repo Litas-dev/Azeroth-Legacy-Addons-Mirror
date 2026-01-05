@@ -7,7 +7,7 @@ Adds a filter for your guild bank and its logs.
 ## Metadata
 
 - **Author:** Ketho17
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/guildbanksearch/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/guildbanksearch/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ A friendly companion that remembers the chat.
 ## Metadata
 
 - **Author:** pb_ee1
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/elephant/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/elephant/)
 
 ## Supported Versions
 

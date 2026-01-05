@@ -7,7 +7,7 @@ The ultimate Death Knight runic experience.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/runehero/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/runehero/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Calculates an optimal route for you to follow while questing.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/questhelper/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/questhelper/)
 
 ## Supported Versions
 

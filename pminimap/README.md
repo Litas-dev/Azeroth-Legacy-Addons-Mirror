@@ -7,7 +7,7 @@ Yet another square minimap addon.
 ## Metadata
 
 - **Author:** p3lim
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/pminimap/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/pminimap/)
 
 ## Supported Versions
 

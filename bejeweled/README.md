@@ -7,7 +7,7 @@ The popular game Bejeweled, now for Azeroth Legacy!
 ## Metadata
 
 - **Author:** Kadecgos
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/bejeweled/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/bejeweled/)
 
 ## Supported Versions
 

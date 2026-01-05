@@ -7,7 +7,7 @@ Play Snake when you are bored.
 ## Metadata
 
 - **Author:** Motig
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/snake/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/snake/)
 
 ## Supported Versions
 

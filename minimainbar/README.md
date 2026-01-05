@@ -7,7 +7,7 @@
 ## Metadata
 
 - **Author:** _ForgeUser1190305
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/minimainbar/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/minimainbar/)
 
 ## Supported Versions
 

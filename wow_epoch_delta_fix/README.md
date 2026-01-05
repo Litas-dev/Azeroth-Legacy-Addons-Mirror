@@ -1,11 +1,11 @@
-# WoW Epoch Delta Fix
+# Game Epoch Delta Fix
 
 Corrects comparison stats for equipped gear vs mouseover gear
 
 ## Metadata
 
 - **Author:** dellmas
-- **Source:** [Original Link](https://github.com/dellmas/WoW-Epoch-Delta-Fix)
+- **Source:** [Original Link](https://github.com/dellmas/Game-Epoch-Delta-Fix)
 
 ## Supported Versions
 

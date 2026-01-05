@@ -7,7 +7,7 @@ Simple addon for quick item comparisons.
 ## Metadata
 
 - **Author:** Legorol
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/equipcompare/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/equipcompare/)
 
 ## Supported Versions
 

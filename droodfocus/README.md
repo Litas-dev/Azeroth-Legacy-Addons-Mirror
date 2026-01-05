@@ -7,7 +7,7 @@ DroodFocus adds a window with all the info that a feral druid must have.
 ## Metadata
 
 - **Author:** jk_baller23
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/droodfocus/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/droodfocus/)
 
 ## Supported Versions
 

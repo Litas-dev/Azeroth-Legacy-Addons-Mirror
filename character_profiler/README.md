@@ -7,7 +7,7 @@ Export Character Profiles for use out-of-game.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/character-profiler/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/character-profiler/)
 
 ## Supported Versions
 

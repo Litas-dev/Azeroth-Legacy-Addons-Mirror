@@ -7,7 +7,7 @@ PitBull is a Unit Frames addon that provides maximal customization.
 ## Metadata
 
 - **Author:** Shefki
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/pitbull-unit-frames/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/pitbull-unit-frames/)
 
 ## Supported Versions
 

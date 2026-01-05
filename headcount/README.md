@@ -7,7 +7,7 @@ Manages tracking of raid attendance, loot, and more.
 ## Metadata
 
 - **Author:** seppyk
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/headcount/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/headcount/)
 
 ## Supported Versions
 

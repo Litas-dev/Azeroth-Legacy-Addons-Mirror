@@ -7,7 +7,7 @@ Adds mob patrol paths to your map.
 ## Metadata
 
 - **Author:** Torhal
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/npcscanoverlay/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/npcscanoverlay/)
 
 ## Supported Versions
 

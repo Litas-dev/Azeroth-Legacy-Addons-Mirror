@@ -7,7 +7,7 @@ A Collection of Automations and Interface Tweaks.
 ## Metadata
 
 - **Author:** _ForgeUser877
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/minimalist/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/minimalist/)
 
 ## Supported Versions
 

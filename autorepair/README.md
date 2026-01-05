@@ -7,7 +7,7 @@ Automaticaly repairs all items when a merchant window is opened.
 ## Metadata
 
 - **Author:** markyxl
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/autorepair/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/autorepair/)
 
 ## Supported Versions
 

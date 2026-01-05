@@ -7,7 +7,7 @@ Shows your current melee stats (Attack Power, Crit Chance, Hit Chance, Main and 
 ## Metadata
 
 - **Author:** TheVaan_
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/tinymeleestats/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/tinymeleestats/)
 
 ## Supported Versions
 

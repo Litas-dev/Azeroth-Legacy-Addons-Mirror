@@ -7,7 +7,7 @@ Cooldown count for everything.
 ## Metadata
 
 - **Author:** Tuller
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/omnicc/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/omnicc/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ QuickQuest is a quest automating addon that will do the most enduring questing t
 ## Metadata
 
 - **Author:** p3lim
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/quickquest/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/quickquest/)
 
 ## Supported Versions
 

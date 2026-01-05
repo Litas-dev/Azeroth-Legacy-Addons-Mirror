@@ -7,7 +7,7 @@ Highly configurable castbar and single timer addon.
 ## Metadata
 
 - **Author:** elchefe12345
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/gnosis-castbars-and-timers/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/gnosis-castbars-and-timers/)
 
 ## Supported Versions
 

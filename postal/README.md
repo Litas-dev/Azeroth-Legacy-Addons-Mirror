@@ -7,7 +7,7 @@ Postal provides an enchanced mailbox support.
 ## Metadata
 
 - **Author:** Xinhuan
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/postal/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/postal/)
 
 ## Supported Versions
 

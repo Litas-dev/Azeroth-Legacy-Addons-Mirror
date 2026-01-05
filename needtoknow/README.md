@@ -7,7 +7,7 @@ Timer bars for buffs, debuffs, cooldowns, etc.
 ## Metadata
 
 - **Author:** lieandswell
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/needtoknow/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/needtoknow/)
 
 ## Supported Versions
 

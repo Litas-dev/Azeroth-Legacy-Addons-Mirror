@@ -7,7 +7,7 @@ Make your shiny items... glow in the dark.
 ## Metadata
 
 - **Author:** haste
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/oglow/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/oglow/)
 
 ## Supported Versions
 

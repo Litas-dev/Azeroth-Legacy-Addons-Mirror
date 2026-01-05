@@ -7,7 +7,7 @@ Advanced Inspection Mod of Gear, Talents, Honor, Arena and Achievements.
 ## Metadata
 
 - **Author:** Aezay
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/examiner/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/examiner/)
 
 ## Supported Versions
 

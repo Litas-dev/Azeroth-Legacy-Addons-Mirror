@@ -7,7 +7,7 @@ Simple and clean Death Knight displays.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/acherus/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/acherus/)
 
 ## Supported Versions
 

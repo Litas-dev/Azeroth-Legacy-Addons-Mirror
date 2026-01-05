@@ -5,7 +5,7 @@ RSA is an addon that can announce spell casts to various chat channels
 ## Metadata
 
 - **Author:** Raelii
-- **Source:** [Original Link](https://github.com/alchem1ster/WotLK-RSA)
+- **Source:** [Original Link](https://github.com/alchem1ster/3.3.5-RSA)
 
 ## Supported Versions
 

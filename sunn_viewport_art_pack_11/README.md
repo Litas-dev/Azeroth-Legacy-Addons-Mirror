@@ -7,7 +7,7 @@ Textures for Sunn - Viewport Art (SunnArt)
 ## Metadata
 
 - **Author:** sunn6
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/sunn-viewport-art-pack-11/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/sunn-viewport-art-pack-11/)
 
 ## Supported Versions
 

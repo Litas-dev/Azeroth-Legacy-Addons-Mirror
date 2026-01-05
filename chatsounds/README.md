@@ -7,7 +7,7 @@ Enables user defined sounds for Party, Guild and Raid chat messages.
 ## Metadata
 
 - **Author:** Dridzt
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/chatsounds/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/chatsounds/)
 
 ## Supported Versions
 

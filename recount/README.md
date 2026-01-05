@@ -7,7 +7,7 @@ Records Damage and Healing for Graph-Based Display
 ## Metadata
 
 - **Author:** Resike
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/recount/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/recount/)
 
 ## Supported Versions
 

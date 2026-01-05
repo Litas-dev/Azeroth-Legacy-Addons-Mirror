@@ -7,7 +7,7 @@ MacroBank is an addon to allow you to save macros for future use.
 ## Metadata
 
 - **Author:** Odlaw
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/macrobank/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/macrobank/)
 
 ## Supported Versions
 

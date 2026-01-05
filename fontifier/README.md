@@ -7,7 +7,7 @@ Fontifier is an addon to change the basic fonts in Azeroth Legacy.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/fontifier/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/fontifier/)
 
 ## Supported Versions
 

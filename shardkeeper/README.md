@@ -5,7 +5,7 @@ ShardKeeper helps you manage your Soul Shards automatically.
 ## Metadata
 
 - **Author:** cronix91
-- **Source:** [Original Link](https://github.com/andreash-dev/ShardKeeper-WotLK)
+- **Source:** [Original Link](https://github.com/andreash-dev/ShardKeeper-3.3.5)
 
 ## Supported Versions
 

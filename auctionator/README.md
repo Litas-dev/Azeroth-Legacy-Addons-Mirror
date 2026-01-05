@@ -7,7 +7,7 @@ Addon that makes it easy and fast to buy, sell and manage auctions.
 ## Metadata
 
 - **Author:** Zirco
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/auctionator/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/auctionator/)
 
 ## Supported Versions
 

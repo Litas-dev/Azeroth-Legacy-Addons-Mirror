@@ -7,7 +7,7 @@ Este addon muestra rangos de nivel, nombres de zonas
 ## Metadata
 
 - **Author:** DJarv
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/zonelevelinfo/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/zonelevelinfo/)
 
 ## Supported Versions
 

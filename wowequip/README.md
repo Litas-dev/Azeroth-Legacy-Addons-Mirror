@@ -1,4 +1,4 @@
-# WoWEquip
+# GameEquip
 
 <img src="logo.webp" align="right" width="100">
 
@@ -7,7 +7,7 @@ Try on different gear and see their total stats and their differences. In short,
 ## Metadata
 
 - **Author:** Xinhuan
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/wowequip/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/wowequip/)
 
 ## Supported Versions
 

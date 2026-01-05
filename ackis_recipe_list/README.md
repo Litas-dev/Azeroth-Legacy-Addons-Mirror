@@ -7,7 +7,7 @@ Scan your trade skills and provide information on how to obtain recipes.
 ## Metadata
 
 - **Author:** Torhal
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/ackis-recipe-list/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/ackis-recipe-list/)
 
 ## Supported Versions
 

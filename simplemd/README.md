@@ -7,7 +7,7 @@ Track all threat redirection ability transfers and cooldowns (MD and TotT).
 ## Metadata
 
 - **Author:** Starinnia
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/simplemd/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/simplemd/)
 
 ## Supported Versions
 

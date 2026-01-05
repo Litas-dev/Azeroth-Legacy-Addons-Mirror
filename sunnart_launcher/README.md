@@ -7,7 +7,7 @@ Creates a DataBroker launcher for Sunn - Viewport Art
 ## Metadata
 
 - **Author:** sunn6
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/sunnart-launcher/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/sunnart-launcher/)
 
 ## Supported Versions
 

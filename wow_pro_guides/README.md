@@ -1,6 +1,6 @@
-# WoW-Pro Guides
+# Game-Pro Guides
 
-Questing and Leveling guides from the WoW-Pro community!
+Questing and Leveling guides from the Game-Pro community!
 
 ## Metadata
 

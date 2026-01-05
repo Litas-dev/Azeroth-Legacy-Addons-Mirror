@@ -7,7 +7,7 @@ Provides a convenient way to store and share assignments for different bosses.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/angry-assignments/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/angry-assignments/)
 
 ## Supported Versions
 

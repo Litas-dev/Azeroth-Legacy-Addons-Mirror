@@ -7,7 +7,7 @@ Progress bar for tracking skill-ups.
 ## Metadata
 
 - **Author:** Verissi
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/skillmonitor/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/skillmonitor/)
 
 ## Supported Versions
 

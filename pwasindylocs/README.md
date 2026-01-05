@@ -7,7 +7,7 @@ Pops up an image for where to stand
 ## Metadata
 
 - **Author:** nebula169
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/pwasindylocs/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/pwasindylocs/)
 
 ## Supported Versions
 

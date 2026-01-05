@@ -7,7 +7,7 @@ Displays a list of mounts and pets which the character is missing.
 ## Metadata
 
 - **Author:** Jim-Bim
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/collect-me/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/collect-me/)
 
 ## Supported Versions
 

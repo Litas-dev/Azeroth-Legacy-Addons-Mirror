@@ -7,7 +7,7 @@ Addon that allows user to create Keybinding Profiles, for easy switching between
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/binder/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/binder/)
 
 ## Supported Versions
 

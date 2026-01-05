@@ -7,7 +7,7 @@ Tells you who bought your auctions.
 ## Metadata
 
 - **Author:** Cyprias
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/mysales/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/mysales/)
 
 ## Supported Versions
 

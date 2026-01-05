@@ -7,7 +7,7 @@ Improved Quest Tracker
 ## Metadata
 
 - **Author:** Forge_User_39331286
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/moncai-quest-tracker/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/moncai-quest-tracker/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Addon that includes detailed maps for every instance in the game
 ## Metadata
 
 - **Author:** arithmandar
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/atlas/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/atlas/)
 
 ## Supported Versions
 

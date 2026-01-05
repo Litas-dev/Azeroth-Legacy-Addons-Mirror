@@ -7,7 +7,7 @@ Makes chatting fun again! Type /whisp for options
 ## Metadata
 
 - **Author:** Dreyle
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/whisp/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/whisp/)
 
 ## Supported Versions
 

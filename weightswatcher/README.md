@@ -7,7 +7,7 @@ Ranks gear according to customizable stat weights.
 ## Metadata
 
 - **Author:** IQgryn
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/weightswatcher/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/weightswatcher/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Aesa helps you track enemy cooldowns.
 ## Metadata
 
 - **Author:** Ananhaid
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/aesa/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/aesa/)
 
 ## Supported Versions
 

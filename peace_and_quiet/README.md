@@ -7,7 +7,7 @@ Automatically leaves the global channels when inside an instance/raid and restor
 ## Metadata
 
 - **Author:** Talryn
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/peace-and-quiet/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/peace-and-quiet/)
 
 ## Supported Versions
 

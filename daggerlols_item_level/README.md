@@ -7,7 +7,7 @@ Shows the item level in a small class colored text on top of the item.
 ## Metadata
 
 - **Author:** Atane
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/daggerlols-item-level/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/daggerlols-item-level/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Enhanced friends / ignore list
 ## Metadata
 
 - **Author:** andymon8
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/holofriends-continued/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/holofriends-continued/)
 
 ## Supported Versions
 

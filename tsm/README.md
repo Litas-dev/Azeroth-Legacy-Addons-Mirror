@@ -7,7 +7,7 @@ Backported version of Trade Skill Master (TSM).
 ## Metadata
 
 - **Author:** Sapu94
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/tsm/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/tsm/)
 
 ## Supported Versions
 

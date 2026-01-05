@@ -7,7 +7,7 @@ CLEAN HP BAR FULLY CUSTOMIZABLE
 ## Metadata
 
 - **Author:** ZoneReaper_
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/reaperhp-bar/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/reaperhp-bar/)
 
 ## Supported Versions
 

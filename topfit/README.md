@@ -7,7 +7,7 @@ Auto equip the best equipment.
 ## Metadata
 
 - **Author:** Mirroar
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/topfit/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/topfit/)
 
 ## Supported Versions
 

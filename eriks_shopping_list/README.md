@@ -7,7 +7,7 @@ This add-on provides a shopping list of all ingredients you need for any recipe 
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/eriks-shopping-list/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/eriks-shopping-list/)
 
 ## Supported Versions
 

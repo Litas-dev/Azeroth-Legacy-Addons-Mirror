@@ -7,7 +7,7 @@ Plays sound when a ready check, LFG queue, battleground queue, or world battlegr
 ## Metadata
 
 - **Author:** Ackis
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/alttabber/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/alttabber/)
 
 ## Supported Versions
 

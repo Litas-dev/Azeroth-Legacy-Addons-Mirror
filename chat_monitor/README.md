@@ -7,7 +7,7 @@ Filters specific messages into a new window to make monitoring chat much easier.
 ## Metadata
 
 - **Author:** polyglotcoder
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/chat-monitor/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/chat-monitor/)
 
 ## Supported Versions
 

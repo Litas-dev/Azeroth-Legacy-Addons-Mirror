@@ -7,7 +7,7 @@ Displays friend notes in unit tooltips, at logon, and in /who results.
 ## Metadata
 
 - **Author:** Talryn
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/friend-notes/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/friend-notes/)
 
 ## Supported Versions
 

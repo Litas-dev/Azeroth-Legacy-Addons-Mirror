@@ -7,7 +7,7 @@ Auto repair + shows durability.
 ## Metadata
 
 - **Author:** chainweb
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/repairbroker/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/repairbroker/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Adds a tooltip to the world map showing flightpaths into and out of regions.
 ## Metadata
 
 - **Author:** Dhask
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/dhasks-flightmap/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/dhasks-flightmap/)
 
 ## Supported Versions
 

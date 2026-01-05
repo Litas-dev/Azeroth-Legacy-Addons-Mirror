@@ -7,7 +7,7 @@ Show a targets beneficial buffs and debuffs with the option to ignore certain sp
 ## Metadata
 
 - **Author:** Codermik
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/natur-enemy-castbar/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/natur-enemy-castbar/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Enhanced quest storytelling.
 ## Metadata
 
 - **Author:** Ellypse
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/storyline/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/storyline/)
 
 ## Supported Versions
 

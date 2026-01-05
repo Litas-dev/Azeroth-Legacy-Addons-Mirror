@@ -7,7 +7,7 @@ Extends the Blizzard unitframes for better visuals, with a minimal 17KB footprin
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/unitframesimproved/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/unitframesimproved/)
 
 ## Supported Versions
 

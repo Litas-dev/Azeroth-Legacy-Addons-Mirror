@@ -7,7 +7,7 @@ An interface for managing teleportation spells and items.
 ## Metadata
 
 - **Author:** Remeen
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/tome-of-teleportation/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/tome-of-teleportation/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Shows all of the stats from the dropdowns next to the paperdoll window.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/all-stats/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/all-stats/)
 
 ## Supported Versions
 

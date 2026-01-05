@@ -7,7 +7,7 @@ A custom raid cooldowns tracker.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/elvincds/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/elvincds/)
 
 ## Supported Versions
 

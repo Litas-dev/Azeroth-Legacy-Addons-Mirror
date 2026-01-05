@@ -7,7 +7,7 @@ Tracks your repeated daily tasks so you don&#039;t forget!
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/dailyto-dos/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/dailyto-dos/)
 
 ## Supported Versions
 

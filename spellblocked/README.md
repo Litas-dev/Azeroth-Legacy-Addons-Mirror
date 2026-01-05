@@ -7,7 +7,7 @@ Adds the name of the reflected spell to floating combat text messages.
 ## Metadata
 
 - **Author:** Lombra
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/spellblocked/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/spellblocked/)
 
 ## Supported Versions
 

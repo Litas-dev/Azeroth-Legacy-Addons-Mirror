@@ -7,7 +7,7 @@ OPie lets you group actions into rings which appear when you hold down a key.
 ## Metadata
 
 - **Author:** Foxlit
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/opie/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/opie/)
 
 ## Supported Versions
 

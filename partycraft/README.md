@@ -7,7 +7,7 @@ Shows how many of an item a party member has crafted.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/partycraft/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/partycraft/)
 
 ## Supported Versions
 

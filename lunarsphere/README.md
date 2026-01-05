@@ -7,7 +7,7 @@ A universal sphere for all classes.
 ## Metadata
 
 - **Author:** MoongazeMods
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/lunarsphere/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/lunarsphere/)
 
 ## Supported Versions
 

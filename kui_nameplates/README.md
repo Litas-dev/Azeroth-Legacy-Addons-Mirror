@@ -7,7 +7,7 @@ Prettier, lightweight, configurable nameplates.
 ## Metadata
 
 - **Author:** Kesava
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/kuinameplates/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/kuinameplates/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Customizing your buff display.
 ## Metadata
 
 - **Author:** TimTaler
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/bison/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/bison/)
 
 ## Supported Versions
 

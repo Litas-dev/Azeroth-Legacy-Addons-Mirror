@@ -7,7 +7,7 @@ Gatherer, displays stuff you gather in your minimap and world map.
 ## Metadata
 
 - **Author:** Esamynn
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/gatherer/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/gatherer/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Prints a list of people missing either flask, elixirs or food buff every ready c
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/fascistgnome/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/fascistgnome/)
 
 ## Supported Versions
 

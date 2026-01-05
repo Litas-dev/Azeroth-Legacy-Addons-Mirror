@@ -7,7 +7,7 @@ Adds Scrolling Combat Text above your character.
 ## Metadata
 
 - **Author:** Grayhoof
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/scrolling-combat-text/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/scrolling-combat-text/)
 
 ## Supported Versions
 

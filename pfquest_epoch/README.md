@@ -1,6 +1,6 @@
 # pfQuest Epoch
 
-An extension for pfQuest-wotlk which adds support for Project Epoch.
+An extension for pfQuest-3.3.5 which adds support for Project Epoch.
 
 ## Metadata
 

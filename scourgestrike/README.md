@@ -7,7 +7,7 @@ Combines the physical and shadow portion of the Scourge Strike.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/scourgestrike/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/scourgestrike/)
 
 ## Supported Versions
 

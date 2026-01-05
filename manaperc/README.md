@@ -7,7 +7,7 @@ Shows mana usage as a percentage in a spells tooltip.
 ## Metadata
 
 - **Author:** polyhydride
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/manaperc/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/manaperc/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Raeli&#039;s Unit Frames. Simple lightweight unitframes using oUF.
 ## Metadata
 
 - **Author:** Raeli
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/ruf/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/ruf/)
 
 ## Supported Versions
 

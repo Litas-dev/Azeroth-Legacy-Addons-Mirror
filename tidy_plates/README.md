@@ -7,7 +7,7 @@ Modifies the default Blizzard nameplates.
 ## Metadata
 
 - **Author:** danltiger
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/tidy-plates/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/tidy-plates/)
 
 ## Supported Versions
 

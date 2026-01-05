@@ -7,7 +7,7 @@ Mage Nuggets is a mage utility with many useful nuggets to make the lives of mag
 ## Metadata
 
 - **Author:** b-buck
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/mage-nuggets/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/mage-nuggets/)
 
 ## Supported Versions
 

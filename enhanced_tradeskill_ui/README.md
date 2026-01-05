@@ -7,7 +7,7 @@ Shows more recipes in the profession window.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/enhanced-tradeskill-ui/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/enhanced-tradeskill-ui/)
 
 ## Supported Versions
 

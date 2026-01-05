@@ -7,7 +7,7 @@ Reputation Calculator
 ## Metadata
 
 - **Author:** dist_
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/repcalc-reputation-bars/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/repcalc-reputation-bars/)
 
 ## Supported Versions
 

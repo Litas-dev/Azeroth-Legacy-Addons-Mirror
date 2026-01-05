@@ -7,7 +7,7 @@ DBM for Whitemane (Frostmourne)
 ## Metadata
 
 - **Author:** broizter
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/dbm-whitemane/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/dbm-whitemane/)
 
 ## Supported Versions
 

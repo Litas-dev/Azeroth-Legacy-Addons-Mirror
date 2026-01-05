@@ -7,7 +7,7 @@ SmartDebuff is an addon to support you in cast debuff spells.
 ## Metadata
 
 - **Author:** Aeldra
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/smartdebuff/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/smartdebuff/)
 
 ## Supported Versions
 

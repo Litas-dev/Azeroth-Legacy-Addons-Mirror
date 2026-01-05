@@ -5,7 +5,7 @@ Raven tracks Buffs &amp; Debuffs in different ways.
 ## Metadata
 
 - **Author:** bkader
-- **Source:** [Original Link](https://github.com/bkader/Raven-WotLK)
+- **Source:** [Original Link](https://github.com/bkader/Raven-3.3.5)
 
 ## Supported Versions
 

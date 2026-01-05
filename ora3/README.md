@@ -7,7 +7,7 @@ oRA3 is a raid leading addon, offering loot settings, invite settings and more.
 ## Metadata
 
 - **Author:** funkydude
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/ora3/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/ora3/)
 
 ## Supported Versions
 

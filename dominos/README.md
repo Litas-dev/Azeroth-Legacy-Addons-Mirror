@@ -7,7 +7,7 @@ A main actionbar replacement.
 ## Metadata
 
 - **Author:** Tuller
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/dominos/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/dominos/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Provides information about your alts.
 ## Metadata
 
 - **Author:** Thaoky
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/altoholic/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/altoholic/)
 
 ## Supported Versions
 

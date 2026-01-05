@@ -7,7 +7,7 @@ Hide the griffins that are on the sides of the Blizzard Action Bars.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/dragonhide/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/dragonhide/)
 
 ## Supported Versions
 

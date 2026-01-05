@@ -7,7 +7,7 @@ Creates a small movable frame listing stealable buffs from your target.
 ## Metadata
 
 - **Author:** Blinddate
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/spell-stealer/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/spell-stealer/)
 
 ## Supported Versions
 

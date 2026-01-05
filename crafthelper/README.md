@@ -7,7 +7,7 @@ A filter tool for blizzards TradeSkillUI
 ## Metadata
 
 - **Author:** endymion172
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/crafthelper/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/crafthelper/)
 
 ## Supported Versions
 

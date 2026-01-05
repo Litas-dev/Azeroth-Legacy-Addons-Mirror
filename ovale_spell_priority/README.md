@@ -7,7 +7,7 @@ Rotation-helper addon that shows you what spell or ability you should use in ord
 ## Metadata
 
 - **Author:** Coriot
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/ovale-spell-priority/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/ovale-spell-priority/)
 
 ## Supported Versions
 

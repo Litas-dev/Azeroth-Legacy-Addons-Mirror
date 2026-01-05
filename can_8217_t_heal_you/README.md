@@ -7,7 +7,7 @@ Attempts to detect when someone is out of line of sight or range of a heal and w
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/cant-heal-you/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/cant-heal-you/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Reports in raid chat whenever a raid member fails a mechanic.
 ## Metadata
 
 - **Author:** Calebzor
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/ensidiafails/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/ensidiafails/)
 
 ## Supported Versions
 

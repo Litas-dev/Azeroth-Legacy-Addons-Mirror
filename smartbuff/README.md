@@ -7,7 +7,7 @@ Cast the most important buffs on you or party or raid members.
 ## Metadata
 
 - **Author:** Aeldra
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/smartbuff/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/smartbuff/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Quick Auctions is an auction tool to help speed up auctioning large quantities o
 ## Metadata
 
 - **Author:** Shadowed
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/quick-auctions-3/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/quick-auctions-3/)
 
 ## Supported Versions
 

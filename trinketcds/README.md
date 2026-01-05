@@ -1,6 +1,6 @@
 # TrinketCDs
 
-Trinket cooldowns addon for WotLK
+Trinket cooldowns addon for 3.3.5
 
 ## Metadata
 

@@ -7,7 +7,7 @@ Casting Bar replacement mod.
 ## Metadata
 
 - **Author:** NeuroMedivh
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/ecastingbar/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/ecastingbar/)
 
 ## Supported Versions
 

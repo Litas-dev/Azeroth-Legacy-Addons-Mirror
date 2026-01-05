@@ -7,7 +7,7 @@ A plugin for OneBag to make your keyring the same texture as OneBag/Bank.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/onering3/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/onering3/)
 
 ## Supported Versions
 

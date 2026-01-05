@@ -7,7 +7,7 @@ Very simple and lightweight addon for display of a Death Knight&#039;s runes (be
 ## Metadata
 
 - **Author:** Yivry
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/yurys-runedisplay/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/yurys-runedisplay/)
 
 ## Supported Versions
 

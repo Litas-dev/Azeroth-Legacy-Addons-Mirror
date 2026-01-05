@@ -7,7 +7,7 @@ Saves and restores your action bars.
 ## Metadata
 
 - **Author:** Shadowed
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/action-bar-saver/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/action-bar-saver/)
 
 ## Supported Versions
 

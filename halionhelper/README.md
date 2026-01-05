@@ -5,7 +5,7 @@ Provides a clearer visual display of the Corporeality buff during phase 3 of the
 ## Metadata
 
 - **Author:** bkader
-- **Source:** [Original Link](https://github.com/bkader/HalionHelper-WoTLK)
+- **Source:** [Original Link](https://github.com/bkader/HalionHelper-3.3.5)
 
 ## Supported Versions
 

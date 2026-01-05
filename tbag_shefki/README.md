@@ -7,7 +7,7 @@ The last bag addon you&#039;ll ever need. Autosorting, viewable anywhere, easy t
 ## Metadata
 
 - **Author:** shefkin
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/tbag-shefki/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/tbag-shefki/)
 
 ## Supported Versions
 

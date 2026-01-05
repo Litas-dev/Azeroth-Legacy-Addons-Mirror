@@ -7,7 +7,7 @@ Announces your quest progression to your group.
 ## Metadata
 
 - **Author:** Sommy
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/quest-announce/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/quest-announce/)
 
 ## Supported Versions
 

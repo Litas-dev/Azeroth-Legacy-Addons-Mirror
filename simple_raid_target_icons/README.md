@@ -7,7 +7,7 @@ Simple Raid Target Icons
 ## Metadata
 
 - **Author:** MrFIXlT
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/simple-raid-target-icons/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/simple-raid-target-icons/)
 
 ## Supported Versions
 

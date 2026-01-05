@@ -7,7 +7,7 @@ Automatically set up groups in raids.
 ## Metadata
 
 - **Author:** bencvt
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/fixgroups/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/fixgroups/)
 
 ## Supported Versions
 

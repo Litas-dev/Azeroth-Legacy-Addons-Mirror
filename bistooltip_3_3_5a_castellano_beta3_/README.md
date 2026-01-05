@@ -7,7 +7,7 @@ Bistooltip totalmente en castellano y compatible con Lich King
 ## Metadata
 
 - **Author:** ErCr1S (Niugh) y Zangetsuu
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/bistooltip-3-3-5a-castellanobeta3/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/bistooltip-3-3-5a-castellanobeta3/)
 
 ## Supported Versions
 

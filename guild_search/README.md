@@ -7,7 +7,7 @@ A UI for searching the guild roster.
 ## Metadata
 
 - **Author:** Talryn
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/guild-search/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/guild-search/)
 
 ## Supported Versions
 

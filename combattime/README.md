@@ -7,7 +7,7 @@ Simple, light-weight, LDB-enabled timer that tracks how long you spend in combat
 ## Metadata
 
 - **Author:** _ForgeUser405586
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/combattime/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/combattime/)
 
 ## Supported Versions
 

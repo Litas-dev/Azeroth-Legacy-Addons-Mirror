@@ -7,7 +7,7 @@ Windfury Counter and Helper for Elemental Shields, Purge, Grounding Totem, Light
 ## Metadata
 
 - **Author:** bstassart
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/shaman-friend/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/shaman-friend/)
 
 ## Supported Versions
 

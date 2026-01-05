@@ -7,7 +7,7 @@ Easy access to raid markers, world markers, and other raid controls
 ## Metadata
 
 - **Author:** Waky08
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/wmarker-raid-controls-marker-controls/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/wmarker-raid-controls-marker-controls/)
 
 ## Supported Versions
 

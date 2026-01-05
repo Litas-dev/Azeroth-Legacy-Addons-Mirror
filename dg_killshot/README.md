@@ -7,7 +7,7 @@ Entertaining kill-shot notification.
 ## Metadata
 
 - **Author:** linman0x90
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/dg-killshot/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/dg-killshot/)
 
 ## Supported Versions
 

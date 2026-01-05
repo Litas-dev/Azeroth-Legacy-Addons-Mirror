@@ -7,7 +7,7 @@ Interface for running a Loot Council.
 ## Metadata
 
 - **Author:** broizter
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/rclootcouncil/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/rclootcouncil/)
 
 ## Supported Versions
 

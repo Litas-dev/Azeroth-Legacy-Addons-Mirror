@@ -7,7 +7,7 @@ Essentially, this addon smooths out TSM’s performance
 ## Metadata
 
 - **Author:** ZoneReaper_
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/tsmperfboost-bronzebeard-ah-mail-optimizer/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/tsmperfboost-bronzebeard-ah-mail-optimizer/)
 
 ## Supported Versions
 

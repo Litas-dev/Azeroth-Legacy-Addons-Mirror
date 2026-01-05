@@ -7,7 +7,7 @@ Simple addon to change the look of your unit frames.
 ## Metadata
 
 - **Author:** Workout
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/frames/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/frames/)
 
 ## Supported Versions
 

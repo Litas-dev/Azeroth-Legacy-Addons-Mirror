@@ -7,7 +7,7 @@ TriviaBot allows the user to host quiz games for other players.
 ## Metadata
 
 - **Author:** marspett
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/triviabot/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/triviabot/)
 
 ## Supported Versions
 

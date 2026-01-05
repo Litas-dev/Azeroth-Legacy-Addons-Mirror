@@ -7,7 +7,7 @@ Muestra todas las estadísticas en el menú desplegable junto a la ventana del p
 ## Metadata
 
 - **Author:** ErCr1S (Niugh)
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/allstatsen-castellano/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/allstatsen-castellano/)
 
 ## Supported Versions
 

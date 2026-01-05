@@ -7,7 +7,7 @@ Captures chatframe Tradeskill Links for later reference in an easy to read forma
 ## Metadata
 
 - **Author:** lilsparky
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/gnomish-yellow-pages/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/gnomish-yellow-pages/)
 
 ## Supported Versions
 

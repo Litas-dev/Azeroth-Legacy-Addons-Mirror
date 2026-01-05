@@ -7,7 +7,7 @@ Displays current RDF queue status below your minimap.
 ## Metadata
 
 - **Author:** SmokeyDev
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/displaydungeon/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/displaydungeon/)
 
 ## Supported Versions
 

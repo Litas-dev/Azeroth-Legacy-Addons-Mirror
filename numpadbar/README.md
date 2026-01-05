@@ -7,7 +7,7 @@ Displays a numpad action bar.
 ## Metadata
 
 - **Author:** mrm2u
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/numpadbar/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/numpadbar/)
 
 ## Supported Versions
 

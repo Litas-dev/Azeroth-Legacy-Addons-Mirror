@@ -7,7 +7,7 @@ Helps priests manage their buffs, notifies them when their shackle breaks and mo
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/priestfriend/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/priestfriend/)
 
 ## Supported Versions
 

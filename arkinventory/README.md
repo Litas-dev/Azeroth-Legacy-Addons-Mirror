@@ -7,7 +7,7 @@ Allows viewing of your (and your alts) Bags, Keyring, Bank, Guild Bank, Inventor
 ## Metadata
 
 - **Author:** arkayenro
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/arkinventory/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/arkinventory/)
 
 ## Supported Versions
 

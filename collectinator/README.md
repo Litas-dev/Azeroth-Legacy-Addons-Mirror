@@ -7,7 +7,7 @@ Scans your mini-pets and mounts and provide a check list for what you&#039;re mi
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/collectinator/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/collectinator/)
 
 ## Supported Versions
 

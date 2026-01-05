@@ -7,7 +7,7 @@ Complete system for in-game DKP managment.
 ## Metadata
 
 - **Author:** akhaan
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/quickdkp/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/quickdkp/)
 
 ## Supported Versions
 

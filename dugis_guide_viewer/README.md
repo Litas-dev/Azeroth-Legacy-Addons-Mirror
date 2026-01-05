@@ -7,7 +7,7 @@ Streamlines your quest experience with in-game guides that will help you reach m
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/dugis-guide-viewer/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/dugis-guide-viewer/)
 
 ## Supported Versions
 

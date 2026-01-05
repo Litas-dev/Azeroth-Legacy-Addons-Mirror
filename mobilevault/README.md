@@ -7,7 +7,7 @@ View an image of your guild vault from anywhere.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/mobilevault/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/mobilevault/)
 
 ## Supported Versions
 

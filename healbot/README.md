@@ -7,7 +7,7 @@ Adds a panel with skinable bars for healing, decursive and more.
 ## Metadata
 
 - **Author:** StrifeCUK
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/healbot/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/healbot/)
 
 ## Supported Versions
 

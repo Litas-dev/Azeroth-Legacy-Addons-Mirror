@@ -7,7 +7,7 @@ Status bar timer for your flight paths
 ## Metadata
 
 - **Author:** LudiusMaximus
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/inflight-taxi-timer/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/inflight-taxi-timer/)
 
 ## Supported Versions
 

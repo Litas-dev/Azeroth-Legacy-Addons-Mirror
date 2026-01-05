@@ -7,7 +7,7 @@ An addon that calculates the profit to be made from buying tradeskill mats from 
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/slyprofits/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/slyprofits/)
 
 ## Supported Versions
 

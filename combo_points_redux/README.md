@@ -7,7 +7,7 @@ Numerical and graphical display of Combo Point and similar buffs/debuffs.
 ## Metadata
 
 - **Author:** Starinnia
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/combo-points-redux/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/combo-points-redux/)
 
 ## Supported Versions
 

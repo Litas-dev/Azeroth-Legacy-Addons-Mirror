@@ -7,7 +7,7 @@ A clean square or round minimap that replaces the default minimap.
 ## Metadata
 
 - **Author:** Azxiana
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/cleanminimap/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/cleanminimap/)
 
 ## Supported Versions
 

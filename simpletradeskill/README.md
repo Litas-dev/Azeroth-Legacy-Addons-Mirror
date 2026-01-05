@@ -7,7 +7,7 @@ Tweak the tradeskill windows
 ## Metadata
 
 - **Author:** Kemayo
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/simpletradeskill/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/simpletradeskill/)
 
 ## Supported Versions
 

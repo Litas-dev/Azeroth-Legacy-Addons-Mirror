@@ -7,7 +7,7 @@ Buffzilla is a simple buff reminder addon.
 ## Metadata
 
 - **Author:** funkjedi
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/buffzilla/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/buffzilla/)
 
 ## Supported Versions
 

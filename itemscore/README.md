@@ -7,7 +7,7 @@ Displays a user-defined score on items - includes caps
 ## Metadata
 
 - **Author:** tvstatic82
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/itemscore/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/itemscore/)
 
 ## Supported Versions
 

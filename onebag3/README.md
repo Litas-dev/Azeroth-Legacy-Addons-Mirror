@@ -7,7 +7,7 @@ OneBag is a replacement for the default game bags that combines all the bags int
 ## Metadata
 
 - **Author:** Kaelten
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/onebag3/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/onebag3/)
 
 ## Supported Versions
 

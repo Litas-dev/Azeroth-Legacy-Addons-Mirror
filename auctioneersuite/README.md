@@ -7,7 +7,7 @@ Provides you with the tools and data necessary to make those difficult auctionin
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/auctioneersuite/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/auctioneersuite/)
 
 ## Supported Versions
 

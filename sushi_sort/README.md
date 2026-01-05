@@ -7,7 +7,7 @@ Helps you sort your bags and guild bank.
 ## Metadata
 
 - **Author:** Venatas
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/sushi-sort/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/sushi-sort/)
 
 ## Supported Versions
 

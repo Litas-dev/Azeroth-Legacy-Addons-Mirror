@@ -7,7 +7,7 @@ Sends a periodical message in a channel.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/autoflood/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/autoflood/)
 
 ## Supported Versions
 

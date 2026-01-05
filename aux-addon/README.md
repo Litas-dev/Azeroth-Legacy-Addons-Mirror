@@ -7,7 +7,7 @@ Auction House interface replacement.
 ## Metadata
 
 - **Author:** simon_hirsig
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/aux/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/aux/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Afflictions display and cleaning for solo, group and raids with advanced filteri
 ## Metadata
 
 - **Author:** archarodim
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/decursive/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/decursive/)
 
 ## Supported Versions
 

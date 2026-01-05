@@ -7,7 +7,7 @@ Provides a virtual keyboard of extended-ASCII and Unicode characters which can b
 ## Metadata
 
 - **Author:** Mirrored_
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/charactermap/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/charactermap/)
 
 ## Supported Versions
 

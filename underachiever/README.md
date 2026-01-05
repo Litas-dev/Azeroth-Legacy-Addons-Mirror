@@ -7,7 +7,7 @@ Create fake achievement links.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/underachiever/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/underachiever/)
 
 ## Supported Versions
 

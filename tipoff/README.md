@@ -7,7 +7,7 @@ Detailed information in tooltips about where and what any item in the game is us
 ## Metadata
 
 - **Author:** Dalthror-x1
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/tipoff/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/tipoff/)
 
 ## Supported Versions
 

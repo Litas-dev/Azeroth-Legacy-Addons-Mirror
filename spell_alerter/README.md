@@ -7,7 +7,7 @@ Alerts you whenever your target casts spells.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/spell-alerter/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/spell-alerter/)
 
 ## Supported Versions
 

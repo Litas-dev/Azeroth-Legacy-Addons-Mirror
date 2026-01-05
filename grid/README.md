@@ -7,7 +7,7 @@ A modular, lightweight, and screen-estate saving grid of party/raid unit frames.
 ## Metadata
 
 - **Author:** Phanx
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/grid/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/grid/)
 
 ## Supported Versions
 

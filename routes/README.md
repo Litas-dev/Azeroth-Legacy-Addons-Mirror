@@ -7,7 +7,7 @@ Routes on your worldmap and minimap.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/routes/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/routes/)
 
 ## Supported Versions
 

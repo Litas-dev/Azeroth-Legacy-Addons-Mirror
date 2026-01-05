@@ -7,7 +7,7 @@ Vender grises con un solo click !
 ## Metadata
 
 - **Author:** ErCr1S (Niugh)
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/venderchatarra/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/venderchatarra/)
 
 ## Supported Versions
 

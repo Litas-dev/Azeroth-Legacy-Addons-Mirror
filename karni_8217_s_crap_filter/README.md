@@ -7,7 +7,7 @@ A snazzy autolooter with value filtering, item white/blacklisting, and more.
 ## Metadata
 
 - **Author:** Karnifex
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/karnis-crap-filter/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/karnis-crap-filter/)
 
 ## Supported Versions
 

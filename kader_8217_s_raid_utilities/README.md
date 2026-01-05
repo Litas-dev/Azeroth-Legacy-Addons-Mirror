@@ -5,7 +5,7 @@ Raid Menu, Loot Method, Auto Invites, Paladin Auras, Healers Mana, Sunder Armor,
 ## Metadata
 
 - **Author:** bkader
-- **Source:** [Original Link](https://github.com/bkader/KRU-WoTLK)
+- **Source:** [Original Link](https://github.com/bkader/KRU-3.3.5)
 
 ## Supported Versions
 

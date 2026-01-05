@@ -7,7 +7,7 @@ Customize and enhance how nameplates and nameplate casting bars appear in the ga
 ## Metadata
 
 - **Author:** acapela
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/aloft/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/aloft/)
 
 ## Supported Versions
 

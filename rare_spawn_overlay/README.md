@@ -7,7 +7,7 @@ World Map Overlay for rare NPC&#039;s.
 ## Metadata
 
 - **Author:** keithgabryelski
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/rare-spawn-overlay/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/rare-spawn-overlay/)
 
 ## Supported Versions
 

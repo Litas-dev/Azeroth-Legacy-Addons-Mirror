@@ -7,7 +7,7 @@ Play a virtual piano when you are bored.
 ## Metadata
 
 - **Author:** Trucidare
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/virtual-piano/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/virtual-piano/)
 
 ## Supported Versions
 

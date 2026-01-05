@@ -7,7 +7,7 @@ A guild bounty hunting and integrated guild bank tracking system.
 ## Metadata
 
 - **Author:** _ForgeUser3801672
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/guild-bounty-hunter/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/guild-bounty-hunter/)
 
 ## Supported Versions
 

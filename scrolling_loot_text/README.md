@@ -7,7 +7,7 @@ Changes the default loot window with a scrolling one.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/scrolling-loot-text/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/scrolling-loot-text/)
 
 ## Supported Versions
 

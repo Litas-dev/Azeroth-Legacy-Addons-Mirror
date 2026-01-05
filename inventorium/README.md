@@ -7,7 +7,7 @@ Inventorium can keep track of items, refill them from storage and restock from v
 ## Metadata
 
 - **Author:** Zerotorescue
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/inventorium/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/inventorium/)
 
 ## Supported Versions
 

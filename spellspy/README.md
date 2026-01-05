@@ -7,7 +7,7 @@ Search, lookup and browse all spells in Azeroth Legacy
 ## Metadata
 
 - **Author:** Aezay
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/spellspy/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/spellspy/)
 
 ## Supported Versions
 

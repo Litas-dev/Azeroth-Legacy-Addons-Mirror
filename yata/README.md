@@ -7,7 +7,7 @@ Small totem bar with timers.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/yata/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/yata/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Displays the remaing cooldown of the action you tried to use
 ## Metadata
 
 - **Author:** mitchnull
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/cooldowntogo/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/cooldowntogo/)
 
 ## Supported Versions
 

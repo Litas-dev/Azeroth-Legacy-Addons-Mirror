@@ -7,7 +7,7 @@ Shows your current caster stats (spellpower, critchance, haste, hit, mp5). By Th
 ## Metadata
 
 - **Author:** TheVaan_
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/tinycasterstats/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/tinycasterstats/)
 
 ## Supported Versions
 

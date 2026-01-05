@@ -7,7 +7,7 @@ Set and manage character notes that are displayed in unit tooltips and /who resu
 ## Metadata
 
 - **Author:** Talryn
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/character-notes/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/character-notes/)
 
 ## Supported Versions
 

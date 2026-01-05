@@ -7,7 +7,7 @@ Displays your quests for quick viewing.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/monkeyquest/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/monkeyquest/)
 
 ## Supported Versions
 

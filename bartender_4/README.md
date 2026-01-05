@@ -7,7 +7,7 @@ Bartender 4 is a full ActionBar replacement mod.
 ## Metadata
 
 - **Author:** Nevcairiel
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/bartender-4/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/bartender-4/)
 
 ## Supported Versions
 

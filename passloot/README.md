@@ -7,7 +7,7 @@ Auto roll greed, need, pass or manually roll on items.
 ## Metadata
 
 - **Author:** Odlaw
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/passloot/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/passloot/)
 
 ## Supported Versions
 

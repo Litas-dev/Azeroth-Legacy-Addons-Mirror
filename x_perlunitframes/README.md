@@ -7,7 +7,7 @@ Replaces the normal unit, party, target, pet frames and adds target-of-target.
 ## Metadata
 
 - **Author:** MysticalOS
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/x-perlunitframes/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/x-perlunitframes/)
 
 ## Supported Versions
 

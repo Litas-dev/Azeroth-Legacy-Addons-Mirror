@@ -7,7 +7,7 @@ Ludwig is an item link database addon that was originally based on GetLink.
 ## Metadata
 
 - **Author:** jaliborc
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/ludwig/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/ludwig/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Helping you see clearer
 ## Metadata
 
 - **Author:** cca220v
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/vendorbuy/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/vendorbuy/)
 
 ## Supported Versions
 

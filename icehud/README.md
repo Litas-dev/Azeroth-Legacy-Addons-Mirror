@@ -7,7 +7,7 @@ IceHUD is a highly configurable and customizable HUD addon.
 ## Metadata
 
 - **Author:** Parnic
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/icehud/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/icehud/)
 
 ## Supported Versions
 

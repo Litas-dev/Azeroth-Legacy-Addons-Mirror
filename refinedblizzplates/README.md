@@ -5,7 +5,7 @@ RefinedBlizzPlates is a lightweight nameplates addon.
 ## Metadata
 
 - **Author:** Khal
-- **Source:** [Original Link](https://github.com/KhalGH/RefinedBlizzPlates-WotLK)
+- **Source:** [Original Link](https://github.com/KhalGH/RefinedBlizzPlates-3.3.5)
 
 ## Supported Versions
 

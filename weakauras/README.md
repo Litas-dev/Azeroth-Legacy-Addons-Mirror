@@ -5,7 +5,7 @@ A powerful, comprehensive utility for displaying graphics and information based 
 ## Metadata
 
 - **Author:** NoM0Re
-- **Source:** [Original Link](https://github.com/NoM0Re/WeakAuras-WotLK)
+- **Source:** [Original Link](https://github.com/NoM0Re/WeakAuras-3.3.5)
 
 ## Supported Versions
 

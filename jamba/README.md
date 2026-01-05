@@ -7,7 +7,7 @@ Jamba
 ## Metadata
 
 - **Author:** Blossom_Ebony
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/jamba/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/jamba/)
 
 ## Supported Versions
 

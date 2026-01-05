@@ -7,7 +7,7 @@ Flash an ability&#039;s icon in the middle of the screen when it comes off coold
 ## Metadata
 
 - **Author:** Freki
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/doom-cooldownpulse/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/doom-cooldownpulse/)
 
 ## Supported Versions
 

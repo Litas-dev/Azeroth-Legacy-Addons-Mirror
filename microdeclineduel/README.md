@@ -7,7 +7,7 @@ Minimalistic Addon to decline duel requests.
 ## Metadata
 
 - **Author:** tehKD
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/microdeclineduel/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/microdeclineduel/)
 
 ## Supported Versions
 

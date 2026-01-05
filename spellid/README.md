@@ -7,7 +7,7 @@ Adds IDs to the ingame tooltips.
 ## Metadata
 
 - **Author:** silv3rwind
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/spellid/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/spellid/)
 
 ## Supported Versions
 

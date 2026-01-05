@@ -7,7 +7,7 @@ Tracks rolls and list them so you can report to guild, party, raid or self.
 ## Metadata
 
 - **Author:** Nitearrow01
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/rolltracker/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/rolltracker/)
 
 ## Supported Versions
 

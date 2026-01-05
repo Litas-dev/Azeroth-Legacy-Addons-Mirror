@@ -7,7 +7,7 @@ Lightweight general purpose chat enhancement collection.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/chatmod/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/chatmod/)
 
 ## Supported Versions
 

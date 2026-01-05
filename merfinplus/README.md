@@ -7,7 +7,7 @@ Inserts Merfin media into LibSharedMedia&#039;s storage.
 ## Metadata
 
 - **Author:** Merfin
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/merfinplus/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/merfinplus/)
 
 ## Supported Versions
 

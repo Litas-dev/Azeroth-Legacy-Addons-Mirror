@@ -7,7 +7,7 @@ An improved window for your tradeskills.
 ## Metadata
 
 - **Author:** Slarti
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/advanced-trade-skill-window/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/advanced-trade-skill-window/)
 
 ## Supported Versions
 

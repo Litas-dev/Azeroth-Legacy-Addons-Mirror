@@ -7,7 +7,7 @@ QuickMark allows you to set the raid target icon of units quickly.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/quickmark/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/quickmark/)
 
 ## Supported Versions
 

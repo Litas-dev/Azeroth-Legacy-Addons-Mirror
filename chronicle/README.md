@@ -7,7 +7,7 @@ An in-game note taking mod, shared between all characters on an account.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/chronicle/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/chronicle/)
 
 ## Supported Versions
 

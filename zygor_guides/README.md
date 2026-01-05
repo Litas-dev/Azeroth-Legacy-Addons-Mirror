@@ -5,7 +5,7 @@ Multi-purpose leveling guide and talents viewer.
 ## Metadata
 
 - **Author:** ErebusAres
-- **Source:** [Original Link](https://github.com/ErebusAres/ZygorGuidesPlus_3.3.5a-WOTLK)
+- **Source:** [Original Link](https://github.com/ErebusAres/ZygorGuidesPlus_3.3.5a-3.3.5)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Memorize the last few lines from chat - and post them into chat on login! (or UI
 ## Metadata
 
 - **Author:** watchout_cf
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/short-term-memory/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/short-term-memory/)
 
 ## Supported Versions
 

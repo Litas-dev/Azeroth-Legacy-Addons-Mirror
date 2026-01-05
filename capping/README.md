@@ -7,7 +7,7 @@ Battleground timers and other goodies.
 ## Metadata
 
 - **Author:** funkydude
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/capping/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/capping/)
 
 ## Supported Versions
 

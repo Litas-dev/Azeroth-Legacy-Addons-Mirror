@@ -7,7 +7,7 @@ Monitors the chat channels for Looking For requests.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/lfmonitor/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/lfmonitor/)
 
 ## Supported Versions
 

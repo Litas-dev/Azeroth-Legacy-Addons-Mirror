@@ -7,7 +7,7 @@ Details about foods, beverages, elixirs, potions, bandages and flasks.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/all-you-can-eat/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/all-you-can-eat/)
 
 ## Supported Versions
 

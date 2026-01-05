@@ -7,7 +7,7 @@ TurnInEverything automatically turns in all completed quests, pasting any progre
 ## Metadata
 
 - **Author:** _ForgeUser1286272
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/turnineverything/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/turnineverything/)
 
 ## Supported Versions
 

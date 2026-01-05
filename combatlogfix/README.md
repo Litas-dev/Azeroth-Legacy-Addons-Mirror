@@ -7,7 +7,7 @@ Keeps the combat log from breaking without munging it completely
 ## Metadata
 
 - **Author:** Schaka
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/combatlogfix/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/combatlogfix/)
 
 ## Supported Versions
 

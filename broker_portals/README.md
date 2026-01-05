@@ -7,7 +7,7 @@ Provides access to all Portal and Teleport spells on right click of one button.
 ## Metadata
 
 - **Author:** artscout375
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/broker_portals/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/broker_portals/)
 
 ## Supported Versions
 

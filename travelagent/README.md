@@ -7,7 +7,7 @@ Gives detailed descriptions of particular localities, as zones or instances, and
 ## Metadata
 
 - **Author:** Torhal
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/travelagent/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/travelagent/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ BiS-Tooltip - is an add-on providing in-game information about best in slot item
 ## Metadata
 
 - **Author:** Hellixoid
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/bis-tooltip/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/bis-tooltip/)
 
 ## Supported Versions
 

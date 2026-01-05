@@ -7,7 +7,7 @@ Buffwatch++
 ## Metadata
 
 - **Author:** Pupp3h
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/buffwatch/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/buffwatch/)
 
 ## Supported Versions
 

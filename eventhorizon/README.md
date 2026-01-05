@@ -7,7 +7,7 @@ EventHorizon displays all of your class&#039;s rotational abilities on a common 
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/eventhorizon/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/eventhorizon/)
 
 ## Supported Versions
 

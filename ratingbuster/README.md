@@ -7,7 +7,7 @@ Item stat breakdown, analysis and comparison.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/ratingbuster/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/ratingbuster/)
 
 ## Supported Versions
 

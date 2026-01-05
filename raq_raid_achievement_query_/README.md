@@ -7,7 +7,7 @@ Shows achievements needed and completed in the raid/party
 ## Metadata
 
 - **Author:** _ForgeUser2265545
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/raq-raid-achievement-query/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/raq-raid-achievement-query/)
 
 ## Supported Versions
 

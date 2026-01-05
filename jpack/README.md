@@ -7,7 +7,7 @@ Quick (re)sort out your items in your bags/bank/guildbank.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/jpack/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/jpack/)
 
 ## Supported Versions
 

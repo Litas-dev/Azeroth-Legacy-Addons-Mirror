@@ -7,7 +7,7 @@ Keybinding UI for Items, Spells and Macros.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/bindpad/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/bindpad/)
 
 ## Supported Versions
 

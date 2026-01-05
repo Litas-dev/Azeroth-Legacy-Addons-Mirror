@@ -7,7 +7,7 @@ Plays sounds upon making progress on quest objectives
 ## Metadata
 
 - **Author:** cybermind
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/questnoise/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/questnoise/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Loot Council is a new mod designed to help loot councils with a solid voting int
 ## Metadata
 
 - **Author:** Blacksen
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/lootcouncillite/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/lootcouncillite/)
 
 ## Supported Versions
 

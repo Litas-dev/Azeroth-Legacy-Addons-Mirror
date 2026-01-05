@@ -7,7 +7,7 @@ Play Texas Holdem when you are bored
 ## Metadata
 
 - **Author:** Gendi
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/texas-holdem/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/texas-holdem/)
 
 ## Supported Versions
 

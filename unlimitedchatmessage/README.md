@@ -7,7 +7,7 @@ Lets you paste long msgs into chat by spliting msg into multiple outing msgs.
 ## Metadata
 
 - **Author:** Zwixx
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/unlimitedchatmessage/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/unlimitedchatmessage/)
 
 ## Supported Versions
 

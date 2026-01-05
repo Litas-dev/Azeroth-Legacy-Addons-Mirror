@@ -7,7 +7,7 @@ EasyCopy
 ## Metadata
 
 - **Author:** _ForgeUser55723
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/easycopy/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/easycopy/)
 
 ## Supported Versions
 

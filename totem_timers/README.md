@@ -7,7 +7,7 @@ Helps shamans manage their totems, shields and weapon buffs.
 ## Metadata
 
 - **Author:** Zulah
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/totem-timers/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/totem-timers/)
 
 ## Supported Versions
 

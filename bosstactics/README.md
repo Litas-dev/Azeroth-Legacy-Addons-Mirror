@@ -7,7 +7,7 @@ Make it easy to explain bosses in Raids.
 ## Metadata
 
 - **Author:** _ForgeUser1194774
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/bosstactics/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/bosstactics/)
 
 ## Supported Versions
 

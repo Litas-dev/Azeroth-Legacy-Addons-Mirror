@@ -7,7 +7,7 @@ Elemental shaman spell rotation helper.
 ## Metadata
 
 - **Author:** Taracque
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/elementarist/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/elementarist/)
 
 ## Supported Versions
 

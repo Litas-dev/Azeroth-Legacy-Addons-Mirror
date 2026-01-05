@@ -7,7 +7,7 @@ KkthnxUI is a simplistic user interface addon.
 ## Metadata
 
 - **Author:** Mr_Rosh
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/kkthnxui/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/kkthnxui/)
 
 ## Supported Versions
 

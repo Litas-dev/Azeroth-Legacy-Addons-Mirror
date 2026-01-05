@@ -7,7 +7,7 @@ Allows you to filter the current merchant window items.
 ## Metadata
 
 - **Author:** yssaril
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/goblinvendorfilter/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/goblinvendorfilter/)
 
 ## Supported Versions
 

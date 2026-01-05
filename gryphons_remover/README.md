@@ -7,7 +7,7 @@ Simply removes the Gryphons from your Buttonbar
 ## Metadata
 
 - **Author:** tehKD
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/gryphons-remover/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/gryphons-remover/)
 
 ## Supported Versions
 

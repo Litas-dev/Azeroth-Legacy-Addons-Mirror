@@ -7,7 +7,7 @@ Easily mail friends, guild members, alts and others
 ## Metadata
 
 - **Author:** Jebus905
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/jebusmail/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/jebusmail/)
 
 ## Supported Versions
 

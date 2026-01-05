@@ -7,7 +7,7 @@ A simple Add-on that rings when you hover or target an enemy healer.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/healers-have-to-die/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/healers-have-to-die/)
 
 ## Supported Versions
 

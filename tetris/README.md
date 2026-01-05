@@ -7,7 +7,7 @@ Play Tetris when you are bored.
 ## Metadata
 
 - **Author:** Magicmewse
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/tetris/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/tetris/)
 
 ## Supported Versions
 

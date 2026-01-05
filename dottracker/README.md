@@ -7,7 +7,7 @@ Tracks if the target does NOT have the tracked DOT.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/dottracker/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/dottracker/)
 
 ## Supported Versions
 

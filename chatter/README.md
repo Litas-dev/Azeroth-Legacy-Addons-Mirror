@@ -7,7 +7,7 @@ Lightweight Chat Improvements
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/chatter/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/chatter/)
 
 ## Supported Versions
 

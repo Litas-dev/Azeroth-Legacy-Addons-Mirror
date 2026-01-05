@@ -7,7 +7,7 @@ Notifications about cooldowns, buffs, etc.
 ## Metadata
 
 - **Author:** orbenn
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/tellmewhen/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/tellmewhen/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ A debuff tracker, created for Feral Druids.
 ## Metadata
 
 - **Author:** MeisBarry
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/badkitty/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/badkitty/)
 
 ## Supported Versions
 

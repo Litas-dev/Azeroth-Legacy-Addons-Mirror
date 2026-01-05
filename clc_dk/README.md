@@ -7,7 +7,7 @@ This is a mod designed to put all the neccessary DK information together.
 ## Metadata
 
 - **Author:** Nu7a
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/clc-dk/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/clc-dk/)
 
 ## Supported Versions
 

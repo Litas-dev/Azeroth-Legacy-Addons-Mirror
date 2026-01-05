@@ -7,7 +7,7 @@ Shows cooldowns on a single bar.
 ## Metadata
 
 - **Author:** totalpackage
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/coolline/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/coolline/)
 
 ## Supported Versions
 

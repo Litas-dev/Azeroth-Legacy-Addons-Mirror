@@ -7,7 +7,7 @@ A little tool for a quick recommendation of zones at your level.
 ## Metadata
 
 - **Author:** Jehris
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/where-to-now/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/where-to-now/)
 
 ## Supported Versions
 

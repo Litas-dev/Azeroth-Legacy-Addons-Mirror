@@ -7,7 +7,7 @@ Player XP Bar
 ## Metadata
 
 - **Author:** Kharthus
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/player-xp-bar/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/player-xp-bar/)
 
 ## Supported Versions
 

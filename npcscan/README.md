@@ -7,7 +7,7 @@ Scans NPCs around you for rare ones.
 ## Metadata
 
 - **Author:** Torhal
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/npcscan/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/npcscan/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Show your target&#039;s arena experience.
 ## Metadata
 
 - **Author:** Cespz
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/expshow/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/expshow/)
 
 ## Supported Versions
 

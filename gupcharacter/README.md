@@ -7,7 +7,7 @@ GupCharacter makes the original blizard frame a bit bigger.
 ## Metadata
 
 - **Author:** Gupp
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/gupcharacter/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/gupcharacter/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ A lightweight Minimap, with a sleek look &amp; custom imagery.
 ## Metadata
 
 - **Author:** _ForgeUser2686346
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/wmmap/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/wmmap/)
 
 ## Supported Versions
 

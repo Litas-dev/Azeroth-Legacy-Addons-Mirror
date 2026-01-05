@@ -7,7 +7,7 @@ Turn your minimap into a hud for farming ore / herb.
 ## Metadata
 
 - **Author:** CodeRedLin
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/farmhud/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/farmhud/)
 
 ## Supported Versions
 

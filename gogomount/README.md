@@ -7,7 +7,7 @@ One-key solution for mounting/dismounting, supports spells, shapeshifting.
 ## Metadata
 
 - **Author:** tiker
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/gogomount/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/gogomount/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Allows you to modify the size of the rendered 3D area of the screen with texture
 ## Metadata
 
 - **Author:** sunn6
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/sunn-viewport-art/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/sunn-viewport-art/)
 
 ## Supported Versions
 

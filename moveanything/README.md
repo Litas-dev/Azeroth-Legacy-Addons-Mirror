@@ -7,7 +7,7 @@ MoveAnything enables you to move, scale and hide screen elements.
 ## Metadata
 
 - **Author:** VincentSDSH
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/moveanything/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/moveanything/)
 
 ## Supported Versions
 

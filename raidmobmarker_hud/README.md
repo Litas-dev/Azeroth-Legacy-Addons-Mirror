@@ -7,7 +7,7 @@ HUD for setting raidsymbols on targets (hotkey)
 ## Metadata
 
 - **Author:** humfras
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/raidmobmarker-hud/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/raidmobmarker-hud/)
 
 ## Supported Versions
 

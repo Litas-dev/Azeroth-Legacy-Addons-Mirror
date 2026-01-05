@@ -7,7 +7,7 @@ Acheron provides an easily readable glimpse into the cause of death for anyone i
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/acheron/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/acheron/)
 
 ## Supported Versions
 

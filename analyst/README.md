@@ -6,8 +6,8 @@ Collects, analyzes and presents information about the virtual economy.
 
 ## Metadata
 
-- **Author:** BethinkWoW
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/analyst/)
+- **Author:** BethinkGame
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/analyst/)
 
 ## Supported Versions
 

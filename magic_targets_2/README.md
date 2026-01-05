@@ -7,7 +7,7 @@ Frames that shows the current targets of the members raid or party.
 ## Metadata
 
 - **Author:** neotron
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/magic-targets-2/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/magic-targets-2/)
 
 ## Supported Versions
 

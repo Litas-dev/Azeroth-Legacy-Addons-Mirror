@@ -7,7 +7,7 @@ Locates vendors who sell recipes in the current region or by profession.
 ## Metadata
 
 - **Author:** Miller
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/recipe-radar/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/recipe-radar/)
 
 ## Supported Versions
 

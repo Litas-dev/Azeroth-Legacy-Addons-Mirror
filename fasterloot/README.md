@@ -7,7 +7,7 @@ Lightweight, non-intrusive AddOn that improves the speed at which you loot conta
 ## Metadata
 
 - **Author:** FoobarZA
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/fasterloot/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/fasterloot/)
 
 ## Supported Versions
 

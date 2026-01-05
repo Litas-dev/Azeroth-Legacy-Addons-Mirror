@@ -7,7 +7,7 @@ Records the state of the auction house for specified items.
 ## Metadata
 
 - **Author:** Torrid01
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/market-watcher/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/market-watcher/)
 
 ## Supported Versions
 

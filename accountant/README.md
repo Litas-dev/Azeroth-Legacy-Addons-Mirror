@@ -7,7 +7,7 @@ Logs on how you are spending your gold.
 ## Metadata
 
 - **Author:** urnati
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/accountant/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/accountant/)
 
 ## Supported Versions
 

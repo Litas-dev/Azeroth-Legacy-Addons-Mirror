@@ -7,7 +7,7 @@ Modifies the inbox into a scrollable inbox, including open all options.
 ## Metadata
 
 - **Author:** Ammo
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/better-inbox/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/better-inbox/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Dynamic bars with buttons that automatically adds items you specify into a butto
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/autobar/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/autobar/)
 
 ## Supported Versions
 

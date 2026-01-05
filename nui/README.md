@@ -7,7 +7,7 @@ nUI
 ## Metadata
 
 - **Author:** spiel2001
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/nui/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/nui/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Sells your junk and reports gains/losses at the vendor!
 ## Metadata
 
 - **Author:** _ForgeUser4426162
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/junkster/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/junkster/)
 
 ## Supported Versions
 

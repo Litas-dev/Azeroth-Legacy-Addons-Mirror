@@ -7,7 +7,7 @@ Scans your Equipment for cumulative item bonuses and sums them up.
 ## Metadata
 
 - **Author:** Mirrikat45
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/bonusscanner-continued/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/bonusscanner-continued/)
 
 ## Supported Versions
 

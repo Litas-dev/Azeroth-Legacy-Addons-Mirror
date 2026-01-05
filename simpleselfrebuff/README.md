@@ -7,7 +7,7 @@ Rebuff yourself with the mousewheel.
 ## Metadata
 
 - **Author:** Stanzilla
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/simpleselfrebuff/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/simpleselfrebuff/)
 
 ## Supported Versions
 

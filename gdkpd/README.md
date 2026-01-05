@@ -7,7 +7,7 @@ Simplifies GDKP bidding processes
 ## Metadata
 
 - **Author:** gallantron
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/gdkpd/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/gdkpd/)
 
 ## Supported Versions
 

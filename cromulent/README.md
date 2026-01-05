@@ -7,7 +7,7 @@ Shows ZoneInfo on the World Map in a perfectly cromulent fashion.
 ## Metadata
 
 - **Author:** phyber
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/cromulent/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/cromulent/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ An Atlas Plugin that displays arena maps.
 ## Metadata
 
 - **Author:** arithmandar
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/atlas-arena/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/atlas-arena/)
 
 ## Supported Versions
 

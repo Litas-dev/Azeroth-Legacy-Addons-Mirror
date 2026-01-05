@@ -7,7 +7,7 @@ A Simple Azeroth Legacy Spam Filter!
 ## Metadata
 
 - **Author:** evonder
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/trade-filter-3/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/trade-filter-3/)
 
 ## Supported Versions
 

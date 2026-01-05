@@ -7,7 +7,7 @@ Move those default blizzard windows.
 ## Metadata
 
 - **Author:** yess
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/blizzmove/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/blizzmove/)
 
 ## Supported Versions
 

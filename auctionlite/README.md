@@ -7,7 +7,7 @@ A lightweight addon that tracks auction house data and improves the auction hous
 ## Metadata
 
 - **Author:** Merial
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/auctionlite/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/auctionlite/)
 
 ## Supported Versions
 

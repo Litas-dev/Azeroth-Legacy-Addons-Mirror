@@ -7,7 +7,7 @@ Speeds up the loading process by enabling addons when they are needed.
 ## Metadata
 
 - **Author:** Ammo
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/addon-loader/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/addon-loader/)
 
 ## Supported Versions
 

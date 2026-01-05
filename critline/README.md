@@ -7,7 +7,7 @@ Saves your normal and critical records and flashes a message if you break the re
 ## Metadata
 
 - **Author:** Lombra
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/critline/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/critline/)
 
 ## Supported Versions
 

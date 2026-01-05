@@ -7,7 +7,7 @@ Genie helps you organize your bags, bank and/or guildbank
 ## Metadata
 
 - **Author:** adjoeu
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/genie/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/genie/)
 
 ## Supported Versions
 

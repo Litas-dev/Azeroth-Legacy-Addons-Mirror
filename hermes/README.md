@@ -5,7 +5,7 @@ Addon that tracks your raid&#039;s cooldowns, and displays them using configurab
 ## Metadata
 
 - **Author:** bkader
-- **Source:** [Original Link](https://github.com/bkader/Hermes-WotLK)
+- **Source:** [Original Link](https://github.com/bkader/Hermes-3.3.5)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ A highly customizable and lightweight casting bar replacement addon, with suppor
 ## Metadata
 
 - **Author:** Aezay
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/azcastbar/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/azcastbar/)
 
 ## Supported Versions
 

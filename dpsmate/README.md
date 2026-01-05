@@ -7,7 +7,7 @@ DPSMate is an advanced combat analyzation tool.
 ## Metadata
 
 - **Author:** Shino
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/dpsmate/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/dpsmate/)
 
 ## Supported Versions
 

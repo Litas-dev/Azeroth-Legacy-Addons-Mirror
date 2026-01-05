@@ -1,11 +1,11 @@
-# WoW Epoch Mob Kill Counter
+# Game Epoch Mob Kill Counter
 
 Displays your kill count for hovered mob in tooltip
 
 ## Metadata
 
 - **Author:** dellmas
-- **Source:** [Original Link](https://github.com/dellmas/WoW-Epoch-Mob-Counter)
+- **Source:** [Original Link](https://github.com/dellmas/Game-Epoch-Mob-Counter)
 
 ## Supported Versions
 

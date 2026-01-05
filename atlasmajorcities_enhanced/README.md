@@ -7,7 +7,7 @@ Major Cities NPC Browser
 ## Metadata
 
 - **Author:** andymon8
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/atlasmajorcities-enhanced/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/atlasmajorcities-enhanced/)
 
 ## Supported Versions
 

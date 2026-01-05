@@ -7,7 +7,7 @@ Floating Combat Text of awesomeness. Caw. It&#039;ll eat your crackers.
 ## Metadata
 
 - **Author:** ckknight
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/parrot/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/parrot/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Checklist and helper for daily quests.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/dailychecklist/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/dailychecklist/)
 
 ## Supported Versions
 

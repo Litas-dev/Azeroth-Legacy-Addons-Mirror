@@ -7,7 +7,7 @@ Rembers which of your chars are saved to which instance.
 ## Metadata
 
 - **Author:** Wig0r
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/am-i-locked-out/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/am-i-locked-out/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Gear check for the Achievements &#039;A Tribute to Dedicated Insanity&#039; and 
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/freak/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/freak/)
 
 ## Supported Versions
 

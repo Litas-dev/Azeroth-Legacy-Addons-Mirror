@@ -7,7 +7,7 @@ OneBank3 will combine all the bank bags into one frame.
 ## Metadata
 
 - **Author:** Kaelten
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/onebank3/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/onebank3/)
 
 ## Supported Versions
 

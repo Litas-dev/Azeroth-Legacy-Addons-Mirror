@@ -7,7 +7,7 @@ Displays class portrait instead of the wow portrait.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/classportraits/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/classportraits/)
 
 ## Supported Versions
 

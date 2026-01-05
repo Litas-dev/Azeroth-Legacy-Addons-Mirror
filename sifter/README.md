@@ -7,7 +7,7 @@ Add lines to ore and gem tooltips that show prospecting sources/results.
 ## Metadata
 
 - **Author:** Starinnia
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/sifter/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/sifter/)
 
 ## Supported Versions
 

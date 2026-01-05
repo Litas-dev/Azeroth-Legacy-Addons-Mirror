@@ -7,7 +7,7 @@ Modular, lightweight, non-intrusive approach to boss encounter warnings.
 ## Metadata
 
 - **Author:** funkydude
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/bigwigs/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/bigwigs/)
 
 ## Supported Versions
 

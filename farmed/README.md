@@ -7,7 +7,7 @@ Farmed
 ## Metadata
 
 - **Author:** Lintydruid
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/farmed/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/farmed/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Move and Hide the Default Totem Bar, Totem Timers, and Hides Blizzard&#039;s Tim
 ## Metadata
 
 - **Author:** Arimis
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/atotembar/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/atotembar/)
 
 ## Supported Versions
 

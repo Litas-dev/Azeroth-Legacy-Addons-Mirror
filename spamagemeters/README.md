@@ -7,7 +7,7 @@ Suppresses chat messages from damage meters and provides single chat-link damage
 ## Metadata
 
 - **Author:** _ForgeUser1373614
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/spamagemeters/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/spamagemeters/)
 
 ## Supported Versions
 

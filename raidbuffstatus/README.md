@@ -7,7 +7,7 @@ Reports consumables, buffs, AFK, mana and many many others but in an intelligent
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/raidbuffstatus/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/raidbuffstatus/)
 
 ## Supported Versions
 

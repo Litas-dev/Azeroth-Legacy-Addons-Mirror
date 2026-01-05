@@ -7,7 +7,7 @@ Got something on your mind? Need help deciding? Let Gnome Sage help you! New &am
 ## Metadata
 
 - **Author:** svartalve
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/gnome-sage/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/gnome-sage/)
 
 ## Supported Versions
 

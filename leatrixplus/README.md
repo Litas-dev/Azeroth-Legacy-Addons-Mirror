@@ -7,7 +7,7 @@ Leatrix Plus includes a ton of features and QoL stuff
 ## Metadata
 
 - **Author:** Leatrix
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/leatrixplus/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/leatrixplus/)
 
 ## Supported Versions
 

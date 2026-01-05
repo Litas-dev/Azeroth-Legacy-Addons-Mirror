@@ -7,7 +7,7 @@ Quest History tracker and shows lists of quests in each category.
 ## Metadata
 
 - **Author:** kandarz
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/everyquest/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/everyquest/)
 
 ## Supported Versions
 

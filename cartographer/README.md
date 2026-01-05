@@ -7,7 +7,7 @@ Addon to manipulate the map.
 ## Metadata
 
 - **Author:** ckknight
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/cartographer/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/cartographer/)
 
 ## Supported Versions
 

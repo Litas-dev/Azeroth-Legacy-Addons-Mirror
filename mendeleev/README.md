@@ -7,7 +7,7 @@ Adds various information based on PeriodicTable to item tooltips.
 ## Metadata
 
 - **Author:** Rabbit
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/mendeleev/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/mendeleev/)
 
 ## Supported Versions
 

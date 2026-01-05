@@ -7,7 +7,7 @@ Used to Automatically Invite players into a group/raid based on what and where t
 ## Metadata
 
 - **Author:** Martag
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/autoinvite-by-martag/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/autoinvite-by-martag/)
 
 ## Supported Versions
 

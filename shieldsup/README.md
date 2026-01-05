@@ -7,7 +7,7 @@ Text-based shaman shield monitor.
 ## Metadata
 
 - **Author:** Phanx
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/shieldsup/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/shieldsup/)
 
 ## Supported Versions
 

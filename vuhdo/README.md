@@ -7,7 +7,7 @@ Raid Frames providing click-heal functionality, buff and debuff control and much
 ## Metadata
 
 - **Author:** Iza
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/vuhdo/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/vuhdo/)
 
 ## Supported Versions
 

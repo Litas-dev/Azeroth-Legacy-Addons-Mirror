@@ -7,7 +7,7 @@ In-game theorycraft. Calculates actual damage/healing based on gear, talents and
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/drdamage/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/drdamage/)
 
 ## Supported Versions
 

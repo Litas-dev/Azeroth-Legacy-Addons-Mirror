@@ -7,7 +7,7 @@ User Interface replacement AddOn for Azeroth Legacy.
 ## Metadata
 
 - **Author:** TukUI Team
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/elvui/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/elvui/)
 
 ## Supported Versions
 

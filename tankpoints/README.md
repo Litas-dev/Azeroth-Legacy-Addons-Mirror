@@ -7,7 +7,7 @@ Calculates and shows your TankPoints in the PaperDall Frame.
 ## Metadata
 
 - **Author:** whitetooth3
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/tankpoints/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/tankpoints/)
 
 ## Supported Versions
 

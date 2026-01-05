@@ -7,7 +7,7 @@ xMerchant improves the Vendor-Interface into an easy and clearly arranged scroll
 ## Metadata
 
 - **Author:** Shantalya
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/xmerchant/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/xmerchant/)
 
 ## Supported Versions
 

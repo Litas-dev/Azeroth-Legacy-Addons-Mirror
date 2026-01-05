@@ -7,7 +7,7 @@ Clothing and weapon management and automated equipment changes.
 ## Metadata
 
 - **Author:** mundocani
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/outfitter/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/outfitter/)
 
 ## Supported Versions
 

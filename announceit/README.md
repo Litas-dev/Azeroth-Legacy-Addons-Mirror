@@ -7,7 +7,7 @@ Simple storage and retrieval access to broadcast your stored messages to Party, 
 ## Metadata
 
 - **Author:** 03giant
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/announceit/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/announceit/)
 
 ## Supported Versions
 

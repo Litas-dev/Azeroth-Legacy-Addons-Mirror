@@ -7,7 +7,7 @@ Visualises healing.
 ## Metadata
 
 - **Author:** xbeeps
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/visualheal/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/visualheal/)
 
 ## Supported Versions
 

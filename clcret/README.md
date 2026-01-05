@@ -7,7 +7,7 @@ Rotation helper for Retribution Paladins.
 ## Metadata
 
 - **Author:** abija
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/clcret/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/clcret/)
 
 ## Supported Versions
 

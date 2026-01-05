@@ -7,7 +7,7 @@ Fishermans Friend is a fishing helper addon.
 ## Metadata
 
 - **Author:** Ammo
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/fishermans-friend/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/fishermans-friend/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ BugSack eases the process of viewing bugs.
 ## Metadata
 
 - **Author:** Funkeh
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/bugsack/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/bugsack/)
 
 ## Supported Versions
 

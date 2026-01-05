@@ -7,7 +7,7 @@ Shaman totem timers and position.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/flototembar/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/flototembar/)
 
 ## Supported Versions
 

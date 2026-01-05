@@ -7,7 +7,7 @@ Ignore more than 49 people, autoshared between your alts.
 ## Metadata
 
 - **Author:** mikk
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/ignoremore/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/ignoremore/)
 
 ## Supported Versions
 

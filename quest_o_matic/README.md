@@ -7,7 +7,7 @@ Auto accepting and turning in quests
 ## Metadata
 
 - **Author:** Miratu
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/quest-o-matic/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/quest-o-matic/)
 
 ## Supported Versions
 

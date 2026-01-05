@@ -7,7 +7,7 @@ Customize the appearance of the chat bubbles.
 ## Metadata
 
 - **Author:** lucifercatnip
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/bubblicious/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/bubblicious/)
 
 ## Supported Versions
 

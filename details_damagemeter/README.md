@@ -7,7 +7,7 @@ Essential tool to impress that chick in your raid.
 ## Metadata
 
 - **Author:** Bunny67
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/details-damagemeter/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/details-damagemeter/)
 
 ## Supported Versions
 

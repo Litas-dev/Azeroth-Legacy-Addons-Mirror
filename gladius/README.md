@@ -7,7 +7,7 @@ Arena enemy unit frames.
 ## Metadata
 
 - **Author:** Proditor
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/gladius/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/gladius/)
 
 ## Supported Versions
 

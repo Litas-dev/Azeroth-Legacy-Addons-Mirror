@@ -7,7 +7,7 @@ Displays statusbars with time left on rogue abilities.
 ## Metadata
 
 - **Author:** Asuah
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/roguepowerbars/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/roguepowerbars/)
 
 ## Supported Versions
 

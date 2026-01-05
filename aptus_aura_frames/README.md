@@ -7,7 +7,7 @@ A lightweight aura display addon.
 ## Metadata
 
 - **Author:** Avis57
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/aptus-aura-frames/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/aptus-aura-frames/)
 
 ## Supported Versions
 

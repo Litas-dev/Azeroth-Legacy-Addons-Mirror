@@ -7,7 +7,7 @@ Automatically accepts and delivers quests for you. Easy to use and highly config
 ## Metadata
 
 - **Author:** jaliborc
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/blitz-quest-automation/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/blitz-quest-automation/)
 
 ## Supported Versions
 

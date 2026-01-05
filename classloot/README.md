@@ -7,7 +7,7 @@ Lets you know whether the item you hover is good for your spec.
 ## Metadata
 
 - **Author:** Pneumatus
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/classloot/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/classloot/)
 
 ## Supported Versions
 

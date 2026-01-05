@@ -7,7 +7,7 @@ Combat / Theorycraft SpellMath lets you identify the highest-value spell rotatio
 ## Metadata
 
 - **Author:** ZoneReaper_
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/spellmath-skill-rotation-optimization-addon/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/spellmath-skill-rotation-optimization-addon/)
 
 ## Supported Versions
 

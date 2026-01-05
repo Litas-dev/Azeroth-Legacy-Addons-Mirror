@@ -7,7 +7,7 @@ Easier way of viewing the item level of your gear.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/showmeilvl/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/showmeilvl/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Shows the name of the current dungeon set to queue even when random.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/dungeonstatus-modified/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/dungeonstatus-modified/)
 
 ## Supported Versions
 

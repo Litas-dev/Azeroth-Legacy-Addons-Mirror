@@ -7,7 +7,7 @@ Helps you customize the default nameplates.
 ## Metadata
 
 - **Author:** Shadowed
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/nameplates-modifier/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/nameplates-modifier/)
 
 ## Supported Versions
 

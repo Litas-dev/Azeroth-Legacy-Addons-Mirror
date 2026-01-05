@@ -7,7 +7,7 @@ A fountain of fonts for your funktastic UI.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/fontain/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/fontain/)
 
 ## Supported Versions
 

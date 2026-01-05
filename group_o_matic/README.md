@@ -7,7 +7,7 @@ Group O Matic makes it easier for the raid leader to set up the group arrangemen
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/group-o-matic/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/group-o-matic/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Pawn calculates scores for items and tells you which one is better for your spec
 ## Metadata
 
 - **Author:** VgerAN
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/pawn/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/pawn/)
 
 ## Supported Versions
 

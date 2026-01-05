@@ -7,7 +7,7 @@ Allows you to add notes to the world map and minimap helping you keep track of i
 ## Metadata
 
 - **Author:** Cortello
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/mapnotes/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/mapnotes/)
 
 ## Supported Versions
 

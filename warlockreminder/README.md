@@ -7,7 +7,7 @@ Provides helpful buff reminders for Warlocks.
 ## Metadata
 
 - **Author:** CKlausi
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/warlockreminder/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/warlockreminder/)
 
 ## Supported Versions
 

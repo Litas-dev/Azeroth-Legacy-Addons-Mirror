@@ -7,7 +7,7 @@ Improve your boring Blizzard UI with prettier unit frames.
 ## Metadata
 
 - **Author:** Shadowed
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/shadowedunitframes/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/shadowedunitframes/)
 
 ## Supported Versions
 

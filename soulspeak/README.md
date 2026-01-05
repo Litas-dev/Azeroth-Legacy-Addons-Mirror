@@ -7,7 +7,7 @@ SoulSpeak
 ## Metadata
 
 - **Author:** Lilih
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/soulspeak/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/soulspeak/)
 
 ## Supported Versions
 

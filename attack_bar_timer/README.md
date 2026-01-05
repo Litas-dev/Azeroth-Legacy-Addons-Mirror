@@ -7,7 +7,7 @@ Displays a progress bar for your attack speed.
 ## Metadata
 
 - **Author:** Udokus
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/attack-bar-timer/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/attack-bar-timer/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Modular and lightweight party/raid frames.
 ## Metadata
 
 - **Author:** erikdubbelboer
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/bunchofbars/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/bunchofbars/)
 
 ## Supported Versions
 

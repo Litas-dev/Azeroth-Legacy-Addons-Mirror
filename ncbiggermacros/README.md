@@ -7,7 +7,7 @@ Allows you to make macro&#039;s up to 1024 characters.
 ## Metadata
 
 - **Author:** nightcracker
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/ncbiggermacros/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/ncbiggermacros/)
 
 ## Supported Versions
 

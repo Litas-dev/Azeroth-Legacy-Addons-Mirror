@@ -7,7 +7,7 @@ Displays duration timers for DoTs/HoTs, cooldowns, and your buffs/debuffs.
 ## Metadata
 
 - **Author:** Asheyla
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/dotimer/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/dotimer/)
 
 ## Supported Versions
 

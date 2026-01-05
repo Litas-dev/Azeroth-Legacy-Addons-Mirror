@@ -7,7 +7,7 @@ Create virtual and audio alerts for any situation in the game.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/power-auras/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/power-auras/)
 
 ## Supported Versions
 

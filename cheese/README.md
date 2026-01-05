@@ -7,7 +7,7 @@ Cataclyms-like spell proc overlays for 3.3.5.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/cheese/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/cheese/)
 
 ## Supported Versions
 

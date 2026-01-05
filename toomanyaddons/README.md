@@ -7,7 +7,7 @@ Addon Manager
 ## Metadata
 
 - **Author:** daxdax006
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/toomanyaddons/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/toomanyaddons/)
 
 ## Supported Versions
 

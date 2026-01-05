@@ -7,7 +7,7 @@ Bayi&#039;s Extended Questlog
 ## Metadata
 
 - **Author:** _ForgeUser1183196
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/bayis-extended-questlog/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/bayis-extended-questlog/)
 
 ## Supported Versions
 

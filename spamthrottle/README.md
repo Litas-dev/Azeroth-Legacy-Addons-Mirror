@@ -7,7 +7,7 @@ Eliminates repeated messages in Trade Chat.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/spamthrottle/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/spamthrottle/)
 
 ## Supported Versions
 

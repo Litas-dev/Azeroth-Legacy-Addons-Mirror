@@ -7,7 +7,7 @@ View bank, inventory, mail, equipped and guild bank contents from any character 
 ## Metadata
 
 - **Author:** Xinhuan
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/bankitems/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/bankitems/)
 
 ## Supported Versions
 

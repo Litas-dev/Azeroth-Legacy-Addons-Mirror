@@ -7,7 +7,7 @@ Mutt (Macro Update Target Tool) provides slash-commands that can patch the prede
 ## Metadata
 
 - **Author:** Tuills
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/mutt-macro-patcher/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/mutt-macro-patcher/)
 
 ## Supported Versions
 

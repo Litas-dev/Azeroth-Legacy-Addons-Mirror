@@ -7,7 +7,7 @@ Tracks rolls and sorts them, allowing raid leaders to announce winners quickly a
 ## Metadata
 
 - **Author:** Razyel
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/loot-hog/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/loot-hog/)
 
 ## Supported Versions
 

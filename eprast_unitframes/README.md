@@ -7,7 +7,7 @@ Upgrade your default Blizzard character frames with better ones with more thickn
 ## Metadata
 
 - **Author:** WbTest2
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/eprast_unitframes/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/eprast_unitframes/)
 
 ## Supported Versions
 

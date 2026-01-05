@@ -7,7 +7,7 @@ Inserts some media into LibSharedMedia&#039;s storage.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/sharedmedia/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/sharedmedia/)
 
 ## Supported Versions
 

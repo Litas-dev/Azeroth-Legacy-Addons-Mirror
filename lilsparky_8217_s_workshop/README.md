@@ -7,7 +7,7 @@ LilSparky&#039;s Workshop mod for Trade Skills.
 ## Metadata
 
 - **Author:** lilsparky
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/lilsparkys-workshop/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/lilsparkys-workshop/)
 
 ## Supported Versions
 

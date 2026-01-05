@@ -7,7 +7,7 @@ Prat is a framework for chat ehancement modules.
 ## Metadata
 
 - **Author:** Sylvanaar
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/prat/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/prat/)
 
 ## Supported Versions
 

@@ -1,6 +1,6 @@
 # Zygor Guides Epoch
 
-Zygor Guide Viewer 3.3.5 port to Project Epoch (Vanilla 1-60 leveling)
+Zygor Guide Viewer 3.3.5 port to Project Epoch (1.12.1 1-60 leveling)
 
 ## Metadata
 

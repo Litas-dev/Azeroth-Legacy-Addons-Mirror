@@ -7,7 +7,7 @@ BetterVendorPrice (Bronzebeard Edition)
 ## Metadata
 
 - **Author:** ZoneReaper_
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/bettervendorprice/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/bettervendorprice/)
 
 ## Supported Versions
 

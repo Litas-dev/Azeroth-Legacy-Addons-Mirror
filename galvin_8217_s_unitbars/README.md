@@ -7,7 +7,7 @@ Displays resource bars that can be moved around.
 ## Metadata
 
 - **Author:** GalvinW
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/galvins-unitbars/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/galvins-unitbars/)
 
 ## Supported Versions
 

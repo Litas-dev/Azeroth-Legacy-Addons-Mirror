@@ -7,7 +7,7 @@ It allows you to manage your addons in game.
 ## Metadata
 
 - **Author:** lucifercatnip
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/addon-control-panel/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/addon-control-panel/)
 
 ## Supported Versions
 

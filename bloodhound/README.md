@@ -7,7 +7,7 @@ An herb and ore gathering add-on with a focus on ease-of-use.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/bloodhound/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/bloodhound/)
 
 ## Supported Versions
 

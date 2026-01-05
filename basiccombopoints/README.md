@@ -7,7 +7,7 @@ Numerical &amp; customizable display of current combo points.
 ## Metadata
 
 - **Author:** funkydude
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/basiccombopoints/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/basiccombopoints/)
 
 ## Supported Versions
 

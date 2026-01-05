@@ -7,7 +7,7 @@ Rotation helper with timeline display.
 ## Metadata
 
 - **Author:** mpstark
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/rotation-watcher/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/rotation-watcher/)
 
 ## Supported Versions
 

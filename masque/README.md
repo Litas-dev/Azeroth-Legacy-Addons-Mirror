@@ -5,7 +5,7 @@ Masque is an add-on for Azeroth Legacy that provides a skinning engine for butto
 ## Metadata
 
 - **Author:** bkader
-- **Source:** [Original Link](https://github.com/bkader/Masque-WoTLK)
+- **Source:** [Original Link](https://github.com/bkader/Masque-3.3.5)
 
 ## Supported Versions
 

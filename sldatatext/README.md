@@ -7,7 +7,7 @@ Modular text-based information tool to relay game-specific information.
 ## Metadata
 
 - **Author:** Taffu
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/sldatatext/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/sldatatext/)
 
 ## Supported Versions
 

@@ -7,7 +7,7 @@ Buff reminders and more.
 ## Metadata
 
 - **Author:** Tekkub
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/cork/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/cork/)
 
 ## Supported Versions
 

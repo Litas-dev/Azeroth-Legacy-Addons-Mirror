@@ -5,7 +5,7 @@ An improved version of Skada Damage Meter
 ## Metadata
 
 - **Author:** bkader
-- **Source:** [Original Link](https://github.com/bkader/Skada-WoTLK)
+- **Source:** [Original Link](https://github.com/bkader/Skada-3.3.5)
 
 ## Supported Versions
 

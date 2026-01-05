@@ -7,7 +7,7 @@ Enables creation of incredibly long macros.
 ## Metadata
 
 - **Author:** hypehuman
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/super-duper-macro/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/super-duper-macro/)
 
 ## Supported Versions
 

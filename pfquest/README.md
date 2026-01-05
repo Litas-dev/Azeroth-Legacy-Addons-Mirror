@@ -7,7 +7,7 @@ pfQuest is a quest helper for 3.3.5
 ## Metadata
 
 - **Author:** shagu
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/pfquest/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/pfquest/)
 
 ## Supported Versions
 

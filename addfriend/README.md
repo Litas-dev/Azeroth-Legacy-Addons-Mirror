@@ -7,7 +7,7 @@ Enhances the player unit dropdown menu, seamlessly integrating options to add Fr
 ## Metadata
 
 - **Author:** fyrye
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/addfriend/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/addfriend/)
 
 ## Supported Versions
 

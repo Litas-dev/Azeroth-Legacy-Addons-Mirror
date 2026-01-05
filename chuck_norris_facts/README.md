@@ -7,7 +7,7 @@ Generates and posts random Chuck Norris facts to a specified chat medium.
 ## Metadata
 
 - **Author:** Ackis
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/chuck-norris-facts/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/chuck-norris-facts/)
 
 ## Supported Versions
 

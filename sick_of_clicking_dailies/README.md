@@ -7,7 +7,7 @@ AutoMagicly clicks though Daily Quests, and Turns them In.
 ## Metadata
 
 - **Author:** orionshocked
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/sick-of-clicking-dailies/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/sick-of-clicking-dailies/)
 
 ## Supported Versions
 

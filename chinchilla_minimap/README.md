@@ -7,7 +7,7 @@ Minimap addon of awesomeness. It&#039;ll nibble your hay pellets.
 ## Metadata
 
 - **Author:** ckknight
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/chinchilla-minimap/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/chinchilla-minimap/)
 
 ## Supported Versions
 

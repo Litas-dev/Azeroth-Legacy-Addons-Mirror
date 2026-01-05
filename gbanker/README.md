@@ -7,7 +7,7 @@ Fast and easy movement of items from and to your (guild) bank.
 ## Metadata
 
 - **Author:** Unknown
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/gbanker/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/gbanker/)
 
 ## Supported Versions
 

@@ -5,7 +5,7 @@ Make your unit frames colored and glorious
 ## Metadata
 
 - **Author:** Macumbafeh
-- **Source:** [Original Link](https://github.com/Macumbafeh/EasyFrames_wotlk)
+- **Source:** [Original Link](https://github.com/Macumbafeh/EasyFrames_3.3.5)
 
 ## Supported Versions
 

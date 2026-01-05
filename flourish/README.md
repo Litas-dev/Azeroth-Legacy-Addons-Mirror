@@ -7,7 +7,7 @@ Flourish displays finished (not yet turned in) quests as part of the current exp
 ## Metadata
 
 - **Author:** _ForgeUser294193
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/flourish/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/flourish/)
 
 ## Supported Versions
 

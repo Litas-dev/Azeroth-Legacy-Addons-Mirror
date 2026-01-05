@@ -7,7 +7,7 @@ Helps you keep track of your CDs and casted abilities.
 ## Metadata
 
 - **Author:** Oldsalt0
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/spellreplay/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/spellreplay/)
 
 ## Supported Versions
 

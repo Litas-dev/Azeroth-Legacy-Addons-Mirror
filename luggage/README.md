@@ -7,7 +7,7 @@ A chest made of sapient pearwood that sorts your inventory for you
 ## Metadata
 
 - **Author:** _ForgeUser7189
-- **Source:** [Original Link](https://warperia.com/addon-wotlk/luggage/)
+- **Source:** [Original Link](https://warperia.com/addon-3.3.5/luggage/)
 
 ## Supported Versions
 
