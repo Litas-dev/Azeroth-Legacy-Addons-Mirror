@@ -17,3 +17,14 @@ Download links point directly to the raw files in this repository.
 ## Contribution
 This mirror is automated. Please do not manually edit files here unless you are fixing a specific metadata issue.
 To add new addons, update the upstream list in the launcher's scraper.
+
+## This repository indexes third-party addons.
+
+Where an addon includes a license that permits redistribution, it is mirrored
+here under that license and remains the property of its author.
+
+Where an addon license is not clearly stated, only a link to the original
+source is provided. No ownership is claimed over any third-party addons.
+
+If you are an author and would like your addon removed or credited differently,
+please open an issue and it will be handled immediately.
